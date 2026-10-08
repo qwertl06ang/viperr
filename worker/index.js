@@ -1,3 +1,4 @@
+import {bridgeIdentity,handleBridge} from './bridge.js';
 const ALBUM_IDS = /* CATALOG_IDS */ [];
 const validIds = new Set(ALBUM_IDS);
 const json = (data, status = 200) => Response.json(data, {status, headers: {'Cache-Control': 'no-store', 'X-Content-Type-Options': 'nosniff'}});
@@ -26,7 +27,7 @@ async function api(request, env) {
   const url = new URL(request.url), path = url.pathname, method = request.method;
   if (!env.DB) throw new HttpError('The archive connection is unavailable. Please try again.', 503);
   // Sites supplies this identity after access checks. Never accept a user ID in request data.
-  const user = request.headers.get('oai-authenticated-user-id');
+  const user = await bridgeIdentity(request, env);
   const publicRead = method === 'GET' && (path === '/api/state' || /^\/api\/playlists\/[0-9a-f-]{36}$/i.test(path));
   if (!user && !publicRead) throw new HttpError('Sign in with ChatGPT to save releases, vote or create a playlist.', 401);
   if (method !== 'GET' && method !== 'HEAD') {
@@ -86,6 +87,11 @@ async function api(request, env) {
   throw new HttpError('This archive action does not exist.', 404);
 }
 export default {async fetch(request, env) {
+  const path = new URL(request.url).pathname;
+  if (path === '/auth/bridge' || ['/api/auth/exchange','/api/auth/logout'].includes(path)) {
+    try { return await handleBridge(request, env); }
+    catch { return json({error:'The sign-in connection is unavailable. Please try again.'},503); }
+  }
   if (!new URL(request.url).pathname.startsWith('/api/')) return env.ASSETS.fetch(request);
   try { return await api(request, env); }
   catch (error) { if (!(error instanceof HttpError)) console.error('Archive request failed', error.message); return json({error: error instanceof HttpError ? error.message : 'Could not connect to the archive. Please try again.'}, error.status || 503); }
