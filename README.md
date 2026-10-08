@@ -1,6 +1,6 @@
 # VIPERR
 
-[Open the public website](https://viperr-archive.adilzhanaliakbar.chatgpt.site)
+[Open the public website](https://viperr-archive.vercel.app)
 
 
 Independent English fan website for Kai Angel and 9mice.
@@ -72,5 +72,21 @@ LMFAO (9mice & Kai Angel): https://www.shazam.com/song/1767963928/lmfao
 LIPSTICK (Kai Angel & 9mice): https://www.shazam.com/es-es/song/1889978893/lipstick
 Nine quoted lyric words total, with attribution and source links in the UI.
 
-Public website: https://viperr-archive.adilzhanaliakbar.chatgpt.site
+Public website: https://viperr-archive.vercel.app
 GitHub source: https://github.com/qwertl06ang/viperr
+
+Vercel deployment
+-----------------
+The public frontend and API gateway run on Vercel Hobby. vercel.json selects
+public/ and api/gateway.js without invoking the Cloudflare build. Set
+VIPERR_PUBLIC_ORIGIN=https://viperr-archive.vercel.app in Vercel and Sites.
+The existing Sites Worker retains D1 data and ChatGPT sign-in. The sign-in
+journey briefly visits the original identity host, then returns to Vercel.
+PKCE S256 + one-use five-minute codes connect the two hosts. Opaque sessions
+last at most 30 days; only hashes are stored. Cookies are Secure/HttpOnly.
+No database password or shared signing secret is embedded in the source.
+
+Run node scripts/test-bridge.mjs after building for isolated bridge checks.
+Pushes to GitHub main deploy the Vercel frontend/API automatically. Worker
+or D1 schema changes also require a Sites backend deployment. The older
+public URL remains available as a compatible entry point.
