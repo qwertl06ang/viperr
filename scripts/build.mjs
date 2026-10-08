@@ -1,0 +1,15 @@
+import {readFile, writeFile, mkdir, cp, rm} from 'node:fs/promises';
+import {fileURLToPath} from 'node:url';
+import path from 'node:path';
+const root = fileURLToPath(new URL('../', import.meta.url)), dist = path.resolve(root, 'dist');
+if (path.dirname(dist) !== path.resolve(root) || path.basename(dist) !== 'dist') throw new Error('Unexpected build directory');
+const catalog = JSON.parse(await readFile(path.join(root, 'viperr-catalog.json'), 'utf8'));
+await rm(dist, {recursive: true, force: true});
+await mkdir(path.join(dist, 'server'), {recursive: true});
+await cp(path.join(root, 'public'), path.join(dist, 'client'), {recursive: true});
+const worker = (await readFile(path.join(root, 'worker/index.js'), 'utf8')).replace('/* CATALOG_IDS */ []', JSON.stringify(catalog.map(a => a.id)));
+await writeFile(path.join(dist, 'server/index.js'), worker);
+await writeFile(path.join(dist, 'server/wrangler.json'), JSON.stringify({name:'viperr', main:'index.js', compatibility_date:'2026-10-01', assets:{directory:'../client', binding:'ASSETS', run_worker_first:['/api/*']}, d1_databases:[{binding:'DB', database_name:'viperr', database_id:'00000000-0000-0000-0000-000000000000', migrations_dir:'../../drizzle'}]},null,2));
+await mkdir(path.join(dist,'.openai'),{recursive:true});
+await cp(path.join(root,'.openai/hosting.json'),path.join(dist,'.openai/hosting.json'));
+console.log(`Built VIPERR: ${catalog.length} releases, static assets and D1 Worker.`);
