@@ -1,0 +1,1111 @@
+{
+  "verifiedDate": "2026-10-08",
+  "scope": "Albums and EPs credited to Kai Angel and joint Kai Angel & 9mice / VIPERR, through 2026-10-08. Solo 9mice supplied separately. Earlier zavet catalog and singles excluded.",
+  "artistSource": "https://music.apple.com/us/artist/kai-angel/1617297110",
+  "catalogCrossCheck": "https://www.shazam.com/artist/kai-angel/1617297110/releases",
+  "albums": [
+    {
+      "id": "kai-shh-bang",
+      "title": "Shh!",
+      "displayTitle": "Shh!",
+      "artist": "Kai Angel",
+      "artistKey": "kai",
+      "type": "Album",
+      "edition": "Original",
+      "releaseDate": "2026-09-11",
+      "year": 2026,
+      "genre": "Alternative Rap",
+      "trackCount": 14,
+      "availableTrackCount": 13,
+      "durationText": "13 songs, 25 minutes",
+      "copyright": "℗ 2026 angel",
+      "url": "https://music.apple.com/us/album/shh/6810597974",
+      "sourceURL": "https://music.apple.com/us/album/shh/6810597974",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/2e/c5/152ec578-1289-daf7-0d50-1b0de257a5df/cover.jpg/1200x1200bb.jpg",
+      "coverFile": "C:\\Users\\user\\Documents\\Codex\\2026-10-08\\x20-2\\work\\assets\\viperr-albums\\kai-shh-bang.jpg",
+      "artworkOriginalDimensions": {
+        "width": 3000,
+        "height": 3000
+      },
+      "tracks": [
+        {
+          "number": 2,
+          "title": "chateau",
+          "duration": "PT1M56S",
+          "url": "https://music.apple.com/us/song/chateau/6810598114",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2c/c7/81/2cc7817c-2eb0-b8a2-849c-eb1f74fe9770/mzaf_15041993206764655249.plus.aac.p.m4a"
+        },
+        {
+          "number": 3,
+          "title": "gladiator",
+          "duration": "PT1M43S",
+          "url": "https://music.apple.com/us/song/gladiator/6810598127",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1e/95/0d/1e950d9f-ad9a-b950-56a8-e0afd31d8b29/mzaf_7900903026548749537.plus.aac.p.m4a"
+        },
+        {
+          "number": 4,
+          "title": "OFFICE SONG",
+          "duration": "PT1M42S",
+          "url": "https://music.apple.com/us/song/office-song/6810598133",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0d/71/70/0d7170c1-5e2f-932b-d425-5ad2a762049a/mzaf_9844889605164058304.plus.aac.p.m4a"
+        },
+        {
+          "number": 5,
+          "title": "david bowie",
+          "duration": "PT1M33S",
+          "url": "https://music.apple.com/us/song/david-bowie/6810598294",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9f/fa/00/9ffa0008-b56c-9dc5-c189-d26e9c67bdfe/mzaf_6204189597533312329.plus.aac.p.m4a"
+        },
+        {
+          "number": 6,
+          "title": "having fun",
+          "duration": "PT2M15S",
+          "url": "https://music.apple.com/us/song/having-fun/6810598296",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/16/76/1e/16761e89-7d7e-0d76-dfe4-2c6232a4158a/mzaf_3481821266248955004.plus.aac.p.m4a"
+        },
+        {
+          "number": 7,
+          "title": "Leopard Red",
+          "duration": "PT1M54S",
+          "url": "https://music.apple.com/us/song/leopard-red/6810598304",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/24/28/93242813-b7ce-467a-4323-8ab71427b3f3/mzaf_14857279067250568103.plus.aac.p.m4a"
+        },
+        {
+          "number": 8,
+          "title": "Sting",
+          "duration": "PT2M12S",
+          "url": "https://music.apple.com/us/song/sting/6810598315",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7a/ad/2b/7aad2ba0-ee9e-79cd-917b-2c9adba25aa6/mzaf_10106599502448682416.plus.aac.p.m4a"
+        },
+        {
+          "number": 9,
+          "title": "ew",
+          "duration": "PT1M45S",
+          "url": "https://music.apple.com/us/song/ew/6810598441",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d5/02/38/d502385a-e247-8572-713f-5e7814efc6e7/mzaf_1015799365474598558.plus.aac.p.m4a"
+        },
+        {
+          "number": 10,
+          "title": "STFU!",
+          "duration": "PT2M54S",
+          "url": "https://music.apple.com/us/song/stfu/6810598446",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c8/3f/79/c83f7940-0744-0060-f931-4be55cb4c4bf/mzaf_660205592779068628.plus.aac.ep.m4a"
+        },
+        {
+          "number": 11,
+          "title": "1971 Rockstar",
+          "duration": "PT1M44S",
+          "url": "https://music.apple.com/us/song/1971-rockstar/6810598454",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/4e/46/114e46e9-4711-b788-4a98-7b536534bd7c/mzaf_394940250278810571.plus.aac.p.m4a"
+        },
+        {
+          "number": 12,
+          "title": "does it hurt?",
+          "duration": "PT1M43S",
+          "url": "https://music.apple.com/us/song/does-it-hurt/6810598459",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a2/a3/73/a2a3733b-f1f6-be97-5e6a-bb612e127e27/mzaf_17327060837446752808.plus.aac.p.m4a"
+        },
+        {
+          "number": 13,
+          "title": "Madam 2",
+          "duration": "PT1M49S",
+          "url": "https://music.apple.com/us/song/madam-2/6810598617",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/90/4d/f9/904df976-58a5-cc73-ee0f-769295cfcd4c/mzaf_5868544909369192351.plus.aac.p.m4a"
+        },
+        {
+          "number": 14,
+          "title": "chrome hearts",
+          "duration": "PT2M15S",
+          "url": "https://music.apple.com/us/song/chrome-hearts/6810598626",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/83/1a/67/831a67d4-3f52-fbbe-5f9f-3718ac1751b9/mzaf_10351573543797918493.plus.aac.p.m4a"
+        }
+      ],
+      "description": "Released one week after Shh..., on September 11, 2026. Includes 'chateau', 'gladiator' and 'Madam 2'.",
+      "notes": [
+        "Apple Music header reports 14 tracks, while its public tracklist exposes only tracks 2–14 (13 tracks). Track 1 is unavailable in this storefront response; its title is not guessed."
+      ],
+      "tracklistComplete": false
+    },
+    {
+      "id": "kai-shh-dots",
+      "title": "Shh...",
+      "displayTitle": "Shh...",
+      "artist": "Kai Angel",
+      "artistKey": "kai",
+      "type": "Album",
+      "edition": "Original",
+      "releaseDate": "2026-09-04",
+      "year": 2026,
+      "genre": "Indie Pop",
+      "trackCount": 14,
+      "availableTrackCount": 14,
+      "durationText": "14 songs, 40 minutes",
+      "copyright": "℗ 2026 angel",
+      "url": "https://music.apple.com/us/album/shh/6808162752",
+      "sourceURL": "https://music.apple.com/us/album/shh/6808162752",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/3a/c1/193ac1d5-9361-32bc-011e-2bf91ff52254/cover.jpg/1200x1200bb.jpg",
+      "coverFile": "C:\\Users\\user\\Documents\\Codex\\2026-10-08\\x20-2\\work\\assets\\viperr-albums\\kai-shh-dots.jpg",
+      "artworkOriginalDimensions": {
+        "width": 3000,
+        "height": 3000
+      },
+      "tracks": [
+        {
+          "number": 1,
+          "title": "TV",
+          "duration": "PT3M8S",
+          "url": "https://music.apple.com/us/song/tv/6808162758",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/25/09/0b2509ea-af5d-7280-5dc8-fb15f96e63b6/mzaf_13117758857320844692.plus.aac.ep.m4a"
+        },
+        {
+          "number": 2,
+          "title": "Mulholland",
+          "duration": "PT2M38S",
+          "url": "https://music.apple.com/us/song/mulholland/6808163094",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/65/51/58/65515805-de38-fd54-1cb0-a1ccc2c5ce5e/mzaf_15921400278481236108.plus.aac.ep.m4a"
+        },
+        {
+          "number": 3,
+          "title": "evil icon baby",
+          "duration": "PT2M21S",
+          "url": "https://music.apple.com/us/song/evil-icon-baby/6808163109",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3d/79/71/3d797190-db61-f1ee-1603-99a8bb18e416/mzaf_13914221765986780094.plus.aac.p.m4a"
+        },
+        {
+          "number": 4,
+          "title": "pleasure",
+          "duration": "PT3M17S",
+          "url": "https://music.apple.com/us/song/pleasure/6808163112",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ab/e6/76/abe6769a-b98b-4acd-e883-86aff09399cd/mzaf_11534524509739835169.plus.aac.ep.m4a"
+        },
+        {
+          "number": 5,
+          "title": "NAKED",
+          "duration": "PT3M27S",
+          "url": "https://music.apple.com/us/song/naked/6808163121",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f9/23/24/f9232467-94f9-1d4e-ee9a-baca9248fc7b/mzaf_4777095636718548482.plus.aac.ep.m4a"
+        },
+        {
+          "number": 6,
+          "title": "Razorblade kiss",
+          "duration": "PT3M9S",
+          "url": "https://music.apple.com/us/song/razorblade-kiss/6808163341",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6c/d7/23/6cd7234f-1b59-36dc-3005-595072b32505/mzaf_14758859159133380382.plus.aac.ep.m4a"
+        },
+        {
+          "number": 7,
+          "title": "Pretty Girls",
+          "duration": "PT2M57S",
+          "url": "https://music.apple.com/us/song/pretty-girls/6808163349",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/af/11/83/af1183f5-46a8-cdc2-c3fd-129fce43c703/mzaf_3453153102592152333.plus.aac.ep.m4a"
+        },
+        {
+          "number": 8,
+          "title": "andy warhol",
+          "duration": "PT2M56S",
+          "url": "https://music.apple.com/us/song/andy-warhol/6808163353",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/92/1c/cb/921ccbcd-8a6d-0dff-7e3e-2ed257da3fa9/mzaf_11460480507974952328.plus.aac.ep.m4a"
+        },
+        {
+          "number": 9,
+          "title": "1 more",
+          "duration": "PT2M2S",
+          "url": "https://music.apple.com/us/song/1-more/6808163576",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/74/5e/03/745e03e3-d436-dd9d-c695-950c1dca1c8c/mzaf_9334140627654976631.plus.aac.p.m4a"
+        },
+        {
+          "number": 10,
+          "title": "BABYLON",
+          "duration": "PT2M26S",
+          "url": "https://music.apple.com/us/song/babylon/6808163586",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/88/03/e3/8803e32f-30d7-e9d8-48e5-3015f0e29607/mzaf_1411834181180772767.plus.aac.p.m4a"
+        },
+        {
+          "number": 11,
+          "title": "le royal monceau gatsby séance",
+          "duration": "PT2M21S",
+          "url": "https://music.apple.com/us/song/le-royal-monceau-gatsby-s%C3%A9ance/6808163594",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fd/0e/76/fd0e763f-cef5-7651-f567-5354c2a6c0f3/mzaf_14567871469395417830.plus.aac.p.m4a"
+        },
+        {
+          "number": 12,
+          "title": "Limousine Music",
+          "duration": "PT3M8S",
+          "url": "https://music.apple.com/us/song/limousine-music/6808163852",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/31/c5/19/31c5190b-4b72-7500-a09a-5b29995fb4b0/mzaf_4361158050947416543.plus.aac.ep.m4a"
+        },
+        {
+          "number": 13,
+          "title": "yes i glow in the dark but also i am the dark",
+          "duration": "PT3M2S",
+          "url": "https://music.apple.com/us/song/yes-i-glow-in-the-dark-but-also-i-am-the-dark/6808163871",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/78/22/7d/78227d72-5960-36da-e98f-18eff476003b/mzaf_15540082541222124301.plus.aac.ep.m4a"
+        },
+        {
+          "number": 14,
+          "title": "Flowers",
+          "duration": "PT3M24S",
+          "url": "https://music.apple.com/us/song/flowers/6808163876",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/80/95/e8/8095e8f7-8d32-6889-5a14-ac188a18c8ed/mzaf_12845528189622539063.plus.aac.ep.m4a"
+        }
+      ],
+      "description": "The September 4, 2026 release, featuring 'andy warhol', 'BABYLON' and 'Pretty Girls'.",
+      "notes": [],
+      "tracklistComplete": true
+    },
+    {
+      "id": "kai-damage",
+      "title": "damage",
+      "displayTitle": "damage",
+      "artist": "Kai Angel",
+      "artistKey": "kai",
+      "type": "Album",
+      "edition": "Original",
+      "releaseDate": "2025-09-05",
+      "year": 2025,
+      "genre": "Hip-Hop/Rap",
+      "trackCount": 17,
+      "availableTrackCount": 17,
+      "durationText": "17 songs, 38 minutes",
+      "copyright": "℗ 2025 Viperr",
+      "url": "https://music.apple.com/us/album/damage/1836427637",
+      "sourceURL": "https://music.apple.com/us/album/damage/1836427637",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/d3/3d/06d33da3-675a-3e7d-79a4-ef2eb923e4c5/cover.jpg/1200x1200bb.jpg",
+      "coverFile": "C:\\Users\\user\\Documents\\Codex\\2026-10-08\\x20-2\\work\\assets\\viperr-albums\\kai-damage.jpg",
+      "artworkOriginalDimensions": {
+        "width": 3000,
+        "height": 3000
+      },
+      "tracks": [
+        {
+          "number": 1,
+          "title": "are you happy",
+          "duration": "PT3M12S",
+          "url": "https://music.apple.com/us/song/are-you-happy/1836427643",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0a/7f/cf/0a7fcf0a-f1fd-7688-1f82-23161a67eb0d/mzaf_4611604271566140114.plus.aac.ep.m4a"
+        },
+        {
+          "number": 2,
+          "title": "im all blessed the f**k up",
+          "duration": "PT3M35S",
+          "url": "https://music.apple.com/us/song/im-all-blessed-the-f-k-up/1836427645",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fe/01/7d/fe017d1b-a27a-aeb1-dcc5-aa9a1f253455/mzaf_3389674530010242606.plus.aac.ep.m4a"
+        },
+        {
+          "number": 3,
+          "title": "basement",
+          "duration": "PT2M14S",
+          "url": "https://music.apple.com/us/song/basement/1836427647",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/77/61/23/77612362-e0d3-e1cb-8faa-b5eab0ff5651/mzaf_11233925701938758273.plus.aac.p.m4a"
+        },
+        {
+          "number": 4,
+          "title": "body double",
+          "duration": "PT1M52S",
+          "url": "https://music.apple.com/us/song/body-double/1836427648",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cc/bb/65/ccbb65f0-7307-9e81-0c08-c6c6f8b60146/mzaf_11031374031957861398.plus.aac.p.m4a"
+        },
+        {
+          "number": 5,
+          "title": "mirrors",
+          "duration": "PT2M12S",
+          "url": "https://music.apple.com/us/song/mirrors/1836427651",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d3/66/78/d36678af-e4fd-8c3e-1946-05ff923b7a59/mzaf_8180274592400091993.plus.aac.p.m4a"
+        },
+        {
+          "number": 6,
+          "title": "chelsea smile",
+          "duration": "PT2M15S",
+          "url": "https://music.apple.com/us/song/chelsea-smile/1836427652",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/df/aa/bf/dfaabf2b-47fa-3579-6d8e-77938fa09066/mzaf_4404355988955438043.plus.aac.p.m4a"
+        },
+        {
+          "number": 7,
+          "title": "444",
+          "duration": "PT2M15S",
+          "url": "https://music.apple.com/us/song/444/1836427657",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7c/29/fe/7c29fef1-acb3-d9b4-7ef8-518edb5a53d6/mzaf_1332786428000389348.plus.aac.p.m4a"
+        },
+        {
+          "number": 8,
+          "title": "parasocial freestyle",
+          "duration": "PT1M50S",
+          "url": "https://music.apple.com/us/song/parasocial-freestyle/1836428110",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/07/f5/b9/07f5b954-bcf8-7f27-0b6a-8471524e59d7/mzaf_15694113811625239002.plus.aac.p.m4a"
+        },
+        {
+          "number": 9,
+          "title": "designer's paradise",
+          "duration": "PT2M2S",
+          "url": "https://music.apple.com/us/song/designers-paradise/1836428115",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d1/e3/a2/d1e3a230-655a-b8fb-b67b-70f2c9a1846d/mzaf_1720355453365667328.plus.aac.p.m4a"
+        },
+        {
+          "number": 10,
+          "title": "fire walk with me",
+          "duration": "PT1M8S",
+          "url": "https://music.apple.com/us/song/fire-walk-with-me/1836428117",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/32/07/723207f6-f885-d0df-f3b2-d97339cf0205/mzaf_12569286034996493142.plus.aac.p.m4a"
+        },
+        {
+          "number": 11,
+          "title": "Madam",
+          "duration": "PT2M22S",
+          "url": "https://music.apple.com/us/song/madam/1836428121",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4a/ac/8b/4aac8b53-3e37-2087-5e4e-5b5b5ac52e32/mzaf_16366326364874521671.plus.aac.p.m4a"
+        },
+        {
+          "number": 12,
+          "title": "sirens",
+          "duration": "PT2M1S",
+          "url": "https://music.apple.com/us/song/sirens/1836428123",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/de/45/c5/de45c5e2-4aaa-bcb9-a0bc-38a9565e5c64/mzaf_14193884275116469147.plus.aac.p.m4a"
+        },
+        {
+          "number": 13,
+          "title": "naive",
+          "duration": "PT1M36S",
+          "url": "https://music.apple.com/us/song/naive/1836428124",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/10/2b/fd/102bfda2-486f-cb35-f919-261081f3f42a/mzaf_9520997324271777310.plus.aac.p.m4a"
+        },
+        {
+          "number": 14,
+          "title": "drive",
+          "duration": "PT1M55S",
+          "url": "https://music.apple.com/us/song/drive/1836428126",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1d/01/aa/1d01aaa9-b98c-0e77-9e6a-c4b0a2d61f2b/mzaf_385169914986168771.plus.aac.p.m4a"
+        },
+        {
+          "number": 15,
+          "title": "welcome to forever",
+          "duration": "PT2M46S",
+          "url": "https://music.apple.com/us/song/welcome-to-forever/1836428128",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/13/3f/79133f8e-0e83-f721-c191-a42c540b926a/mzaf_17090477711264233176.plus.aac.ep.m4a"
+        },
+        {
+          "number": 16,
+          "title": "0 tears",
+          "duration": "PT2M25S",
+          "url": "https://music.apple.com/us/song/0-tears/1836428129",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c2/74/4c/c2744c7f-7bfa-10d6-e075-17732824ecfc/mzaf_6216112717680537214.plus.aac.p.m4a"
+        },
+        {
+          "number": 17,
+          "title": "damage",
+          "duration": "PT3M",
+          "url": "https://music.apple.com/us/song/damage/1836428133",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9e/ff/1a/9eff1acf-1c1d-1b45-1310-359cbef634fa/mzaf_1981547370340522342.plus.aac.ep.m4a"
+        }
+      ],
+      "description": "A seventeen-track September 2025 album featuring 'body double', 'Madam' and 'welcome to forever'.",
+      "notes": [],
+      "tracklistComplete": true
+    },
+    {
+      "id": "kai-angel-may-cry-2",
+      "title": "ANGEL MAY CRY 2",
+      "displayTitle": "ANGEL MAY CRY 2",
+      "artist": "Kai Angel",
+      "artistKey": "kai",
+      "type": "Album",
+      "edition": "Original",
+      "releaseDate": "2025-04-18",
+      "year": 2025,
+      "genre": "Hip-Hop/Rap",
+      "trackCount": 7,
+      "availableTrackCount": 7,
+      "durationText": "7 songs, 13 minutes",
+      "copyright": "℗ 2025 Viperr",
+      "url": "https://music.apple.com/us/album/angel-may-cry-2/1808706264",
+      "sourceURL": "https://music.apple.com/us/album/angel-may-cry-2/1808706264",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/8d/c0/088dc0bc-9f94-4c94-56dc-aaf3ca156122/cover.jpg/1200x1200bb.jpg",
+      "coverFile": "C:\\Users\\user\\Documents\\Codex\\2026-10-08\\x20-2\\work\\assets\\viperr-albums\\kai-angel-may-cry-2.jpg",
+      "artworkOriginalDimensions": {
+        "width": 3000,
+        "height": 3000
+      },
+      "tracks": [
+        {
+          "number": 1,
+          "title": "john galliano",
+          "duration": "PT2M18S",
+          "url": "https://music.apple.com/us/song/john-galliano/1808706278",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6b/2d/0e/6b2d0eb2-9435-31ce-3e0b-d253c1d8eb1a/mzaf_9162558537409665802.plus.aac.p.m4a"
+        },
+        {
+          "number": 2,
+          "title": "millions",
+          "duration": "PT1M35S",
+          "url": "https://music.apple.com/us/song/millions/1808706285",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/85/4b/2c/854b2cf9-1c94-9c18-2ea5-a15adcb5e357/mzaf_5422910241569371048.plus.aac.p.m4a"
+        },
+        {
+          "number": 3,
+          "title": "i hate fashion shows",
+          "duration": "PT2M6S",
+          "url": "https://music.apple.com/us/song/i-hate-fashion-shows/1808706442",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ca/c6/e8/cac6e816-e11a-5a10-35c8-387e001d8338/mzaf_5716734315439061949.plus.aac.p.m4a"
+        },
+        {
+          "number": 4,
+          "title": "scream!",
+          "duration": "PT2M5S",
+          "url": "https://music.apple.com/us/song/scream/1808706457",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/da/1c/37/da1c37f6-1f62-0569-77b7-e294359da219/mzaf_6840328592907794547.plus.aac.p.m4a"
+        },
+        {
+          "number": 5,
+          "title": "laperouse",
+          "duration": "PT2M9S",
+          "url": "https://music.apple.com/us/song/laperouse/1808706463",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/19/f0/89/19f089c1-2376-2ecf-9a7c-3338eaa51b8c/mzaf_17459819784365950745.plus.aac.p.m4a"
+        },
+        {
+          "number": 6,
+          "title": "aimed u up",
+          "duration": "PT1M36S",
+          "url": "https://music.apple.com/us/song/aimed-u-up/1808706744",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/eb/d1/b1ebd187-4931-d034-1a3d-d2c0b24a8ee6/mzaf_480847305530599277.plus.aac.p.m4a"
+        },
+        {
+          "number": 7,
+          "title": "white ferrari",
+          "duration": "PT1M50S",
+          "url": "https://music.apple.com/us/song/white-ferrari/1808706764",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/e6/33/9ae633cc-7f1a-2163-a3b3-77975cbc5e36/mzaf_8182472614395843735.plus.aac.p.m4a"
+        }
+      ],
+      "description": "The seven-track April 2025 follow-up, opening with 'john galliano' and closing with 'white ferrari'.",
+      "notes": [],
+      "tracklistComplete": true
+    },
+    {
+      "id": "heavy-metal-2",
+      "title": "Heavy Metal 2",
+      "displayTitle": "Heavy Metal 2",
+      "artist": "Kai Angel & 9mice",
+      "artistKey": "viperr",
+      "type": "Album",
+      "edition": "Original",
+      "releaseDate": "2024-09-13",
+      "year": 2024,
+      "genre": "Hip-Hop/Rap",
+      "trackCount": 21,
+      "availableTrackCount": 21,
+      "copyright": "℗ 2024 Viperr",
+      "url": "https://music.apple.com/us/album/heavy-metal-2/1767963478",
+      "sourceURL": "https://music.apple.com/us/album/heavy-metal-2/1767963478",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/ea/7a/dfea7a99-b0e1-805e-0be0-a2e37c8f234d/cover.jpg/1200x1200bb.jpg",
+      "coverFile": "C:/Users/user/Documents/Codex/2026-10-08/x20-2/work/assets/viperr-albums/heavy-metal-2.jpg",
+      "description": "Twenty-one-track joint album by 9mice and Kai Angel, released on September 13, 2024. Includes Phoenix, 2017 and Ice + Alabaster.",
+      "tracklistComplete": true,
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Cyber Is Dead Interlude",
+          "duration": "PT1M25S",
+          "url": "https://music.apple.com/us/song/cyber-is-dead-interlude/1767963479"
+        },
+        {
+          "number": 2,
+          "title": "Fountainebleu",
+          "duration": "PT2M13S",
+          "url": "https://music.apple.com/us/song/fountainebleu/1767963482"
+        },
+        {
+          "number": 3,
+          "title": "Phoenix",
+          "duration": "PT2M30S",
+          "url": "https://music.apple.com/us/song/phoenix/1767963484"
+        },
+        {
+          "number": 4,
+          "title": "Blum - Big City Life",
+          "duration": "PT2M38S",
+          "url": "https://music.apple.com/us/song/blum-big-city-life/1767963489"
+        },
+        {
+          "number": 5,
+          "title": "Ринопластика",
+          "duration": "PT1M55S",
+          "url": "https://music.apple.com/us/song/%D1%80%D0%B8%D0%BD%D0%BE%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B0/1767963491"
+        },
+        {
+          "number": 6,
+          "title": "Paparazzi",
+          "duration": "PT13S",
+          "url": "https://music.apple.com/us/song/paparazzi/1767963494"
+        },
+        {
+          "number": 7,
+          "title": "So Good",
+          "duration": "PT1M52S",
+          "url": "https://music.apple.com/us/song/so-good/1767963497"
+        },
+        {
+          "number": 8,
+          "title": "Frank Ocean",
+          "duration": "PT2M8S",
+          "url": "https://music.apple.com/us/song/frank-ocean/1767963916"
+        },
+        {
+          "number": 9,
+          "title": "2017",
+          "duration": "PT2M13S",
+          "url": "https://music.apple.com/us/song/2017/1767963918"
+        },
+        {
+          "number": 10,
+          "title": "Da Vinci",
+          "duration": "PT2M10S",
+          "url": "https://music.apple.com/us/song/da-vinci/1767963923"
+        },
+        {
+          "number": 11,
+          "title": "LMFAO",
+          "duration": "PT2M34S",
+          "url": "https://music.apple.com/us/song/lmfao/1767963928"
+        },
+        {
+          "number": 12,
+          "title": "Ice + Alabaster",
+          "duration": "PT2M11S",
+          "url": "https://music.apple.com/us/song/ice-alabaster/1767963932"
+        },
+        {
+          "number": 13,
+          "title": "Tusa V.I.P.",
+          "duration": "PT1M58S",
+          "url": "https://music.apple.com/us/song/tusa-v-i-p/1767963937"
+        },
+        {
+          "number": 14,
+          "title": "I Love God",
+          "duration": "PT2M3S",
+          "url": "https://music.apple.com/us/song/i-love-god/1767963940"
+        },
+        {
+          "number": 15,
+          "title": "Smells Like Teen Spirit",
+          "duration": "PT5S",
+          "url": "https://music.apple.com/us/song/smells-like-teen-spirit/1767963943"
+        },
+        {
+          "number": 16,
+          "title": "Hollywood Takeover...",
+          "duration": "PT56S",
+          "url": "https://music.apple.com/us/song/hollywood-takeover/1767963946"
+        },
+        {
+          "number": 17,
+          "title": "I Wanna Be Your Dog",
+          "duration": "PT2M6S",
+          "url": "https://music.apple.com/us/song/i-wanna-be-your-dog/1767963947"
+        },
+        {
+          "number": 18,
+          "title": "Hate People",
+          "duration": "PT1M49S",
+          "url": "https://music.apple.com/us/song/hate-people/1767964219"
+        },
+        {
+          "number": 19,
+          "title": "Fire Alarm",
+          "duration": "PT56S",
+          "url": "https://music.apple.com/us/song/fire-alarm/1767964224"
+        },
+        {
+          "number": 20,
+          "title": "Murder On The Dancefloor",
+          "duration": "PT1M45S",
+          "url": "https://music.apple.com/us/song/murder-on-the-dancefloor/1767964227"
+        },
+        {
+          "number": 21,
+          "title": "Homecoming",
+          "duration": "PT2M57S",
+          "url": "https://music.apple.com/us/song/homecoming/1767964232"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "kai-god-system",
+      "title": "GOD SYSTEM",
+      "displayTitle": "GOD SYSTEM",
+      "artist": "Kai Angel",
+      "artistKey": "kai",
+      "type": "Album",
+      "edition": "Original",
+      "releaseDate": "2024-03-22",
+      "year": 2024,
+      "genre": "Hip-Hop/Rap",
+      "trackCount": 17,
+      "availableTrackCount": 17,
+      "durationText": "17 songs, 40 minutes",
+      "copyright": "℗ 2024 Viperr",
+      "url": "https://music.apple.com/us/album/god-system/1736962256",
+      "sourceURL": "https://music.apple.com/us/album/god-system/1736962256",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/70/63/4c70635c-3987-4ca2-158a-99013c13fa41/cover.jpg/1200x1200bb.jpg",
+      "coverFile": "C:\\Users\\user\\Documents\\Codex\\2026-10-08\\x20-2\\work\\assets\\viperr-albums\\kai-god-system.jpg",
+      "artworkOriginalDimensions": {
+        "width": 3000,
+        "height": 3000
+      },
+      "tracks": [
+        {
+          "number": 1,
+          "title": "1-800-PARADISE",
+          "duration": "PT2M10S",
+          "url": "https://music.apple.com/us/song/1-800-paradise/1736962276",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/7b/91/c67b919e-5801-229b-b214-ce8ca4bc0b57/mzaf_3967914827607262304.plus.aac.p.m4a"
+        },
+        {
+          "number": 2,
+          "title": "SLAYERR",
+          "duration": "PT1M55S",
+          "url": "https://music.apple.com/us/song/slayerr/1736962478",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/64/73/9f/64739f0e-629e-5ff1-c37f-f6fd35c61123/mzaf_14855522491346829142.plus.aac.p.m4a"
+        },
+        {
+          "number": 3,
+          "title": "SPIDERR",
+          "duration": "PT1M49S",
+          "url": "https://music.apple.com/us/song/spiderr/1736962673",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c0/4e/b8/c04eb80a-267c-ff9f-4c02-5d00b2ae1d4e/mzaf_16693103322970440718.plus.aac.p.m4a"
+        },
+        {
+          "number": 4,
+          "title": "EUPHORIA",
+          "duration": "PT1M53S",
+          "url": "https://music.apple.com/us/song/euphoria/1736962688",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/04/34/4f/04344fbd-9dde-b087-22bc-2738d553370e/mzaf_6434803124168414005.plus.aac.p.m4a"
+        },
+        {
+          "number": 5,
+          "title": "RESTART",
+          "duration": "PT2M1S",
+          "url": "https://music.apple.com/us/song/restart/1736962923",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/06/ac/5f/06ac5f7a-2785-9f82-7d36-85336b208f1b/mzaf_6224026548709176683.plus.aac.p.m4a"
+        },
+        {
+          "number": 6,
+          "title": "ХОЛОД",
+          "duration": "PT1M59S",
+          "url": "https://music.apple.com/us/song/%D1%85%D0%BE%D0%BB%D0%BE%D0%B4/1736962935",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7b/52/02/7b5202c7-6346-21ce-1485-9e21c9712e4a/mzaf_16937200171597141438.plus.aac.p.m4a"
+        },
+        {
+          "number": 7,
+          "title": "MYSPACE",
+          "duration": "PT1M46S",
+          "url": "https://music.apple.com/us/song/myspace/1736963123",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fe/80/5f/fe805f2c-6b46-7c3a-0d01-70a324facdda/mzaf_11227972943047041135.plus.aac.p.m4a"
+        },
+        {
+          "number": 8,
+          "title": "VICTIM",
+          "duration": "PT2M8S",
+          "url": "https://music.apple.com/us/song/victim/1736963338",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/af/91/ba/af91bad9-15a0-b877-1dac-af41d9ee2ddd/mzaf_3222454555816263356.plus.aac.p.m4a"
+        },
+        {
+          "number": 9,
+          "title": "DANCE LIKE U IN PAIN",
+          "duration": "PT1M27S",
+          "url": "https://music.apple.com/us/song/dance-like-u-in-pain/1736963354",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c3/c4/77/c3c47705-ef12-e350-a4e6-967ab41e1729/mzaf_2917150222834617088.plus.aac.p.m4a"
+        },
+        {
+          "number": 10,
+          "title": "RAW",
+          "duration": "PT1M33S",
+          "url": "https://music.apple.com/us/song/raw/1736963531",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/33/54/1b/33541b52-4488-9f92-1d92-8b09d9fd9a24/mzaf_16886390024623283125.plus.aac.p.m4a"
+        },
+        {
+          "number": 11,
+          "title": "RIOT",
+          "duration": "PT1M52S",
+          "url": "https://music.apple.com/us/song/riot/1736963688",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/06/ec/1f/06ec1f32-67f5-e62e-29b6-1e6c529089ad/mzaf_16892540709905555387.plus.aac.p.m4a"
+        },
+        {
+          "number": 12,
+          "title": "SHOW OFF",
+          "duration": "PT1M27S",
+          "url": "https://music.apple.com/us/song/show-off/1736963700",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bb/78/a7/bb78a70c-efc8-2274-dcaf-8f1ee85af2c0/mzaf_11107486450618843550.plus.aac.p.m4a"
+        },
+        {
+          "number": 13,
+          "title": "DOLLARS OUT ON TOP ON GOD",
+          "duration": "PT2M7S",
+          "url": "https://music.apple.com/us/song/dollars-out-on-top-on-god/1736963918",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b6/06/7b/b6067bd4-fb52-c09e-d960-43c6c4f8f7ca/mzaf_4626279419018333211.plus.aac.p.m4a"
+        },
+        {
+          "number": 14,
+          "title": "HILLS",
+          "duration": "PT2M6S",
+          "url": "https://music.apple.com/us/song/hills/1736964144",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a3/a3/88/a3a38876-1964-8e6a-c92c-82bbcb2ebe1d/mzaf_3903204879911974328.plus.aac.p.m4a"
+        },
+        {
+          "number": 15,
+          "title": "GOD SYSTEM",
+          "duration": "PT10M57S",
+          "url": "https://music.apple.com/us/song/god-system/1736964156",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/5e/70/2e5e70d0-87e7-badc-937e-a07a4b3d2ad0/mzaf_6526686722184642006.plus.aac.ep.m4a"
+        },
+        {
+          "number": 16,
+          "title": "BAD BITCHES ONLY",
+          "duration": "PT1M46S",
+          "url": "https://music.apple.com/us/song/bad-bitches-only/1736964162",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c7/a5/ad/c7a5aded-b3fd-07ea-c879-adc140814293/mzaf_9729043422250980002.plus.aac.p.m4a"
+        },
+        {
+          "number": 17,
+          "title": "/godmode",
+          "duration": "PT1M55S",
+          "url": "https://music.apple.com/us/song/godmode/1736964165",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/25/1a/76/251a76db-8a6b-750a-9f08-d29e4e80146e/mzaf_44306553359100177.plus.aac.p.m4a"
+        }
+      ],
+      "description": "A seventeen-track 2024 album featuring 'VICTIM', 'DANCE LIKE U IN PAIN' and 'SHOW OFF'.",
+      "notes": [],
+      "tracklistComplete": true
+    },
+    {
+      "id": "kai-angel-may-cry",
+      "title": "ANGEL MAY CRY",
+      "displayTitle": "ANGEL MAY CRY",
+      "artist": "Kai Angel",
+      "artistKey": "kai",
+      "type": "Album",
+      "edition": "Original",
+      "releaseDate": "2023-07-07",
+      "year": 2023,
+      "genre": "Hip-Hop/Rap",
+      "trackCount": 7,
+      "availableTrackCount": 7,
+      "durationText": "7 songs, 15 minutes",
+      "copyright": "℗ 2023 Viperr",
+      "url": "https://music.apple.com/us/album/angel-may-cry/1696056090",
+      "sourceURL": "https://music.apple.com/us/album/angel-may-cry/1696056090",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4f/b7/3f/4fb73f6c-74b9-714e-b3ae-e38e4d73b8da/cover.jpg/1200x1200bb.jpg",
+      "coverFile": "C:\\Users\\user\\Documents\\Codex\\2026-10-08\\x20-2\\work\\assets\\viperr-albums\\kai-angel-may-cry.jpg",
+      "artworkOriginalDimensions": {
+        "width": 3000,
+        "height": 3000
+      },
+      "tracks": [
+        {
+          "number": 1,
+          "title": "JUMP!",
+          "duration": "PT2M6S",
+          "url": "https://music.apple.com/us/song/jump/1696056097",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f1/57/29/f157296a-153d-0031-4f89-944a942369ad/mzaf_12106263820482462520.plus.aac.p.m4a"
+        },
+        {
+          "number": 2,
+          "title": "KYLIE MINOGUE",
+          "duration": "PT2M8S",
+          "url": "https://music.apple.com/us/song/kylie-minogue/1696056100",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3f/b8/aa/3fb8aa4c-ca09-f535-50fe-7c41a5a8f4ff/mzaf_13779663685729074540.plus.aac.p.m4a"
+        },
+        {
+          "number": 3,
+          "title": "PARIS 2008",
+          "duration": "PT1M51S",
+          "url": "https://music.apple.com/us/song/paris-2008/1696056102",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f0/dd/da/f0ddda77-e932-221e-c0af-b9de6ac1c5f9/mzaf_433388388281629234.plus.aac.p.m4a"
+        },
+        {
+          "number": 4,
+          "title": "BABY",
+          "duration": "PT2M20S",
+          "url": "https://music.apple.com/us/song/baby/1696056376",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cf/a0/da/cfa0da34-5455-be04-4840-264191644a19/mzaf_12610427172321648734.plus.aac.p.m4a"
+        },
+        {
+          "number": 5,
+          "title": "$$$",
+          "duration": "PT2M9S",
+          "url": "https://music.apple.com/us/song/%24%24%24/1696056377",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/4d/fe/384dfe82-d223-006a-94f4-38871787268f/mzaf_451330744449348902.plus.aac.p.m4a"
+        },
+        {
+          "number": 6,
+          "title": "DEAD MEN WALKING",
+          "duration": "PT2M14S",
+          "url": "https://music.apple.com/us/song/dead-men-walking/1696056381",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6e/96/6b/6e966bcb-0522-9f82-5d3f-fb80951a291e/mzaf_4101412693770099314.plus.aac.p.m4a"
+        },
+        {
+          "number": 7,
+          "title": "ANGEL MAY CRY",
+          "duration": "PT2M24S",
+          "url": "https://music.apple.com/us/song/angel-may-cry/1696056385",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ef/47/62/ef476258-4f8a-2983-1192-df2ca1a4ff70/mzaf_13071155945686588013.plus.aac.p.m4a"
+        }
+      ],
+      "description": "The seven-track July 2023 release featuring 'JUMP!', 'KYLIE MINOGUE' and 'PARIS 2008'.",
+      "notes": [],
+      "tracklistComplete": true
+    },
+    {
+      "id": "kai-marilyn-manson",
+      "title": "Marilyn Manson",
+      "displayTitle": "Marilyn Manson",
+      "artist": "Kai Angel",
+      "artistKey": "kai",
+      "type": "Album",
+      "edition": "Original",
+      "releaseDate": "2023-03-24",
+      "year": 2023,
+      "genre": "Hiphop/Rap",
+      "trackCount": 11,
+      "availableTrackCount": 11,
+      "durationText": "11 nummers, 23 minuten",
+      "copyright": "℗ 2023 Viperr / CPLUS",
+      "url": "https://music.apple.com/nl/album/marilyn-manson/1678069965",
+      "sourceURL": "https://music.apple.com/nl/album/marilyn-manson/1678069965",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6c/73/26/6c732613-9f4d-7d93-53e6-31ef05575b53/cover.jpg/1200x1200bb.jpg",
+      "coverFile": "C:\\Users\\user\\Documents\\Codex\\2026-10-08\\x20-2\\work\\assets\\viperr-albums\\kai-marilyn-manson.jpg",
+      "artworkOriginalDimensions": {
+        "width": 1400,
+        "height": 1400
+      },
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Marilyn Manson",
+          "duration": "PT2M24S",
+          "url": "https://music.apple.com/nl/song/marilyn-manson/1678070296",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/92/d9/3792d9b4-ac26-b6ab-3c3c-0e7022aa5a95/mzaf_7883912797667723648.plus.aac.p.m4a"
+        },
+        {
+          "number": 2,
+          "title": "Stupid",
+          "duration": "PT2M15S",
+          "url": "https://music.apple.com/nl/song/stupid/1678070297",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b9/d0/6e/b9d06ef5-787b-f0b2-2065-524dadea0597/mzaf_18426417583034827486.plus.aac.p.m4a"
+        },
+        {
+          "number": 3,
+          "title": "Prada Party",
+          "duration": "PT2M4S",
+          "url": "https://music.apple.com/nl/song/prada-party/1678070298",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/97/73/ca/9773ca95-a2ea-48cb-fe84-ca16ea506381/mzaf_18226132712112339333.plus.aac.p.m4a"
+        },
+        {
+          "number": 4,
+          "title": "Ss16 Cyclops",
+          "duration": "PT2M20S",
+          "url": "https://music.apple.com/nl/song/ss16-cyclops/1678070299",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d0/77/71/d0777105-8c68-cb33-1f39-afd1f5e319e3/mzaf_16858415351424395903.plus.aac.p.m4a"
+        },
+        {
+          "number": 5,
+          "title": "Hellraiser",
+          "duration": "PT2M",
+          "url": "https://music.apple.com/nl/song/hellraiser/1678070300",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cf/e4/99/cfe49995-cbec-61b3-2b4a-676feedb2fbc/mzaf_5740937186493449157.plus.aac.p.m4a"
+        },
+        {
+          "number": 6,
+          "title": "Mannequin",
+          "duration": "PT1M54S",
+          "url": "https://music.apple.com/nl/song/mannequin/1678070301",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b6/fc/5a/b6fc5a05-8639-945b-295a-305485a9f3c7/mzaf_15183375254576697116.plus.aac.p.m4a"
+        },
+        {
+          "number": 7,
+          "title": "Friday 13",
+          "duration": "PT1M48S",
+          "url": "https://music.apple.com/nl/song/friday-13/1678070302",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/92/35/1b/92351b67-9f18-6dcb-0932-b708d97a6991/mzaf_11147178986842575352.plus.aac.p.m4a"
+        },
+        {
+          "number": 8,
+          "title": "No Pain",
+          "duration": "PT1M47S",
+          "url": "https://music.apple.com/nl/song/no-pain/1678070304",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ca/d4/d4/cad4d4a5-9c9c-8a88-c18e-ede43424c233/mzaf_9673028203329163764.plus.aac.p.m4a"
+        },
+        {
+          "number": 9,
+          "title": "Ballerina",
+          "duration": "PT1M57S",
+          "url": "https://music.apple.com/nl/song/ballerina/1678070305",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a3/21/fe/a321fec1-c0af-7444-7da4-fbf11afddb88/mzaf_9316465647185245992.plus.aac.p.m4a"
+        },
+        {
+          "number": 10,
+          "title": "Monroe Tears",
+          "duration": "PT2M24S",
+          "url": "https://music.apple.com/nl/song/monroe-tears/1678070306",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9b/fa/a4/9bfaa480-2097-2531-eb22-2f052a297d38/mzaf_8121342533073268624.plus.aac.p.m4a"
+        },
+        {
+          "number": 11,
+          "title": "Funeral",
+          "duration": "PT2M39S",
+          "url": "https://music.apple.com/nl/song/funeral/1678070307",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7a/10/fb/7a10fb1f-21d7-d58c-6064-2ec7c127e87d/mzaf_6933285391476320701.plus.aac.ep.m4a"
+        }
+      ],
+      "description": "The eleven-track March 2023 album, from 'Marilyn Manson' to 'Funeral'. Also catalogued as ММ on Spotify.",
+      "notes": [
+        "Also listed as ММ on Spotify; counted once, not as a separate release. Apple Music Netherlands source retained for regional availability."
+      ],
+      "tracklistComplete": true
+    },
+    {
+      "id": "heavy-metal",
+      "title": "HEAVY METAL",
+      "displayTitle": "HEAVY METAL - EP",
+      "artist": "Kai Angel & 9mice",
+      "artistKey": "viperr",
+      "type": "EP",
+      "edition": "Original",
+      "releaseDate": "2023-02-17",
+      "year": 2023,
+      "genre": "Hip-Hop/Rap",
+      "trackCount": 6,
+      "availableTrackCount": 6,
+      "copyright": "℗ 2023 VIPERR, DNK Music",
+      "url": "https://music.apple.com/us/album/heavy-metal-ep/1889978892",
+      "sourceURL": "https://music.apple.com/us/album/heavy-metal-ep/1889978892",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/b3/e4/d2b3e4e6-fc71-2275-5cd2-ddefbc1fab4e/0.jpg/1200x1200bb.jpg",
+      "coverFile": "C:/Users/user/Documents/Codex/2026-10-08/x20-2/work/assets/viperr-albums/heavy-metal.jpg",
+      "description": "Six-track joint EP by Kai Angel and 9mice, released on February 17, 2023. Opens with LIPSTICK and closes with OD1NOKO FREESTYLE.",
+      "tracklistComplete": true,
+      "tracks": [
+        {
+          "number": 1,
+          "title": "LIPSTICK",
+          "duration": "PT2M1S",
+          "url": "https://music.apple.com/us/song/lipstick/1889978893"
+        },
+        {
+          "number": 2,
+          "title": "N1CHEVO",
+          "duration": "PT1M44S",
+          "url": "https://music.apple.com/us/song/n1chevo/1889978897"
+        },
+        {
+          "number": 3,
+          "title": "RESIDENT EVI7",
+          "duration": "PT2M31S",
+          "url": "https://music.apple.com/us/song/resident-evi7/1889978898"
+        },
+        {
+          "number": 4,
+          "title": "AQUAFINA",
+          "duration": "PT2M49S",
+          "url": "https://music.apple.com/us/song/aquafina/1889978899"
+        },
+        {
+          "number": 5,
+          "title": "HEAVY METAL",
+          "duration": "PT2M18S",
+          "url": "https://music.apple.com/us/song/heavy-metal/1889978900"
+        },
+        {
+          "number": 6,
+          "title": "OD1NOKO FREESTYLE",
+          "duration": "PT2M18S",
+          "url": "https://music.apple.com/us/song/od1noko-freestyle/1889978901"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "kai-kaicore",
+      "title": "kAiCoRe",
+      "displayTitle": "kAiCoRe - EP",
+      "artist": "Kai Angel",
+      "artistKey": "kai",
+      "type": "EP",
+      "edition": "Original",
+      "releaseDate": "2022-07-01",
+      "year": 2022,
+      "genre": "Hip-Hop/Rap",
+      "trackCount": 5,
+      "availableTrackCount": 5,
+      "durationText": "5 songs, 10 minutes",
+      "copyright": "℗ 2022 DNK Music",
+      "url": "https://music.apple.com/us/album/kaicore-ep/1890441104",
+      "sourceURL": "https://music.apple.com/us/album/kaicore-ep/1890441104",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/3b/92/063b9277-489f-347e-de4b-40ae032e82f0/0.jpg/1200x1200bb.jpg",
+      "coverFile": "C:\\Users\\user\\Documents\\Codex\\2026-10-08\\x20-2\\work\\assets\\viperr-albums\\kai-kaicore.jpg",
+      "artworkOriginalDimensions": {
+        "width": 3000,
+        "height": 3000
+      },
+      "tracks": [
+        {
+          "number": 1,
+          "title": "what's uppppppxddDDD",
+          "duration": "PT1M41S",
+          "url": "https://music.apple.com/us/song/whats-uppppppxddddd/1890441105",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ad/03/72/ad0372b9-54aa-88f5-3e94-ad55112f59cc/mzaf_12740394456885971027.plus.aac.p.m4a"
+        },
+        {
+          "number": 2,
+          "title": "~boo~",
+          "duration": "PT2M16S",
+          "url": "https://music.apple.com/us/song/boo/1890441108",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/8f/d3/aa8fd317-9d71-51a3-343a-7bed461ea73d/mzaf_1447582187318596184.plus.aac.p.m4a"
+        },
+        {
+          "number": 3,
+          "title": "rain (hEaVy)",
+          "duration": "PT2M13S",
+          "url": "https://music.apple.com/us/song/rain-heavy/1890441109",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a6/8d/7c/a68d7cad-d935-5615-74ed-2c12da15fa1a/mzaf_12967350178753859123.plus.aac.p.m4a"
+        },
+        {
+          "number": 4,
+          "title": "Trinity",
+          "duration": "PT1M59S",
+          "url": "https://music.apple.com/us/song/trinity/1890441110",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/39/54/08/395408f9-b067-db71-3225-e3efea3306eb/mzaf_2874729607650569585.plus.aac.p.m4a"
+        },
+        {
+          "number": 5,
+          "title": "gyutaro theme (UgLy)",
+          "duration": "PT2M20S",
+          "url": "https://music.apple.com/us/song/gyutaro-theme-ugly/1890441111",
+          "previewURL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/17/ea/aa/17eaaa3f-fd9d-6d71-6dd3-a8af836e7d57/mzaf_5591705603308404015.plus.aac.p.m4a"
+        }
+      ],
+      "description": "Five-track EP from July 2022, including '~boo~' and 'Trinity'.",
+      "notes": [],
+      "tracklistComplete": true
+    }
+  ],
+  "excluded": [
+    {
+      "title": "FAKE LOVE",
+      "type": "Single",
+      "source": "https://music.apple.com/us/album/fake-love-single/1892647175",
+      "note": "Two-track single explicitly labeled Single on Apple Music; Shazam release index categorizes it EP but title retains Single. Excluded from albums/EPs inventory."
+    }
+  ],
+  "notes": [
+    "No separately verified deluxe editions in current primary catalogs.",
+    "Dates and classifications follow official streaming metadata. ANGEL MAY CRY and ANGEL MAY CRY 2 are classed as albums by Apple Music despite their short length.",
+    "Artwork downloaded without alteration from actual Apple Music artwork templates. No audio downloaded.",
+    "Album artwork remains copyrighted; not represented as public domain or license-cleared.",
+    "Joint projects included once under artistKey viperr. Separate solo 9mice inventory should be merged without duplicating these two releases."
+  ],
+  "jointCatalogSource": [
+    "https://music.apple.com/us/artist/kai-angel/1617297110",
+    "https://music.apple.com/us/artist/9mice/1593955534",
+    "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
+  ]
+}

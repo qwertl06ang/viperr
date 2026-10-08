@@ -1,0 +1,1035 @@
+{
+  "kai-shh-bang": {
+    "links": [
+      {
+        "url": "https://open.spotify.com/album/4cVrSy8zr5T4za4radTHqk",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/shh/6810597974"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_nXm55xo56RDXW7NZgafJci6l80jkxRw7w",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_nXm55xo56RDXW7NZgafJci6l80jkxRw7w",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "url": "https://www.deezer.com/album/1075958632",
+        "platform": "deezer",
+        "label": "Deezer"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/560183241"
+      },
+      {
+        "platform": "amazonMusic",
+        "label": "Amazon Music",
+        "url": "https://music.amazon.com/albums/B0HHPKKRH3"
+      },
+      {
+        "platform": "yandex",
+        "label": "Yandex",
+        "url": "https://music.yandex.ru/album/43917005"
+      },
+      {
+        "url": "https://www.qobuz.com/us-en/album/shh-kai-angel/nbfobh3gkh265",
+        "platform": "qobuz",
+        "label": "Qobuz"
+      },
+      {
+        "platform": "pandora",
+        "label": "Pandora",
+        "url": "https://www.pandora.com/AL:69699981"
+      },
+      {
+        "platform": "boomplay",
+        "label": "Boomplay",
+        "url": "https://www.boomplay.com/albums/139496861"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/6810597974"
+      }
+    ],
+    "source": "https://album.link/i/6810597974",
+    "title": "Shh!",
+    "artist": "Kai Angel",
+    "verifiedMetadataMatch": true,
+    "observedTitle": "Shh!",
+    "observedArtist": "Kai Angel",
+    "notes": [],
+    "lookupMethod": "Public album.link landing page metadata; v1-alpha.1 API returned PUBLIC_API_ACCESS_DEPRECATED",
+    "checkedAt": "2026-10-08",
+    "sources": [
+      "https://album.link/i/6810597974",
+      "https://open.spotify.com/album/4cVrSy8zr5T4za4radTHqk",
+      "https://api.deezer.com/album/1075958632",
+      "https://www.youtube.com/@kaixxxngel/releases",
+      "https://music.youtube.com/playlist?list=OLAK5uy_nXm55xo56RDXW7NZgafJci6l80jkxRw7w",
+      "https://www.qobuz.com/us-en/album/shh-kai-angel/nbfobh3gkh265"
+    ]
+  },
+  "kai-shh-dots": {
+    "links": [
+      {
+        "url": "https://open.spotify.com/album/5ozsaDdq5LYbkMnhdE3L4o",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/shh/6808162752"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_lLdSSuFwe5koJE7u-X5Xit_lfXWs9gT_s",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_lLdSSuFwe5koJE7u-X5Xit_lfXWs9gT_s",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "url": "https://www.deezer.com/album/1070331932",
+        "platform": "deezer",
+        "label": "Deezer"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/558248610"
+      },
+      {
+        "platform": "amazonMusic",
+        "label": "Amazon Music",
+        "url": "https://music.amazon.com/albums/B0HHPKKRH3"
+      },
+      {
+        "platform": "yandex",
+        "label": "Yandex",
+        "url": "https://music.yandex.ru/album/43917005"
+      },
+      {
+        "platform": "pandora",
+        "label": "Pandora",
+        "url": "https://www.pandora.com/AL:69699981"
+      },
+      {
+        "platform": "boomplay",
+        "label": "Boomplay",
+        "url": "https://www.boomplay.com/albums/139496861"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/6808162752"
+      }
+    ],
+    "source": "https://album.link/i/6808162752",
+    "title": "Shh...",
+    "artist": "Kai Angel",
+    "verifiedMetadataMatch": true,
+    "observedTitle": "Shh...",
+    "observedArtist": "Kai Angel",
+    "notes": [],
+    "lookupMethod": "Public album.link landing page metadata; v1-alpha.1 API returned PUBLIC_API_ACCESS_DEPRECATED",
+    "checkedAt": "2026-10-08",
+    "sources": [
+      "https://album.link/i/6808162752",
+      "https://open.spotify.com/album/5ozsaDdq5LYbkMnhdE3L4o",
+      "https://api.deezer.com/album/1070331932",
+      "https://www.youtube.com/@kaixxxngel/releases",
+      "https://music.youtube.com/playlist?list=OLAK5uy_lLdSSuFwe5koJE7u-X5Xit_lfXWs9gT_s"
+    ]
+  },
+  "9mice-9mm": {
+    "links": [
+      {
+        "url": "https://open.spotify.com/album/2ZjaGkJU86y2WOd3t9rc9u",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/9mm/1846155523"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_mkVvArOTF3DllI2h7Uw-T-K9DZAJi5HWY",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_mkVvArOTF3DllI2h7Uw-T-K9DZAJi5HWY",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "platform": "deezer",
+        "label": "Deezer",
+        "url": "https://www.deezer.com/album/839353722"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/467455760"
+      },
+      {
+        "platform": "amazonMusic",
+        "label": "Amazon Music",
+        "url": "https://music.amazon.com/albums/B0FWN7J9QH"
+      },
+      {
+        "platform": "yandex",
+        "label": "Yandex",
+        "url": "https://music.yandex.ru/album/38695104"
+      },
+      {
+        "platform": "pandora",
+        "label": "Pandora",
+        "url": "https://www.pandora.com/AL:55019451"
+      },
+      {
+        "platform": "boomplay",
+        "label": "Boomplay",
+        "url": "https://www.boomplay.com/albums/118052626"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/1846155523"
+      }
+    ],
+    "source": "https://album.link/i/1846155523",
+    "title": "9mm",
+    "artist": "9mice",
+    "verifiedMetadataMatch": true,
+    "observedTitle": "9mm",
+    "observedArtist": "9mice",
+    "notes": [],
+    "lookupMethod": "Public album.link landing page metadata; v1-alpha.1 API returned PUBLIC_API_ACCESS_DEPRECATED",
+    "checkedAt": "2026-10-08",
+    "sources": [
+      "https://album.link/i/1846155523",
+      "https://open.spotify.com/album/2ZjaGkJU86y2WOd3t9rc9u",
+      "https://www.youtube.com/@999mice/releases",
+      "https://music.youtube.com/playlist?list=OLAK5uy_mkVvArOTF3DllI2h7Uw-T-K9DZAJi5HWY"
+    ]
+  },
+  "kai-damage": {
+    "links": [
+      {
+        "url": "https://open.spotify.com/album/2wDFDUxHnXAhCY682osJh6",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/damage/1836427637"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_no7djaNtZoK0EAUnuZtYxl5mhOu-9Uz3k",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_no7djaNtZoK0EAUnuZtYxl5mhOu-9Uz3k",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "platform": "deezer",
+        "label": "Deezer",
+        "url": "https://www.deezer.com/album/816509431"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/458603091"
+      },
+      {
+        "platform": "amazonMusic",
+        "label": "Amazon Music",
+        "url": "https://music.amazon.com/albums/B0FPWTYDD5"
+      },
+      {
+        "platform": "yandex",
+        "label": "Yandex",
+        "url": "https://music.yandex.ru/album/38089920"
+      },
+      {
+        "platform": "pandora",
+        "label": "Pandora",
+        "url": "https://www.pandora.com/AL:53112246"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/1836427637"
+      }
+    ],
+    "source": "https://album.link/i/1836427637",
+    "title": "damage",
+    "artist": "Kai Angel",
+    "verifiedMetadataMatch": true,
+    "observedTitle": "damage",
+    "observedArtist": "Kai Angel",
+    "notes": [],
+    "lookupMethod": "Public album.link landing page metadata; v1-alpha.1 API returned PUBLIC_API_ACCESS_DEPRECATED",
+    "checkedAt": "2026-10-08",
+    "sources": [
+      "https://album.link/i/1836427637",
+      "https://open.spotify.com/album/2wDFDUxHnXAhCY682osJh6",
+      "https://www.youtube.com/@kaixxxngel/releases",
+      "https://music.youtube.com/playlist?list=OLAK5uy_no7djaNtZoK0EAUnuZtYxl5mhOu-9Uz3k"
+    ]
+  },
+  "kai-angel-may-cry-2": {
+    "links": [
+      {
+        "url": "https://open.spotify.com/album/76LpGef7f9b6GAQ03KmMoo",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/angel-may-cry-2/1808706264"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_ntAoGn9Scz9cWxp_5YAyCZNtBlSJWGpsY",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_ntAoGn9Scz9cWxp_5YAyCZNtBlSJWGpsY",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "platform": "deezer",
+        "label": "Deezer",
+        "url": "https://www.deezer.com/album/744106691"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/431472253"
+      },
+      {
+        "platform": "amazonMusic",
+        "label": "Amazon Music",
+        "url": "https://music.amazon.com/albums/B0F5DNR5SS"
+      },
+      {
+        "platform": "yandex",
+        "label": "Yandex",
+        "url": "https://music.yandex.ru/album/36312044"
+      },
+      {
+        "platform": "pandora",
+        "label": "Pandora",
+        "url": "https://www.pandora.com/AL:47260579"
+      },
+      {
+        "platform": "boomplay",
+        "label": "Boomplay",
+        "url": "https://www.boomplay.com/albums/73150981"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/1808706264"
+      }
+    ],
+    "source": "https://album.link/i/1808706264",
+    "title": "ANGEL MAY CRY 2",
+    "artist": "Kai Angel",
+    "verifiedMetadataMatch": true,
+    "observedTitle": "ANGEL MAY CRY 2",
+    "observedArtist": "Kai Angel",
+    "notes": [],
+    "lookupMethod": "Public album.link landing page metadata; v1-alpha.1 API returned PUBLIC_API_ACCESS_DEPRECATED",
+    "checkedAt": "2026-10-08",
+    "sources": [
+      "https://album.link/i/1808706264",
+      "https://open.spotify.com/album/76LpGef7f9b6GAQ03KmMoo",
+      "https://www.youtube.com/@kaixxxngel/releases",
+      "https://music.youtube.com/playlist?list=OLAK5uy_ntAoGn9Scz9cWxp_5YAyCZNtBlSJWGpsY"
+    ]
+  },
+  "heavy-metal-2": {
+    "links": [
+      {
+        "url": "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/heavy-metal-2/1767963478"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_nDzJWp5_RM1vb5VM1dtN7joXgFfoL4kfo",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_nDzJWp5_RM1vb5VM1dtN7joXgFfoL4kfo",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "platform": "deezer",
+        "label": "Deezer",
+        "url": "https://www.deezer.com/album/642732721"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/387120332"
+      },
+      {
+        "platform": "amazonMusic",
+        "label": "Amazon Music",
+        "url": "https://music.amazon.com/albums/B0DGXG3J4N"
+      },
+      {
+        "platform": "yandex",
+        "label": "Yandex",
+        "url": "https://music.yandex.ru/album/33207179"
+      },
+      {
+        "platform": "pandora",
+        "label": "Pandora",
+        "url": "https://www.pandora.com/AL:39123256"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/1767963478"
+      }
+    ],
+    "source": "https://album.link/i/1767963478",
+    "title": "Heavy Metal 2",
+    "artist": "Kai Angel & 9mice",
+    "verifiedMetadataMatch": true,
+    "observedTitle": "Heavy Metal 2",
+    "observedArtist": "9mice & Kai Angel",
+    "notes": [],
+    "lookupMethod": "Public album.link landing page metadata; v1-alpha.1 API returned PUBLIC_API_ACCESS_DEPRECATED",
+    "checkedAt": "2026-10-08",
+    "sources": [
+      "https://album.link/i/1767963478",
+      "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2",
+      "https://www.youtube.com/@kaixxxngel/releases",
+      "https://music.youtube.com/playlist?list=OLAK5uy_nDzJWp5_RM1vb5VM1dtN7joXgFfoL4kfo"
+    ]
+  },
+  "kai-god-system": {
+    "links": [
+      {
+        "url": "https://open.spotify.com/album/4mOYvmMHqKHT81fcWBOFuF",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/god-system/1736962256"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_lk6-k24mel4in_UYKstKjFNn7nbrY5Czc",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_lk6-k24mel4in_UYKstKjFNn7nbrY5Czc",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "platform": "deezer",
+        "label": "Deezer",
+        "url": "https://www.deezer.com/album/563429182"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/352766390"
+      },
+      {
+        "platform": "amazonMusic",
+        "label": "Amazon Music",
+        "url": "https://music.amazon.com/albums/B0CYSHJB5L"
+      },
+      {
+        "platform": "yandex",
+        "label": "Yandex",
+        "url": "https://music.yandex.ru/album/30319657"
+      },
+      {
+        "platform": "pandora",
+        "label": "Pandora",
+        "url": "https://www.pandora.com/AL:32934698"
+      },
+      {
+        "platform": "boomplay",
+        "label": "Boomplay",
+        "url": "https://www.boomplay.com/albums/87199760"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/1736962256"
+      }
+    ],
+    "source": "https://album.link/i/1736962256",
+    "title": "GOD SYSTEM",
+    "artist": "Kai Angel",
+    "verifiedMetadataMatch": true,
+    "observedTitle": "GOD SYSTEM",
+    "observedArtist": "Kai Angel",
+    "notes": [],
+    "lookupMethod": "Public album.link landing page metadata; v1-alpha.1 API returned PUBLIC_API_ACCESS_DEPRECATED",
+    "checkedAt": "2026-10-08",
+    "sources": [
+      "https://album.link/i/1736962256",
+      "https://open.spotify.com/album/4mOYvmMHqKHT81fcWBOFuF",
+      "https://www.youtube.com/@kaixxxngel/releases",
+      "https://music.youtube.com/playlist?list=OLAK5uy_lk6-k24mel4in_UYKstKjFNn7nbrY5Czc"
+    ]
+  },
+  "9mice-orpheus": {
+    "links": [
+      {
+        "url": "https://open.spotify.com/album/3c7myEnQJ6P2HrquNNL4gn",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/orpheus/1719945440"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_nj7-g23nv1RIh5AoOMdUfz1lBCcaK3cY8",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_nj7-g23nv1RIh5AoOMdUfz1lBCcaK3cY8",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "platform": "deezer",
+        "label": "Deezer",
+        "url": "https://www.deezer.com/album/521301222"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/334067263"
+      },
+      {
+        "platform": "amazonMusic",
+        "label": "Amazon Music",
+        "url": "https://music.amazon.com/albums/B0CPRZLYBB"
+      },
+      {
+        "platform": "yandex",
+        "label": "Yandex",
+        "url": "https://music.yandex.ru/album/28485493"
+      },
+      {
+        "platform": "pandora",
+        "label": "Pandora",
+        "url": "https://www.pandora.com/AL:29733358"
+      },
+      {
+        "platform": "boomplay",
+        "label": "Boomplay",
+        "url": "https://www.boomplay.com/albums/81414472"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/1719945440"
+      }
+    ],
+    "source": "https://album.link/i/1719945440",
+    "title": "ORPHEUS",
+    "artist": "9mice",
+    "verifiedMetadataMatch": true,
+    "observedTitle": "ORPHEUS",
+    "observedArtist": "9mice",
+    "notes": [],
+    "lookupMethod": "Public album.link landing page metadata; v1-alpha.1 API returned PUBLIC_API_ACCESS_DEPRECATED",
+    "checkedAt": "2026-10-08",
+    "sources": [
+      "https://album.link/i/1719945440",
+      "https://open.spotify.com/album/3c7myEnQJ6P2HrquNNL4gn",
+      "https://www.youtube.com/@999mice/releases",
+      "https://music.youtube.com/playlist?list=OLAK5uy_nj7-g23nv1RIh5AoOMdUfz1lBCcaK3cY8"
+    ]
+  },
+  "kai-angel-may-cry": {
+    "links": [
+      {
+        "url": "https://open.spotify.com/album/5P3Y4IXLwQzZF5v9fFRIFz",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/angel-may-cry/1696056090"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_nvbq-1JntkccUl69UQhuXTRiln7zohzAQ",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_nvbq-1JntkccUl69UQhuXTRiln7zohzAQ",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "platform": "deezer",
+        "label": "Deezer",
+        "url": "https://www.deezer.com/album/461915935"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/303697715"
+      },
+      {
+        "platform": "amazonMusic",
+        "label": "Amazon Music",
+        "url": "https://music.amazon.com/albums/B0CBBMZH4T"
+      },
+      {
+        "platform": "yandex",
+        "label": "Yandex",
+        "url": "https://music.yandex.ru/album/26519993"
+      },
+      {
+        "platform": "pandora",
+        "label": "Pandora",
+        "url": "https://www.pandora.com/AL:47260579"
+      },
+      {
+        "platform": "boomplay",
+        "label": "Boomplay",
+        "url": "https://www.boomplay.com/albums/73150981"
+      },
+      {
+        "platform": "anghami",
+        "label": "Anghami",
+        "url": "https://play.anghami.com/album/1041237573?refer=linktree"
+      },
+      {
+        "platform": "napster",
+        "label": "Napster",
+        "url": "https://play.napster.com/album/alb.5521688736532400"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/1696056090"
+      }
+    ],
+    "source": "https://album.link/i/1696056090",
+    "title": "ANGEL MAY CRY",
+    "artist": "Kai Angel",
+    "verifiedMetadataMatch": true,
+    "observedTitle": "ANGEL MAY CRY",
+    "observedArtist": "Kai Angel",
+    "notes": [],
+    "lookupMethod": "Public album.link landing page metadata; v1-alpha.1 API returned PUBLIC_API_ACCESS_DEPRECATED",
+    "checkedAt": "2026-10-08",
+    "sources": [
+      "https://album.link/i/1696056090",
+      "https://open.spotify.com/album/5P3Y4IXLwQzZF5v9fFRIFz",
+      "https://www.youtube.com/@kaixxxngel/releases",
+      "https://music.youtube.com/playlist?list=OLAK5uy_nvbq-1JntkccUl69UQhuXTRiln7zohzAQ"
+    ]
+  },
+  "9mice-asphalt": {
+    "links": [
+      {
+        "url": "https://open.spotify.com/album/1ZTd3crKJnUiyJ0Hz0MHzU",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_nkbMe9hnpvFu94p_ORdlItK50J6P1erYw",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_nkbMe9hnpvFu94p_ORdlItK50J6P1erYw",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "platform": "deezer",
+        "label": "Deezer",
+        "url": "https://www.deezer.com/album/446211555"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/296901007"
+      },
+      {
+        "platform": "yandex",
+        "label": "Yandex",
+        "url": "https://music.yandex.ru/album/25926224"
+      },
+      {
+        "url": "https://www.qobuz.com/us-en/album/asphalt-9mice/u1oaldcbpdw3b",
+        "platform": "qobuz",
+        "label": "Qobuz"
+      },
+      {
+        "platform": "boomplay",
+        "label": "Boomplay",
+        "url": "https://www.boomplay.com/albums/70725084"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/s/1ZTd3crKJnUiyJ0Hz0MHzU"
+      }
+    ],
+    "source": "https://album.link/s/1ZTd3crKJnUiyJ0Hz0MHzU",
+    "title": "ASPHALT",
+    "artist": "9mice",
+    "verifiedMetadataMatch": true,
+    "observedTitle": "ASPHALT",
+    "observedArtist": "9mice",
+    "notes": [],
+    "lookupMethod": "Public album.link landing page metadata; v1-alpha.1 API returned PUBLIC_API_ACCESS_DEPRECATED",
+    "checkedAt": "2026-10-08",
+    "sources": [
+      "https://album.link/s/1ZTd3crKJnUiyJ0Hz0MHzU",
+      "https://open.spotify.com/album/1ZTd3crKJnUiyJ0Hz0MHzU",
+      "https://www.youtube.com/@999mice/releases",
+      "https://music.youtube.com/playlist?list=OLAK5uy_nkbMe9hnpvFu94p_ORdlItK50J6P1erYw",
+      "https://www.qobuz.com/us-en/album/asphalt-9mice/u1oaldcbpdw3b"
+    ]
+  },
+  "kai-marilyn-manson": {
+    "links": [
+      {
+        "url": "https://open.spotify.com/album/7dz6JUHLUpUMYauZgu8sOO",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/nl/album/marilyn-manson/1678069965"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_kxh7Vcg4CfGA4iX42jqAhJIuGdJfsIMvY",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_kxh7Vcg4CfGA4iX42jqAhJIuGdJfsIMvY",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "platform": "deezer",
+        "label": "Deezer",
+        "url": "https://www.deezer.com/album/421238247"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/284609352"
+      },
+      {
+        "platform": "yandex",
+        "label": "Yandex",
+        "url": "https://music.yandex.ru/album/25270700"
+      },
+      {
+        "platform": "anghami",
+        "label": "Anghami",
+        "url": "https://play.anghami.com/album/1037590648?refer=linktree"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/1678069965"
+      }
+    ],
+    "source": "https://album.link/i/1678069965",
+    "title": "Marilyn Manson",
+    "artist": "Kai Angel",
+    "verifiedMetadataMatch": true,
+    "observedTitle": "Marilyn Manson",
+    "observedArtist": "Kai Angel",
+    "notes": [
+      "Some platforms label the same 2023 eleven-track release ММ; Spotify still exposes the MARILYN MANSON edition. Artist, release date and track count matched."
+    ],
+    "lookupMethod": "Public album.link landing page metadata; v1-alpha.1 API returned PUBLIC_API_ACCESS_DEPRECATED",
+    "checkedAt": "2026-10-08",
+    "sources": [
+      "https://album.link/i/1678069965",
+      "https://open.spotify.com/album/7dz6JUHLUpUMYauZgu8sOO",
+      "https://www.youtube.com/@kaixxxngel/releases",
+      "https://music.youtube.com/playlist?list=OLAK5uy_kxh7Vcg4CfGA4iX42jqAhJIuGdJfsIMvY"
+    ]
+  },
+  "heavy-metal": {
+    "links": [
+      {
+        "url": "https://open.spotify.com/album/5X2yKAx2mYd63Lgk8sKDvs",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/heavy-metal-ep/1889978892"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_nU6Z_Vv2H900_0v2YZ9eglPdvhy7kyv4o",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_nU6Z_Vv2H900_0v2YZ9eglPdvhy7kyv4o",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "platform": "deezer",
+        "label": "Deezer",
+        "url": "https://www.deezer.com/album/406181747"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/512144116"
+      },
+      {
+        "platform": "amazonMusic",
+        "label": "Amazon Music",
+        "url": "https://music.amazon.com/albums/B0GVP5WDHJ"
+      },
+      {
+        "platform": "yandex",
+        "label": "Yandex",
+        "url": "https://music.yandex.ru/album/24889014"
+      },
+      {
+        "platform": "pandora",
+        "label": "Pandora",
+        "url": "https://www.pandora.com/AL:21527101"
+      },
+      {
+        "platform": "boomplay",
+        "label": "Boomplay",
+        "url": "https://www.boomplay.com/albums/64200349"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/1889978892"
+      }
+    ],
+    "source": "https://album.link/i/1889978892",
+    "title": "HEAVY METAL",
+    "artist": "Kai Angel & 9mice",
+    "verifiedMetadataMatch": true,
+    "observedTitle": "HEAVY METAL - EP",
+    "observedArtist": "Kai Angel & 9mice",
+    "notes": [],
+    "lookupMethod": "Public album.link landing page metadata; v1-alpha.1 API returned PUBLIC_API_ACCESS_DEPRECATED",
+    "checkedAt": "2026-10-08",
+    "sources": [
+      "https://album.link/i/1889978892",
+      "https://open.spotify.com/album/5X2yKAx2mYd63Lgk8sKDvs",
+      "https://www.youtube.com/@kaixxxngel/releases",
+      "https://music.youtube.com/playlist?list=OLAK5uy_nU6Z_Vv2H900_0v2YZ9eglPdvhy7kyv4o"
+    ]
+  },
+  "kai-kaicore": {
+    "links": [
+      {
+        "url": "https://open.spotify.com/album/2QBjiorsprlvBiG6Nh0Vrj",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/kaicore-ep/1890441104"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_mAw_h1fMrTQyoxo61GEXnW9Qq1MOUyyQ4",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_mAw_h1fMrTQyoxo61GEXnW9Qq1MOUyyQ4",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "url": "https://www.deezer.com/album/953577301",
+        "platform": "deezer",
+        "label": "Deezer"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/512743657"
+      },
+      {
+        "platform": "amazonMusic",
+        "label": "Amazon Music",
+        "url": "https://music.amazon.com/albums/B0GVXNJLRM"
+      },
+      {
+        "url": "https://www.qobuz.com/us-en/album/kaicore-kai-angel/pqpjef8o45zev",
+        "platform": "qobuz",
+        "label": "Qobuz"
+      },
+      {
+        "platform": "boomplay",
+        "label": "Boomplay",
+        "url": "https://www.boomplay.com/albums/124709780"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/1890441104"
+      }
+    ],
+    "source": "https://album.link/i/1890441104",
+    "title": "kAiCoRe",
+    "artist": "Kai Angel",
+    "verifiedMetadataMatch": true,
+    "observedTitle": "kAiCoRe - EP",
+    "observedArtist": "Kai Angel",
+    "notes": [
+      "Stale Odesli Deezer ID 330874107 returned no data and was replaced by verified current Deezer ID 953577301."
+    ],
+    "lookupMethod": "Public album.link landing page metadata; v1-alpha.1 API returned PUBLIC_API_ACCESS_DEPRECATED",
+    "checkedAt": "2026-10-08",
+    "sources": [
+      "https://album.link/i/1890441104",
+      "https://open.spotify.com/album/2QBjiorsprlvBiG6Nh0Vrj",
+      "https://api.deezer.com/album/953577301",
+      "https://www.youtube.com/@kaixxxngel/releases",
+      "https://music.youtube.com/playlist?list=OLAK5uy_mAw_h1fMrTQyoxo61GEXnW9Qq1MOUyyQ4",
+      "https://www.qobuz.com/us-en/album/kaicore-kai-angel/pqpjef8o45zev"
+    ]
+  },
+  "9mice-soloist": {
+    "links": [
+      {
+        "url": "https://open.spotify.com/album/0s3JPUTNe7XljogZqvKxqu",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/soloist/1694212695"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_lQpJez4KokVbxq3YZT59rHWEU23TDWHeI",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_lQpJez4KokVbxq3YZT59rHWEU23TDWHeI",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "url": "https://www.deezer.com/album/458440995",
+        "platform": "deezer",
+        "label": "Deezer"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/301641231"
+      },
+      {
+        "platform": "amazonMusic",
+        "label": "Amazon Music",
+        "url": "https://music.amazon.com/albums/B0GVQ43PHJ"
+      },
+      {
+        "platform": "yandex",
+        "label": "Yandex",
+        "url": "https://music.yandex.ru/album/39942367"
+      },
+      {
+        "url": "https://www.qobuz.com/gb-en/album/soloist-9mice/gunq6kxku56xb",
+        "platform": "qobuz",
+        "label": "Qobuz"
+      },
+      {
+        "platform": "pandora",
+        "label": "Pandora",
+        "url": "https://www.pandora.com/AL:24995033"
+      },
+      {
+        "platform": "boomplay",
+        "label": "Boomplay",
+        "url": "https://www.boomplay.com/albums/37517427"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/1694212695"
+      }
+    ],
+    "source": "https://album.link/i/1694212695",
+    "title": "SOLOIST",
+    "artist": "9mice",
+    "verifiedMetadataMatch": true,
+    "observedTitle": "SOLOIST",
+    "observedArtist": "9mice",
+    "notes": [],
+    "lookupMethod": "Public album.link landing page metadata; v1-alpha.1 API returned PUBLIC_API_ACCESS_DEPRECATED",
+    "checkedAt": "2026-10-08",
+    "sources": [
+      "https://album.link/i/1694212695",
+      "https://open.spotify.com/album/0s3JPUTNe7XljogZqvKxqu",
+      "https://api.deezer.com/album/458440995",
+      "https://www.youtube.com/@999mice/releases",
+      "https://music.youtube.com/playlist?list=OLAK5uy_lQpJez4KokVbxq3YZT59rHWEU23TDWHeI",
+      "https://www.qobuz.com/gb-en/album/soloist-9mice/gunq6kxku56xb"
+    ]
+  }
+}

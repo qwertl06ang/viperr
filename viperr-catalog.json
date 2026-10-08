@@ -1,0 +1,2185 @@
+[
+  {
+    "id": "kai-shh-bang",
+    "title": "Shh!",
+    "artist": "Kai Angel",
+    "group": "kai",
+    "date": "2026-09-11",
+    "year": 2026,
+    "type": "Album",
+    "trackCount": 14,
+    "cover": "assets/albums/kai-shh-bang.jpg",
+    "url": "https://music.apple.com/us/album/shh/6810597974",
+    "description": "Released one week after Shh..., on September 11, 2026. Includes 'chateau', 'gladiator' and 'Madam 2'.",
+    "tracks": [
+      {
+        "number": 2,
+        "title": "chateau",
+        "duration": "1:56",
+        "url": "https://music.apple.com/us/song/chateau/6810598114"
+      },
+      {
+        "number": 3,
+        "title": "gladiator",
+        "duration": "1:43",
+        "url": "https://music.apple.com/us/song/gladiator/6810598127"
+      },
+      {
+        "number": 4,
+        "title": "OFFICE SONG",
+        "duration": "1:42",
+        "url": "https://music.apple.com/us/song/office-song/6810598133"
+      },
+      {
+        "number": 5,
+        "title": "david bowie",
+        "duration": "1:33",
+        "url": "https://music.apple.com/us/song/david-bowie/6810598294"
+      },
+      {
+        "number": 6,
+        "title": "having fun",
+        "duration": "2:15",
+        "url": "https://music.apple.com/us/song/having-fun/6810598296"
+      },
+      {
+        "number": 7,
+        "title": "Leopard Red",
+        "duration": "1:54",
+        "url": "https://music.apple.com/us/song/leopard-red/6810598304"
+      },
+      {
+        "number": 8,
+        "title": "Sting",
+        "duration": "2:12",
+        "url": "https://music.apple.com/us/song/sting/6810598315"
+      },
+      {
+        "number": 9,
+        "title": "ew",
+        "duration": "1:45",
+        "url": "https://music.apple.com/us/song/ew/6810598441"
+      },
+      {
+        "number": 10,
+        "title": "STFU!",
+        "duration": "2:54",
+        "url": "https://music.apple.com/us/song/stfu/6810598446"
+      },
+      {
+        "number": 11,
+        "title": "1971 Rockstar",
+        "duration": "1:44",
+        "url": "https://music.apple.com/us/song/1971-rockstar/6810598454"
+      },
+      {
+        "number": 12,
+        "title": "does it hurt?",
+        "duration": "1:43",
+        "url": "https://music.apple.com/us/song/does-it-hurt/6810598459"
+      },
+      {
+        "number": 13,
+        "title": "Madam 2",
+        "duration": "1:49",
+        "url": "https://music.apple.com/us/song/madam-2/6810598617"
+      },
+      {
+        "number": 14,
+        "title": "chrome hearts",
+        "duration": "2:15",
+        "url": "https://music.apple.com/us/song/chrome-hearts/6810598626"
+      }
+    ],
+    "tracklistComplete": false,
+    "platforms": [
+      {
+        "url": "https://open.spotify.com/album/4cVrSy8zr5T4za4radTHqk",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/shh/6810597974"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_nXm55xo56RDXW7NZgafJci6l80jkxRw7w",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "platform": "yandexMusic",
+        "label": "Yandex Music",
+        "url": "https://music.yandex.ru/album/43917005"
+      },
+      {
+        "platform": "vkMusic",
+        "label": "VK Music",
+        "url": "https://vk.ru/music/album/-2000211074_29211074?mt_click_id=mt-ocygx9-1789114303-2139167329",
+        "source": "https://m.the-flow.ru/releases/kai-angel-shh-2"
+      },
+      {
+        "platform": "zvuk",
+        "label": "Zvuk",
+        "url": "https://zvuk.com/release/52895559",
+        "source": "https://m.the-flow.ru/releases/kai-angel-shh-2"
+      },
+      {
+        "platform": "kionMusic",
+        "label": "KION Music",
+        "url": "https://music.mts.ru/artist/16509384/albums/43917005",
+        "source": "https://m.the-flow.ru/releases/kai-angel-shh-2"
+      },
+      {
+        "url": "https://www.deezer.com/album/1075958632",
+        "platform": "deezer",
+        "label": "Deezer"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/560183241"
+      },
+      {
+        "platform": "amazonMusic",
+        "label": "Amazon Music",
+        "url": "https://music.amazon.com/albums/B0HHPKKRH3"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_nXm55xo56RDXW7NZgafJci6l80jkxRw7w",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "url": "https://www.qobuz.com/us-en/album/shh-kai-angel/nbfobh3gkh265",
+        "platform": "qobuz",
+        "label": "Qobuz"
+      },
+      {
+        "platform": "pandora",
+        "label": "Pandora",
+        "url": "https://www.pandora.com/AL:69699981"
+      },
+      {
+        "platform": "boomplay",
+        "label": "Boomplay",
+        "url": "https://www.boomplay.com/albums/139496861"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/6810597974"
+      }
+    ]
+  },
+  {
+    "id": "kai-shh-dots",
+    "title": "Shh...",
+    "artist": "Kai Angel",
+    "group": "kai",
+    "date": "2026-09-04",
+    "year": 2026,
+    "type": "Album",
+    "trackCount": 14,
+    "cover": "assets/albums/kai-shh-dots.jpg",
+    "url": "https://music.apple.com/us/album/shh/6808162752",
+    "description": "The September 4, 2026 release, featuring 'andy warhol', 'BABYLON' and 'Pretty Girls'.",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "TV",
+        "duration": "3:08",
+        "url": "https://music.apple.com/us/song/tv/6808162758"
+      },
+      {
+        "number": 2,
+        "title": "Mulholland",
+        "duration": "2:38",
+        "url": "https://music.apple.com/us/song/mulholland/6808163094"
+      },
+      {
+        "number": 3,
+        "title": "evil icon baby",
+        "duration": "2:21",
+        "url": "https://music.apple.com/us/song/evil-icon-baby/6808163109"
+      },
+      {
+        "number": 4,
+        "title": "pleasure",
+        "duration": "3:17",
+        "url": "https://music.apple.com/us/song/pleasure/6808163112"
+      },
+      {
+        "number": 5,
+        "title": "NAKED",
+        "duration": "3:27",
+        "url": "https://music.apple.com/us/song/naked/6808163121"
+      },
+      {
+        "number": 6,
+        "title": "Razorblade kiss",
+        "duration": "3:09",
+        "url": "https://music.apple.com/us/song/razorblade-kiss/6808163341"
+      },
+      {
+        "number": 7,
+        "title": "Pretty Girls",
+        "duration": "2:57",
+        "url": "https://music.apple.com/us/song/pretty-girls/6808163349"
+      },
+      {
+        "number": 8,
+        "title": "andy warhol",
+        "duration": "2:56",
+        "url": "https://music.apple.com/us/song/andy-warhol/6808163353"
+      },
+      {
+        "number": 9,
+        "title": "1 more",
+        "duration": "2:02",
+        "url": "https://music.apple.com/us/song/1-more/6808163576"
+      },
+      {
+        "number": 10,
+        "title": "BABYLON",
+        "duration": "2:26",
+        "url": "https://music.apple.com/us/song/babylon/6808163586"
+      },
+      {
+        "number": 11,
+        "title": "le royal monceau gatsby séance",
+        "duration": "2:21",
+        "url": "https://music.apple.com/us/song/le-royal-monceau-gatsby-s%C3%A9ance/6808163594"
+      },
+      {
+        "number": 12,
+        "title": "Limousine Music",
+        "duration": "3:08",
+        "url": "https://music.apple.com/us/song/limousine-music/6808163852"
+      },
+      {
+        "number": 13,
+        "title": "yes i glow in the dark but also i am the dark",
+        "duration": "3:02",
+        "url": "https://music.apple.com/us/song/yes-i-glow-in-the-dark-but-also-i-am-the-dark/6808163871"
+      },
+      {
+        "number": 14,
+        "title": "Flowers",
+        "duration": "3:24",
+        "url": "https://music.apple.com/us/song/flowers/6808163876"
+      }
+    ],
+    "tracklistComplete": true,
+    "platforms": [
+      {
+        "url": "https://open.spotify.com/album/5ozsaDdq5LYbkMnhdE3L4o",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/shh/6808162752"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_lLdSSuFwe5koJE7u-X5Xit_lfXWs9gT_s",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "platform": "yandexMusic",
+        "label": "Yandex Music",
+        "url": "https://music.yandex.ru/album/43917005"
+      },
+      {
+        "platform": "vkMusic",
+        "label": "VK Music",
+        "url": "https://music.vk.com/link/7CRuV",
+        "source": "https://band.link/otVEg"
+      },
+      {
+        "platform": "zvuk",
+        "label": "Zvuk",
+        "url": "https://zvuk.com/release/52783796",
+        "source": "https://band.link/otVEg"
+      },
+      {
+        "platform": "kionMusic",
+        "label": "KION Music",
+        "url": "https://music.mts.ru/album/43723917",
+        "source": "https://band.link/otVEg"
+      },
+      {
+        "url": "https://www.deezer.com/album/1070331932",
+        "platform": "deezer",
+        "label": "Deezer"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/558248610"
+      },
+      {
+        "platform": "amazonMusic",
+        "label": "Amazon Music",
+        "url": "https://music.amazon.com/albums/B0HHPKKRH3"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_lLdSSuFwe5koJE7u-X5Xit_lfXWs9gT_s",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "platform": "pandora",
+        "label": "Pandora",
+        "url": "https://www.pandora.com/AL:69699981"
+      },
+      {
+        "platform": "boomplay",
+        "label": "Boomplay",
+        "url": "https://www.boomplay.com/albums/139496861"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/6808162752"
+      }
+    ]
+  },
+  {
+    "id": "9mice-9mm",
+    "title": "9mm",
+    "artist": "9mice",
+    "group": "9mice",
+    "date": "2025-10-17",
+    "year": 2025,
+    "type": "Album",
+    "trackCount": 14,
+    "cover": "assets/albums/9mice-9mm.jpg",
+    "url": "https://music.apple.com/us/album/9mm/1846155523",
+    "description": "",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "jenna",
+        "duration": "2:15",
+        "url": "https://music.apple.com/us/album/jenna/1846155523?i=1846155531"
+      },
+      {
+        "number": 2,
+        "title": "nirvana",
+        "duration": "2:02",
+        "url": "https://music.apple.com/us/album/nirvana/1846155523?i=1846155677"
+      },
+      {
+        "number": 3,
+        "title": "distance",
+        "duration": "2:04",
+        "url": "https://music.apple.com/us/album/distance/1846155523?i=1846155682"
+      },
+      {
+        "number": 4,
+        "title": "kill bill / evian",
+        "duration": "1:58",
+        "url": "https://music.apple.com/us/album/kill-bill-evian/1846155523?i=1846155689"
+      },
+      {
+        "number": 5,
+        "title": "famous",
+        "duration": "2:21",
+        "url": "https://music.apple.com/us/album/famous/1846155523?i=1846155694"
+      },
+      {
+        "number": 6,
+        "title": "humble",
+        "duration": "2:16",
+        "url": "https://music.apple.com/us/album/humble/1846155523?i=1846155697"
+      },
+      {
+        "number": 7,
+        "title": "dry lips freestyle",
+        "duration": "1:55",
+        "url": "https://music.apple.com/us/album/dry-lips-freestyle/1846155523?i=1846155972"
+      },
+      {
+        "number": 8,
+        "title": "romance",
+        "duration": "2:16",
+        "url": "https://music.apple.com/us/album/romance/1846155523?i=1846155979"
+      },
+      {
+        "number": 9,
+        "title": "chanel no9",
+        "duration": "2:05",
+        "url": "https://music.apple.com/us/album/chanel-no9/1846155523?i=1846155981"
+      },
+      {
+        "number": 10,
+        "title": "your love",
+        "duration": "2:00",
+        "url": "https://music.apple.com/us/album/your-love/1846155523?i=1846155982"
+      },
+      {
+        "number": 11,
+        "title": "less than 0",
+        "duration": "0:45",
+        "url": "https://music.apple.com/us/album/less-than-0/1846155523?i=1846155994"
+      },
+      {
+        "number": 12,
+        "title": "sugar",
+        "duration": "2:36",
+        "url": "https://music.apple.com/us/album/sugar/1846155523?i=1846156182"
+      },
+      {
+        "number": 13,
+        "title": "acoustic",
+        "duration": "2:00",
+        "url": "https://music.apple.com/us/album/acoustic/1846155523?i=1846156191"
+      },
+      {
+        "number": 14,
+        "title": "weightless / outro",
+        "duration": "1:29",
+        "url": "https://music.apple.com/us/album/weightless-outro/1846155523?i=1846156194"
+      }
+    ],
+    "tracklistComplete": true,
+    "platforms": [
+      {
+        "url": "https://open.spotify.com/album/2ZjaGkJU86y2WOd3t9rc9u",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/9mm/1846155523"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_mkVvArOTF3DllI2h7Uw-T-K9DZAJi5HWY",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "platform": "yandexMusic",
+        "label": "Yandex Music",
+        "url": "https://music.yandex.ru/album/38695104"
+      },
+      {
+        "platform": "vkMusic",
+        "label": "VK Music",
+        "url": "https://vk.com/music/album/-2000559278_25559278_ce424282bae7f6cc5b",
+        "source": "https://the-flow.ru/releases/9mice-9mm"
+      },
+      {
+        "platform": "zvuk",
+        "label": "Zvuk",
+        "url": "https://zvuk.com/release/42770508",
+        "source": "https://the-flow.ru/releases/9mice-9mm"
+      },
+      {
+        "platform": "kionMusic",
+        "label": "KION Music",
+        "url": "https://music.mts.ru/album/38695104",
+        "source": "https://the-flow.ru/releases/9mice-9mm"
+      },
+      {
+        "platform": "deezer",
+        "label": "Deezer",
+        "url": "https://www.deezer.com/album/839353722"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/467455760"
+      },
+      {
+        "platform": "amazonMusic",
+        "label": "Amazon Music",
+        "url": "https://music.amazon.com/albums/B0FWN7J9QH"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_mkVvArOTF3DllI2h7Uw-T-K9DZAJi5HWY",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "platform": "pandora",
+        "label": "Pandora",
+        "url": "https://www.pandora.com/AL:55019451"
+      },
+      {
+        "platform": "boomplay",
+        "label": "Boomplay",
+        "url": "https://www.boomplay.com/albums/118052626"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/1846155523"
+      }
+    ]
+  },
+  {
+    "id": "kai-damage",
+    "title": "damage",
+    "artist": "Kai Angel",
+    "group": "kai",
+    "date": "2025-09-05",
+    "year": 2025,
+    "type": "Album",
+    "trackCount": 17,
+    "cover": "assets/albums/kai-damage.jpg",
+    "url": "https://music.apple.com/us/album/damage/1836427637",
+    "description": "A seventeen-track September 2025 album featuring 'body double', 'Madam' and 'welcome to forever'.",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "are you happy",
+        "duration": "3:12",
+        "url": "https://music.apple.com/us/song/are-you-happy/1836427643"
+      },
+      {
+        "number": 2,
+        "title": "im all blessed the f**k up",
+        "duration": "3:35",
+        "url": "https://music.apple.com/us/song/im-all-blessed-the-f-k-up/1836427645"
+      },
+      {
+        "number": 3,
+        "title": "basement",
+        "duration": "2:14",
+        "url": "https://music.apple.com/us/song/basement/1836427647"
+      },
+      {
+        "number": 4,
+        "title": "body double",
+        "duration": "1:52",
+        "url": "https://music.apple.com/us/song/body-double/1836427648"
+      },
+      {
+        "number": 5,
+        "title": "mirrors",
+        "duration": "2:12",
+        "url": "https://music.apple.com/us/song/mirrors/1836427651"
+      },
+      {
+        "number": 6,
+        "title": "chelsea smile",
+        "duration": "2:15",
+        "url": "https://music.apple.com/us/song/chelsea-smile/1836427652"
+      },
+      {
+        "number": 7,
+        "title": "444",
+        "duration": "2:15",
+        "url": "https://music.apple.com/us/song/444/1836427657"
+      },
+      {
+        "number": 8,
+        "title": "parasocial freestyle",
+        "duration": "1:50",
+        "url": "https://music.apple.com/us/song/parasocial-freestyle/1836428110"
+      },
+      {
+        "number": 9,
+        "title": "designer's paradise",
+        "duration": "2:02",
+        "url": "https://music.apple.com/us/song/designers-paradise/1836428115"
+      },
+      {
+        "number": 10,
+        "title": "fire walk with me",
+        "duration": "1:08",
+        "url": "https://music.apple.com/us/song/fire-walk-with-me/1836428117"
+      },
+      {
+        "number": 11,
+        "title": "Madam",
+        "duration": "2:22",
+        "url": "https://music.apple.com/us/song/madam/1836428121"
+      },
+      {
+        "number": 12,
+        "title": "sirens",
+        "duration": "2:01",
+        "url": "https://music.apple.com/us/song/sirens/1836428123"
+      },
+      {
+        "number": 13,
+        "title": "naive",
+        "duration": "1:36",
+        "url": "https://music.apple.com/us/song/naive/1836428124"
+      },
+      {
+        "number": 14,
+        "title": "drive",
+        "duration": "1:55",
+        "url": "https://music.apple.com/us/song/drive/1836428126"
+      },
+      {
+        "number": 15,
+        "title": "welcome to forever",
+        "duration": "2:46",
+        "url": "https://music.apple.com/us/song/welcome-to-forever/1836428128"
+      },
+      {
+        "number": 16,
+        "title": "0 tears",
+        "duration": "2:25",
+        "url": "https://music.apple.com/us/song/0-tears/1836428129"
+      },
+      {
+        "number": 17,
+        "title": "damage",
+        "duration": "3:00",
+        "url": "https://music.apple.com/us/song/damage/1836428133"
+      }
+    ],
+    "tracklistComplete": true,
+    "platforms": [
+      {
+        "url": "https://open.spotify.com/album/2wDFDUxHnXAhCY682osJh6",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/damage/1836427637"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_no7djaNtZoK0EAUnuZtYxl5mhOu-9Uz3k",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "platform": "yandexMusic",
+        "label": "Yandex Music",
+        "url": "https://music.yandex.ru/album/38089920"
+      },
+      {
+        "platform": "vkMusic",
+        "label": "VK Music",
+        "url": "https://music.vk.com/link/Zafnq",
+        "source": "https://band.link/VuWdZ"
+      },
+      {
+        "platform": "zvuk",
+        "label": "Zvuk",
+        "url": "https://zvuk.com/release/41553682",
+        "source": "https://the-flow.ru/releases/kai-angel-damage"
+      },
+      {
+        "platform": "kionMusic",
+        "label": "KION Music",
+        "url": "https://music.mts.ru/album/38089920",
+        "source": "https://band.link/VuWdZ"
+      },
+      {
+        "platform": "deezer",
+        "label": "Deezer",
+        "url": "https://www.deezer.com/album/816509431"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/458603091"
+      },
+      {
+        "platform": "amazonMusic",
+        "label": "Amazon Music",
+        "url": "https://music.amazon.com/albums/B0FPWTYDD5"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_no7djaNtZoK0EAUnuZtYxl5mhOu-9Uz3k",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "platform": "pandora",
+        "label": "Pandora",
+        "url": "https://www.pandora.com/AL:53112246"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/1836427637"
+      }
+    ]
+  },
+  {
+    "id": "kai-angel-may-cry-2",
+    "title": "ANGEL MAY CRY 2",
+    "artist": "Kai Angel",
+    "group": "kai",
+    "date": "2025-04-18",
+    "year": 2025,
+    "type": "Album",
+    "trackCount": 7,
+    "cover": "assets/albums/kai-angel-may-cry-2.jpg",
+    "url": "https://music.apple.com/us/album/angel-may-cry-2/1808706264",
+    "description": "The seven-track April 2025 follow-up, opening with 'john galliano' and closing with 'white ferrari'.",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "john galliano",
+        "duration": "2:18",
+        "url": "https://music.apple.com/us/song/john-galliano/1808706278"
+      },
+      {
+        "number": 2,
+        "title": "millions",
+        "duration": "1:35",
+        "url": "https://music.apple.com/us/song/millions/1808706285"
+      },
+      {
+        "number": 3,
+        "title": "i hate fashion shows",
+        "duration": "2:06",
+        "url": "https://music.apple.com/us/song/i-hate-fashion-shows/1808706442"
+      },
+      {
+        "number": 4,
+        "title": "scream!",
+        "duration": "2:05",
+        "url": "https://music.apple.com/us/song/scream/1808706457"
+      },
+      {
+        "number": 5,
+        "title": "laperouse",
+        "duration": "2:09",
+        "url": "https://music.apple.com/us/song/laperouse/1808706463"
+      },
+      {
+        "number": 6,
+        "title": "aimed u up",
+        "duration": "1:36",
+        "url": "https://music.apple.com/us/song/aimed-u-up/1808706744"
+      },
+      {
+        "number": 7,
+        "title": "white ferrari",
+        "duration": "1:50",
+        "url": "https://music.apple.com/us/song/white-ferrari/1808706764"
+      }
+    ],
+    "tracklistComplete": true,
+    "platforms": [
+      {
+        "url": "https://open.spotify.com/album/76LpGef7f9b6GAQ03KmMoo",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/angel-may-cry-2/1808706264"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_ntAoGn9Scz9cWxp_5YAyCZNtBlSJWGpsY",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "platform": "yandexMusic",
+        "label": "Yandex Music",
+        "url": "https://music.yandex.ru/album/36312044"
+      },
+      {
+        "platform": "vkMusic",
+        "label": "VK Music",
+        "url": "https://music.vk.com/link/Ossoy",
+        "source": "https://m.the-flow.ru/releases/kai-angel-angel-may-cry-2"
+      },
+      {
+        "platform": "zvuk",
+        "label": "Zvuk",
+        "url": "https://zvuk.com/release/38359761",
+        "source": "https://m.the-flow.ru/releases/kai-angel-angel-may-cry-2"
+      },
+      {
+        "platform": "kionMusic",
+        "label": "KION Music",
+        "url": "https://music.mts.ru/album/36312044",
+        "source": "https://m.the-flow.ru/releases/kai-angel-angel-may-cry-2"
+      },
+      {
+        "platform": "deezer",
+        "label": "Deezer",
+        "url": "https://www.deezer.com/album/744106691"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/431472253"
+      },
+      {
+        "platform": "amazonMusic",
+        "label": "Amazon Music",
+        "url": "https://music.amazon.com/albums/B0F5DNR5SS"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_ntAoGn9Scz9cWxp_5YAyCZNtBlSJWGpsY",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "platform": "pandora",
+        "label": "Pandora",
+        "url": "https://www.pandora.com/AL:47260579"
+      },
+      {
+        "platform": "boomplay",
+        "label": "Boomplay",
+        "url": "https://www.boomplay.com/albums/73150981"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/1808706264"
+      }
+    ]
+  },
+  {
+    "id": "heavy-metal-2",
+    "title": "Heavy Metal 2",
+    "artist": "Kai Angel & 9mice",
+    "group": "viperr",
+    "date": "2024-09-13",
+    "year": 2024,
+    "type": "Album",
+    "trackCount": 21,
+    "cover": "assets/albums/heavy-metal-2.jpg",
+    "url": "https://music.apple.com/us/album/heavy-metal-2/1767963478",
+    "description": "Twenty-one-track joint album by 9mice and Kai Angel, released on September 13, 2024. Includes Phoenix, 2017 and Ice + Alabaster.",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Cyber Is Dead Interlude",
+        "duration": "1:25",
+        "url": "https://music.apple.com/us/song/cyber-is-dead-interlude/1767963479"
+      },
+      {
+        "number": 2,
+        "title": "Fountainebleu",
+        "duration": "2:13",
+        "url": "https://music.apple.com/us/song/fountainebleu/1767963482"
+      },
+      {
+        "number": 3,
+        "title": "Phoenix",
+        "duration": "2:30",
+        "url": "https://music.apple.com/us/song/phoenix/1767963484"
+      },
+      {
+        "number": 4,
+        "title": "Blum - Big City Life",
+        "duration": "2:38",
+        "url": "https://music.apple.com/us/song/blum-big-city-life/1767963489"
+      },
+      {
+        "number": 5,
+        "title": "Rinoplastika",
+        "duration": "1:55",
+        "url": "https://music.apple.com/us/song/%D1%80%D0%B8%D0%BD%D0%BE%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B0/1767963491"
+      },
+      {
+        "number": 6,
+        "title": "Paparazzi",
+        "duration": "0:13",
+        "url": "https://music.apple.com/us/song/paparazzi/1767963494"
+      },
+      {
+        "number": 7,
+        "title": "So Good",
+        "duration": "1:52",
+        "url": "https://music.apple.com/us/song/so-good/1767963497"
+      },
+      {
+        "number": 8,
+        "title": "Frank Ocean",
+        "duration": "2:08",
+        "url": "https://music.apple.com/us/song/frank-ocean/1767963916"
+      },
+      {
+        "number": 9,
+        "title": "2017",
+        "duration": "2:13",
+        "url": "https://music.apple.com/us/song/2017/1767963918"
+      },
+      {
+        "number": 10,
+        "title": "Da Vinci",
+        "duration": "2:10",
+        "url": "https://music.apple.com/us/song/da-vinci/1767963923"
+      },
+      {
+        "number": 11,
+        "title": "LMFAO",
+        "duration": "2:34",
+        "url": "https://music.apple.com/us/song/lmfao/1767963928"
+      },
+      {
+        "number": 12,
+        "title": "Ice + Alabaster",
+        "duration": "2:11",
+        "url": "https://music.apple.com/us/song/ice-alabaster/1767963932"
+      },
+      {
+        "number": 13,
+        "title": "Tusa V.I.P.",
+        "duration": "1:58",
+        "url": "https://music.apple.com/us/song/tusa-v-i-p/1767963937"
+      },
+      {
+        "number": 14,
+        "title": "I Love God",
+        "duration": "2:03",
+        "url": "https://music.apple.com/us/song/i-love-god/1767963940"
+      },
+      {
+        "number": 15,
+        "title": "Smells Like Teen Spirit",
+        "duration": "0:05",
+        "url": "https://music.apple.com/us/song/smells-like-teen-spirit/1767963943"
+      },
+      {
+        "number": 16,
+        "title": "Hollywood Takeover...",
+        "duration": "0:56",
+        "url": "https://music.apple.com/us/song/hollywood-takeover/1767963946"
+      },
+      {
+        "number": 17,
+        "title": "I Wanna Be Your Dog",
+        "duration": "2:06",
+        "url": "https://music.apple.com/us/song/i-wanna-be-your-dog/1767963947"
+      },
+      {
+        "number": 18,
+        "title": "Hate People",
+        "duration": "1:49",
+        "url": "https://music.apple.com/us/song/hate-people/1767964219"
+      },
+      {
+        "number": 19,
+        "title": "Fire Alarm",
+        "duration": "0:56",
+        "url": "https://music.apple.com/us/song/fire-alarm/1767964224"
+      },
+      {
+        "number": 20,
+        "title": "Murder On The Dancefloor",
+        "duration": "1:45",
+        "url": "https://music.apple.com/us/song/murder-on-the-dancefloor/1767964227"
+      },
+      {
+        "number": 21,
+        "title": "Homecoming",
+        "duration": "2:57",
+        "url": "https://music.apple.com/us/song/homecoming/1767964232"
+      }
+    ],
+    "tracklistComplete": true,
+    "platforms": [
+      {
+        "url": "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/heavy-metal-2/1767963478"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_nDzJWp5_RM1vb5VM1dtN7joXgFfoL4kfo",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "platform": "yandexMusic",
+        "label": "Yandex Music",
+        "url": "https://music.yandex.ru/album/33207179"
+      },
+      {
+        "platform": "vkMusic",
+        "label": "VK Music",
+        "url": "https://vk.com/music/album/-2000908337_21908337_e7727aea88d9aaefd2",
+        "source": "https://band.link/Heavy_Metal_2"
+      },
+      {
+        "platform": "zvuk",
+        "label": "Zvuk",
+        "url": "https://zvuk.com/release/35274120",
+        "source": "https://band.link/Heavy_Metal_2"
+      },
+      {
+        "platform": "kionMusic",
+        "label": "KION Music",
+        "url": "https://music.mts.ru/album/33207179",
+        "source": "https://band.link/Heavy_Metal_2"
+      },
+      {
+        "platform": "deezer",
+        "label": "Deezer",
+        "url": "https://www.deezer.com/album/642732721"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/387120332"
+      },
+      {
+        "platform": "amazonMusic",
+        "label": "Amazon Music",
+        "url": "https://music.amazon.com/albums/B0DGXG3J4N"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_nDzJWp5_RM1vb5VM1dtN7joXgFfoL4kfo",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "platform": "pandora",
+        "label": "Pandora",
+        "url": "https://www.pandora.com/AL:39123256"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/1767963478"
+      }
+    ]
+  },
+  {
+    "id": "kai-god-system",
+    "title": "GOD SYSTEM",
+    "artist": "Kai Angel",
+    "group": "kai",
+    "date": "2024-03-22",
+    "year": 2024,
+    "type": "Album",
+    "trackCount": 17,
+    "cover": "assets/albums/kai-god-system.jpg",
+    "url": "https://music.apple.com/us/album/god-system/1736962256",
+    "description": "A seventeen-track 2024 album featuring 'VICTIM', 'DANCE LIKE U IN PAIN' and 'SHOW OFF'.",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "1-800-PARADISE",
+        "duration": "2:10",
+        "url": "https://music.apple.com/us/song/1-800-paradise/1736962276"
+      },
+      {
+        "number": 2,
+        "title": "SLAYERR",
+        "duration": "1:55",
+        "url": "https://music.apple.com/us/song/slayerr/1736962478"
+      },
+      {
+        "number": 3,
+        "title": "SPIDERR",
+        "duration": "1:49",
+        "url": "https://music.apple.com/us/song/spiderr/1736962673"
+      },
+      {
+        "number": 4,
+        "title": "EUPHORIA",
+        "duration": "1:53",
+        "url": "https://music.apple.com/us/song/euphoria/1736962688"
+      },
+      {
+        "number": 5,
+        "title": "RESTART",
+        "duration": "2:01",
+        "url": "https://music.apple.com/us/song/restart/1736962923"
+      },
+      {
+        "number": 6,
+        "title": "KhOLOD",
+        "duration": "1:59",
+        "url": "https://music.apple.com/us/song/%D1%85%D0%BE%D0%BB%D0%BE%D0%B4/1736962935"
+      },
+      {
+        "number": 7,
+        "title": "MYSPACE",
+        "duration": "1:46",
+        "url": "https://music.apple.com/us/song/myspace/1736963123"
+      },
+      {
+        "number": 8,
+        "title": "VICTIM",
+        "duration": "2:08",
+        "url": "https://music.apple.com/us/song/victim/1736963338"
+      },
+      {
+        "number": 9,
+        "title": "DANCE LIKE U IN PAIN",
+        "duration": "1:27",
+        "url": "https://music.apple.com/us/song/dance-like-u-in-pain/1736963354"
+      },
+      {
+        "number": 10,
+        "title": "RAW",
+        "duration": "1:33",
+        "url": "https://music.apple.com/us/song/raw/1736963531"
+      },
+      {
+        "number": 11,
+        "title": "RIOT",
+        "duration": "1:52",
+        "url": "https://music.apple.com/us/song/riot/1736963688"
+      },
+      {
+        "number": 12,
+        "title": "SHOW OFF",
+        "duration": "1:27",
+        "url": "https://music.apple.com/us/song/show-off/1736963700"
+      },
+      {
+        "number": 13,
+        "title": "DOLLARS OUT ON TOP ON GOD",
+        "duration": "2:07",
+        "url": "https://music.apple.com/us/song/dollars-out-on-top-on-god/1736963918"
+      },
+      {
+        "number": 14,
+        "title": "HILLS",
+        "duration": "2:06",
+        "url": "https://music.apple.com/us/song/hills/1736964144"
+      },
+      {
+        "number": 15,
+        "title": "GOD SYSTEM",
+        "duration": "10:57",
+        "url": "https://music.apple.com/us/song/god-system/1736964156"
+      },
+      {
+        "number": 16,
+        "title": "BAD BITCHES ONLY",
+        "duration": "1:46",
+        "url": "https://music.apple.com/us/song/bad-bitches-only/1736964162"
+      },
+      {
+        "number": 17,
+        "title": "/godmode",
+        "duration": "1:55",
+        "url": "https://music.apple.com/us/song/godmode/1736964165"
+      }
+    ],
+    "tracklistComplete": true,
+    "platforms": [
+      {
+        "url": "https://open.spotify.com/album/4mOYvmMHqKHT81fcWBOFuF",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/god-system/1736962256"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_lk6-k24mel4in_UYKstKjFNn7nbrY5Czc",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "platform": "yandexMusic",
+        "label": "Yandex Music",
+        "url": "https://music.yandex.ru/album/30319657"
+      },
+      {
+        "platform": "vkMusic",
+        "label": "VK Music",
+        "url": "https://vk.com/music/album/-2000364274_20364274_7fa1e8d6bbd6d180e6",
+        "source": "https://the-flow.ru/releases/kai-angel-god-system"
+      },
+      {
+        "platform": "zvuk",
+        "label": "Zvuk",
+        "url": "https://zvuk.com/release/33236635",
+        "source": "https://the-flow.ru/releases/kai-angel-god-system"
+      },
+      {
+        "platform": "kionMusic",
+        "label": "KION Music",
+        "url": "https://music.mts.ru/album/30319657",
+        "source": "https://the-flow.ru/releases/kai-angel-god-system"
+      },
+      {
+        "platform": "deezer",
+        "label": "Deezer",
+        "url": "https://www.deezer.com/album/563429182"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/352766390"
+      },
+      {
+        "platform": "amazonMusic",
+        "label": "Amazon Music",
+        "url": "https://music.amazon.com/albums/B0CYSHJB5L"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_lk6-k24mel4in_UYKstKjFNn7nbrY5Czc",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "platform": "pandora",
+        "label": "Pandora",
+        "url": "https://www.pandora.com/AL:32934698"
+      },
+      {
+        "platform": "boomplay",
+        "label": "Boomplay",
+        "url": "https://www.boomplay.com/albums/87199760"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/1736962256"
+      }
+    ]
+  },
+  {
+    "id": "9mice-orpheus",
+    "title": "ORPHEUS",
+    "artist": "9mice",
+    "group": "9mice",
+    "date": "2023-12-08",
+    "year": 2023,
+    "type": "Album",
+    "trackCount": 15,
+    "cover": "assets/albums/9mice-orpheus.jpg",
+    "url": "https://music.apple.com/us/album/orpheus/1719945440",
+    "description": "",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "FACE",
+        "duration": "2:43",
+        "url": "https://music.apple.com/us/album/face/1719945440?i=1719945444"
+      },
+      {
+        "number": 2,
+        "title": "SV",
+        "duration": "2:02",
+        "url": "https://music.apple.com/us/album/sv/1719945440?i=1719945450"
+      },
+      {
+        "number": 3,
+        "title": "SHAKE",
+        "duration": "2:06",
+        "url": "https://music.apple.com/us/album/shake/1719945440?i=1719945453"
+      },
+      {
+        "number": 4,
+        "title": "STAY WITH ME (feat. Kai Angel)",
+        "duration": "2:09",
+        "url": "https://music.apple.com/us/album/stay-with-me-feat-kai-angel/1719945440?i=1719945458"
+      },
+      {
+        "number": 5,
+        "title": "KINO",
+        "duration": "1:49",
+        "url": "https://music.apple.com/us/album/%D0%BA%D0%B8%D0%BD%D0%BE/1719945440?i=1719945783"
+      },
+      {
+        "number": 6,
+        "title": "KhOChET",
+        "duration": "1:55",
+        "url": "https://music.apple.com/us/album/%D1%85%D0%BE%D1%87%D0%B5%D1%82/1719945440?i=1719945789"
+      },
+      {
+        "number": 7,
+        "title": "MNOGO",
+        "duration": "1:52",
+        "url": "https://music.apple.com/us/album/%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE/1719945440?i=1719945793"
+      },
+      {
+        "number": 8,
+        "title": "SUKA (feat. lifelessgarments)",
+        "duration": "1:28",
+        "url": "https://music.apple.com/us/album/%D1%81%D1%83%D0%BA%D0%B0-feat-lifelessgarments/1719945440?i=1719945796"
+      },
+      {
+        "number": 9,
+        "title": "ELA-ELA (feat. Kai Angel)",
+        "duration": "2:07",
+        "url": "https://music.apple.com/us/album/ela-ela-feat-kai-angel/1719945440?i=1719946161"
+      },
+      {
+        "number": 10,
+        "title": "GWYN PLAINE",
+        "duration": "2:14",
+        "url": "https://music.apple.com/us/album/gwyn-plaine/1719945440?i=1719946167"
+      },
+      {
+        "number": 11,
+        "title": "BADMAN (feat. UNEEK & Kai Angel)",
+        "duration": "2:08",
+        "url": "https://music.apple.com/us/album/badman-feat-uneek-kai-angel/1719945440?i=1719946174"
+      },
+      {
+        "number": 12,
+        "title": "GEROINYa",
+        "duration": "2:23",
+        "url": "https://music.apple.com/us/album/%D0%B3%D0%B5%D1%80%D0%BE%D0%B8%D0%BD%D1%8F/1719945440?i=1719946185"
+      },
+      {
+        "number": 13,
+        "title": "DEVOChKA (feat. glaive)",
+        "duration": "3:04",
+        "url": "https://music.apple.com/us/album/%D0%B4%D0%B5%D0%B2%D0%BE%D1%87%D0%BA%D0%B0-feat-glaive/1719945440?i=1719946499"
+      },
+      {
+        "number": 14,
+        "title": "RAZRUShIT",
+        "duration": "2:48",
+        "url": "https://music.apple.com/us/album/%D1%80%D0%B0%D0%B7%D1%80%D1%83%D1%88%D0%B8%D1%82%D1%8C/1719945440?i=1719946514"
+      },
+      {
+        "number": 15,
+        "title": "4EVER",
+        "duration": "2:24",
+        "url": "https://music.apple.com/us/album/4ever/1719945440?i=1719946709"
+      }
+    ],
+    "tracklistComplete": true,
+    "platforms": [
+      {
+        "url": "https://open.spotify.com/album/3c7myEnQJ6P2HrquNNL4gn",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/orpheus/1719945440"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_nj7-g23nv1RIh5AoOMdUfz1lBCcaK3cY8",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "platform": "yandexMusic",
+        "label": "Yandex Music",
+        "url": "https://music.yandex.ru/album/28485493"
+      },
+      {
+        "platform": "vkMusic",
+        "label": "VK Music",
+        "url": "https://music.vk.com/link/4C6Aj",
+        "source": "https://band.link/9mice_ORPHEUS"
+      },
+      {
+        "platform": "zvuk",
+        "label": "Zvuk",
+        "url": "https://zvuk.com/release/32119959",
+        "source": "https://band.link/9mice_ORPHEUS"
+      },
+      {
+        "platform": "kionMusic",
+        "label": "KION Music",
+        "url": "https://music.mts.ru/album/28485493",
+        "source": "https://band.link/9mice_ORPHEUS"
+      },
+      {
+        "platform": "deezer",
+        "label": "Deezer",
+        "url": "https://www.deezer.com/album/521301222"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/334067263"
+      },
+      {
+        "platform": "amazonMusic",
+        "label": "Amazon Music",
+        "url": "https://music.amazon.com/albums/B0CPRZLYBB"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_nj7-g23nv1RIh5AoOMdUfz1lBCcaK3cY8",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "platform": "pandora",
+        "label": "Pandora",
+        "url": "https://www.pandora.com/AL:29733358"
+      },
+      {
+        "platform": "boomplay",
+        "label": "Boomplay",
+        "url": "https://www.boomplay.com/albums/81414472"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/1719945440"
+      }
+    ]
+  },
+  {
+    "id": "kai-angel-may-cry",
+    "title": "ANGEL MAY CRY",
+    "artist": "Kai Angel",
+    "group": "kai",
+    "date": "2023-07-07",
+    "year": 2023,
+    "type": "Album",
+    "trackCount": 7,
+    "cover": "assets/albums/kai-angel-may-cry.jpg",
+    "url": "https://music.apple.com/us/album/angel-may-cry/1696056090",
+    "description": "The seven-track July 2023 release featuring 'JUMP!', 'KYLIE MINOGUE' and 'PARIS 2008'.",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "JUMP!",
+        "duration": "2:06",
+        "url": "https://music.apple.com/us/song/jump/1696056097"
+      },
+      {
+        "number": 2,
+        "title": "KYLIE MINOGUE",
+        "duration": "2:08",
+        "url": "https://music.apple.com/us/song/kylie-minogue/1696056100"
+      },
+      {
+        "number": 3,
+        "title": "PARIS 2008",
+        "duration": "1:51",
+        "url": "https://music.apple.com/us/song/paris-2008/1696056102"
+      },
+      {
+        "number": 4,
+        "title": "BABY",
+        "duration": "2:20",
+        "url": "https://music.apple.com/us/song/baby/1696056376"
+      },
+      {
+        "number": 5,
+        "title": "$$$",
+        "duration": "2:09",
+        "url": "https://music.apple.com/us/song/%24%24%24/1696056377"
+      },
+      {
+        "number": 6,
+        "title": "DEAD MEN WALKING",
+        "duration": "2:14",
+        "url": "https://music.apple.com/us/song/dead-men-walking/1696056381"
+      },
+      {
+        "number": 7,
+        "title": "ANGEL MAY CRY",
+        "duration": "2:24",
+        "url": "https://music.apple.com/us/song/angel-may-cry/1696056385"
+      }
+    ],
+    "tracklistComplete": true,
+    "platforms": [
+      {
+        "url": "https://open.spotify.com/album/5P3Y4IXLwQzZF5v9fFRIFz",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/angel-may-cry/1696056090"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_nvbq-1JntkccUl69UQhuXTRiln7zohzAQ",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "platform": "yandexMusic",
+        "label": "Yandex Music",
+        "url": "https://music.yandex.ru/album/26519993"
+      },
+      {
+        "platform": "vkMusic",
+        "label": "VK Music",
+        "url": "https://vk.com/music/album/-2000369885_18369885_0c53a513e69720f948",
+        "source": "https://the-flow.ru/releases/kai-angel-angel-may-cry"
+      },
+      {
+        "platform": "deezer",
+        "label": "Deezer",
+        "url": "https://www.deezer.com/album/461915935"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/303697715"
+      },
+      {
+        "platform": "amazonMusic",
+        "label": "Amazon Music",
+        "url": "https://music.amazon.com/albums/B0CBBMZH4T"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_nvbq-1JntkccUl69UQhuXTRiln7zohzAQ",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "platform": "pandora",
+        "label": "Pandora",
+        "url": "https://www.pandora.com/AL:47260579"
+      },
+      {
+        "platform": "boomplay",
+        "label": "Boomplay",
+        "url": "https://www.boomplay.com/albums/73150981"
+      },
+      {
+        "platform": "anghami",
+        "label": "Anghami",
+        "url": "https://play.anghami.com/album/1041237573?refer=linktree"
+      },
+      {
+        "platform": "napster",
+        "label": "Napster",
+        "url": "https://play.napster.com/album/alb.5521688736532400"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/1696056090"
+      }
+    ]
+  },
+  {
+    "id": "9mice-asphalt",
+    "title": "ASPHALT",
+    "artist": "9mice",
+    "group": "9mice",
+    "date": "2023-05-26",
+    "year": 2023,
+    "type": "Album",
+    "trackCount": 11,
+    "cover": "assets/albums/9mice-asphalt.jpg",
+    "url": "https://open.spotify.com/album/1ZTd3crKJnUiyJ0Hz0MHzU",
+    "description": "",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "ASSAULT",
+        "duration": "1:36",
+        "url": ""
+      },
+      {
+        "number": 2,
+        "title": "BELLA",
+        "duration": "2:11",
+        "url": ""
+      },
+      {
+        "number": 3,
+        "title": "IMYA",
+        "duration": "2:01",
+        "url": ""
+      },
+      {
+        "number": 4,
+        "title": "DOROGAYA",
+        "duration": "1:56",
+        "url": ""
+      },
+      {
+        "number": 5,
+        "title": "SSNS",
+        "duration": "1:57",
+        "url": ""
+      },
+      {
+        "number": 6,
+        "title": "Y3BOK",
+        "duration": "1:53",
+        "url": ""
+      },
+      {
+        "number": 7,
+        "title": "KIKO",
+        "duration": "1:56",
+        "url": ""
+      },
+      {
+        "number": 8,
+        "title": "RIOT MUZIK",
+        "duration": "2:06",
+        "url": ""
+      },
+      {
+        "number": 9,
+        "title": "AVRIL LAVIGNE",
+        "duration": "2:23",
+        "url": ""
+      },
+      {
+        "number": 10,
+        "title": "ALASKA",
+        "duration": "2:06",
+        "url": ""
+      },
+      {
+        "number": 11,
+        "title": "YMIRAU",
+        "duration": "2:18",
+        "url": ""
+      }
+    ],
+    "tracklistComplete": true,
+    "platforms": [
+      {
+        "url": "https://open.spotify.com/album/1ZTd3crKJnUiyJ0Hz0MHzU",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/ru/album/1689253520",
+        "source": "https://the-flow.ru/releases/9mice-asphalt"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_nkbMe9hnpvFu94p_ORdlItK50J6P1erYw",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "platform": "yandexMusic",
+        "label": "Yandex Music",
+        "url": "https://music.yandex.ru/album/25926224"
+      },
+      {
+        "platform": "vkMusic",
+        "label": "VK Music",
+        "url": "https://music.vk.com/link/B8qk",
+        "source": "https://the-flow.ru/releases/9mice-asphalt"
+      },
+      {
+        "platform": "zvuk",
+        "label": "Zvuk",
+        "url": "https://zvuk.com/release/29815207",
+        "source": "https://the-flow.ru/releases/9mice-asphalt"
+      },
+      {
+        "platform": "kionMusic",
+        "label": "KION Music",
+        "url": "https://music.mts.ru/album/25926224",
+        "source": "https://the-flow.ru/releases/9mice-asphalt"
+      },
+      {
+        "platform": "deezer",
+        "label": "Deezer",
+        "url": "https://www.deezer.com/album/446211555"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/296901007"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_nkbMe9hnpvFu94p_ORdlItK50J6P1erYw",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "url": "https://www.qobuz.com/us-en/album/asphalt-9mice/u1oaldcbpdw3b",
+        "platform": "qobuz",
+        "label": "Qobuz"
+      },
+      {
+        "platform": "boomplay",
+        "label": "Boomplay",
+        "url": "https://www.boomplay.com/albums/70725084"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/s/1ZTd3crKJnUiyJ0Hz0MHzU"
+      }
+    ]
+  },
+  {
+    "id": "kai-marilyn-manson",
+    "title": "Marilyn Manson",
+    "artist": "Kai Angel",
+    "group": "kai",
+    "date": "2023-03-24",
+    "year": 2023,
+    "type": "Album",
+    "trackCount": 11,
+    "cover": "assets/albums/kai-marilyn-manson.jpg",
+    "url": "https://music.apple.com/nl/album/marilyn-manson/1678069965",
+    "description": "The eleven-track March 2023 album, from 'Marilyn Manson' to 'Funeral'. Also catalogued as MM on Spotify.",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Marilyn Manson",
+        "duration": "2:24",
+        "url": "https://music.apple.com/nl/song/marilyn-manson/1678070296"
+      },
+      {
+        "number": 2,
+        "title": "Stupid",
+        "duration": "2:15",
+        "url": "https://music.apple.com/nl/song/stupid/1678070297"
+      },
+      {
+        "number": 3,
+        "title": "Prada Party",
+        "duration": "2:04",
+        "url": "https://music.apple.com/nl/song/prada-party/1678070298"
+      },
+      {
+        "number": 4,
+        "title": "Ss16 Cyclops",
+        "duration": "2:20",
+        "url": "https://music.apple.com/nl/song/ss16-cyclops/1678070299"
+      },
+      {
+        "number": 5,
+        "title": "Hellraiser",
+        "duration": "2:00",
+        "url": "https://music.apple.com/nl/song/hellraiser/1678070300"
+      },
+      {
+        "number": 6,
+        "title": "Mannequin",
+        "duration": "1:54",
+        "url": "https://music.apple.com/nl/song/mannequin/1678070301"
+      },
+      {
+        "number": 7,
+        "title": "Friday 13",
+        "duration": "1:48",
+        "url": "https://music.apple.com/nl/song/friday-13/1678070302"
+      },
+      {
+        "number": 8,
+        "title": "No Pain",
+        "duration": "1:47",
+        "url": "https://music.apple.com/nl/song/no-pain/1678070304"
+      },
+      {
+        "number": 9,
+        "title": "Ballerina",
+        "duration": "1:57",
+        "url": "https://music.apple.com/nl/song/ballerina/1678070305"
+      },
+      {
+        "number": 10,
+        "title": "Monroe Tears",
+        "duration": "2:24",
+        "url": "https://music.apple.com/nl/song/monroe-tears/1678070306"
+      },
+      {
+        "number": 11,
+        "title": "Funeral",
+        "duration": "2:39",
+        "url": "https://music.apple.com/nl/song/funeral/1678070307"
+      }
+    ],
+    "tracklistComplete": true,
+    "platforms": [
+      {
+        "url": "https://open.spotify.com/album/7dz6JUHLUpUMYauZgu8sOO",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/nl/album/marilyn-manson/1678069965"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_kxh7Vcg4CfGA4iX42jqAhJIuGdJfsIMvY",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "platform": "yandexMusic",
+        "label": "Yandex Music",
+        "url": "https://music.yandex.ru/album/25270700"
+      },
+      {
+        "platform": "vkMusic",
+        "label": "VK Music",
+        "url": "https://vk.com/music/album/-2000595962_17595962_744afc9916b9f01416",
+        "source": "https://the-flow.ru/releases/kai-angel-marilyn-manson"
+      },
+      {
+        "platform": "deezer",
+        "label": "Deezer",
+        "url": "https://www.deezer.com/album/421238247"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/284609352"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_kxh7Vcg4CfGA4iX42jqAhJIuGdJfsIMvY",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "platform": "anghami",
+        "label": "Anghami",
+        "url": "https://play.anghami.com/album/1037590648?refer=linktree"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/1678069965"
+      }
+    ]
+  },
+  {
+    "id": "heavy-metal",
+    "title": "HEAVY METAL",
+    "artist": "Kai Angel & 9mice",
+    "group": "viperr",
+    "date": "2023-02-17",
+    "year": 2023,
+    "type": "EP",
+    "trackCount": 6,
+    "cover": "assets/albums/heavy-metal.jpg",
+    "url": "https://music.apple.com/us/album/heavy-metal-ep/1889978892",
+    "description": "Six-track joint EP by Kai Angel and 9mice, released on February 17, 2023. Opens with LIPSTICK and closes with OD1NOKO FREESTYLE.",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "LIPSTICK",
+        "duration": "2:01",
+        "url": "https://music.apple.com/us/song/lipstick/1889978893"
+      },
+      {
+        "number": 2,
+        "title": "N1CHEVO",
+        "duration": "1:44",
+        "url": "https://music.apple.com/us/song/n1chevo/1889978897"
+      },
+      {
+        "number": 3,
+        "title": "RESIDENT EVI7",
+        "duration": "2:31",
+        "url": "https://music.apple.com/us/song/resident-evi7/1889978898"
+      },
+      {
+        "number": 4,
+        "title": "AQUAFINA",
+        "duration": "2:49",
+        "url": "https://music.apple.com/us/song/aquafina/1889978899"
+      },
+      {
+        "number": 5,
+        "title": "HEAVY METAL",
+        "duration": "2:18",
+        "url": "https://music.apple.com/us/song/heavy-metal/1889978900"
+      },
+      {
+        "number": 6,
+        "title": "OD1NOKO FREESTYLE",
+        "duration": "2:18",
+        "url": "https://music.apple.com/us/song/od1noko-freestyle/1889978901"
+      }
+    ],
+    "tracklistComplete": true,
+    "platforms": [
+      {
+        "url": "https://open.spotify.com/album/5X2yKAx2mYd63Lgk8sKDvs",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/heavy-metal-ep/1889978892"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_nU6Z_Vv2H900_0v2YZ9eglPdvhy7kyv4o",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "platform": "yandexMusic",
+        "label": "Yandex Music",
+        "url": "https://music.yandex.ru/album/24889014"
+      },
+      {
+        "platform": "kionMusic",
+        "label": "KION Music",
+        "url": "https://music.mts.ru/artist/16509384/albums/24889014",
+        "source": "https://music.mts.ru/artist/16509384/albums/24889014"
+      },
+      {
+        "platform": "deezer",
+        "label": "Deezer",
+        "url": "https://www.deezer.com/album/406181747"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/512144116"
+      },
+      {
+        "platform": "amazonMusic",
+        "label": "Amazon Music",
+        "url": "https://music.amazon.com/albums/B0GVP5WDHJ"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_nU6Z_Vv2H900_0v2YZ9eglPdvhy7kyv4o",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "platform": "pandora",
+        "label": "Pandora",
+        "url": "https://www.pandora.com/AL:21527101"
+      },
+      {
+        "platform": "boomplay",
+        "label": "Boomplay",
+        "url": "https://www.boomplay.com/albums/64200349"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/1889978892"
+      }
+    ]
+  },
+  {
+    "id": "kai-kaicore",
+    "title": "kAiCoRe",
+    "artist": "Kai Angel",
+    "group": "kai",
+    "date": "2022-07-01",
+    "year": 2022,
+    "type": "EP",
+    "trackCount": 5,
+    "cover": "assets/albums/kai-kaicore.jpg",
+    "url": "https://music.apple.com/us/album/kaicore-ep/1890441104",
+    "description": "Five-track EP from July 2022, including '~boo~' and 'Trinity'.",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "what's uppppppxddDDD",
+        "duration": "1:41",
+        "url": "https://music.apple.com/us/song/whats-uppppppxddddd/1890441105"
+      },
+      {
+        "number": 2,
+        "title": "~boo~",
+        "duration": "2:16",
+        "url": "https://music.apple.com/us/song/boo/1890441108"
+      },
+      {
+        "number": 3,
+        "title": "rain (hEaVy)",
+        "duration": "2:13",
+        "url": "https://music.apple.com/us/song/rain-heavy/1890441109"
+      },
+      {
+        "number": 4,
+        "title": "Trinity",
+        "duration": "1:59",
+        "url": "https://music.apple.com/us/song/trinity/1890441110"
+      },
+      {
+        "number": 5,
+        "title": "gyutaro theme (UgLy)",
+        "duration": "2:20",
+        "url": "https://music.apple.com/us/song/gyutaro-theme-ugly/1890441111"
+      }
+    ],
+    "tracklistComplete": true,
+    "platforms": [
+      {
+        "url": "https://open.spotify.com/album/2QBjiorsprlvBiG6Nh0Vrj",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/kaicore-ep/1890441104"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_mAw_h1fMrTQyoxo61GEXnW9Qq1MOUyyQ4",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "url": "https://www.deezer.com/album/953577301",
+        "platform": "deezer",
+        "label": "Deezer"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/512743657"
+      },
+      {
+        "platform": "amazonMusic",
+        "label": "Amazon Music",
+        "url": "https://music.amazon.com/albums/B0GVXNJLRM"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_mAw_h1fMrTQyoxo61GEXnW9Qq1MOUyyQ4",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "url": "https://www.qobuz.com/us-en/album/kaicore-kai-angel/pqpjef8o45zev",
+        "platform": "qobuz",
+        "label": "Qobuz"
+      },
+      {
+        "platform": "boomplay",
+        "label": "Boomplay",
+        "url": "https://www.boomplay.com/albums/124709780"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/1890441104"
+      }
+    ]
+  },
+  {
+    "id": "9mice-soloist",
+    "title": "SOLOIST",
+    "artist": "9mice",
+    "group": "9mice",
+    "date": "2021-12-28",
+    "year": 2021,
+    "type": "Album",
+    "trackCount": 7,
+    "cover": "assets/albums/9mice-soloist.jpg",
+    "url": "https://music.apple.com/us/album/soloist/1694212695",
+    "description": "",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "SOLOIST",
+        "duration": "1:03",
+        "url": "https://music.apple.com/us/album/soloist/1694212695?i=1694212876"
+      },
+      {
+        "number": 2,
+        "title": "SPRITE",
+        "duration": "2:21",
+        "url": "https://music.apple.com/us/album/sprite/1694212695?i=1694212879"
+      },
+      {
+        "number": 3,
+        "title": "NEW-YORK",
+        "duration": "1:27",
+        "url": "https://music.apple.com/us/album/new-york/1694212695?i=1694212880"
+      },
+      {
+        "number": 4,
+        "title": "a closed feeling interlude.",
+        "duration": "0:49",
+        "url": "https://music.apple.com/us/album/a-closed-feeling-interlude/1694212695?i=1694212882"
+      },
+      {
+        "number": 5,
+        "title": "NEED4SPIT",
+        "duration": "1:37",
+        "url": "https://music.apple.com/us/album/need4spit/1694212695?i=1694212883"
+      },
+      {
+        "number": 6,
+        "title": "LOTTA VOLKOVA",
+        "duration": "2:01",
+        "url": "https://music.apple.com/us/album/lotta-volkova/1694212695?i=1694212884"
+      },
+      {
+        "number": 7,
+        "title": "VULCAN",
+        "duration": "2:14",
+        "url": "https://music.apple.com/us/album/vulcan/1694212695?i=1694212885"
+      }
+    ],
+    "tracklistComplete": true,
+    "platforms": [
+      {
+        "url": "https://open.spotify.com/album/0s3JPUTNe7XljogZqvKxqu",
+        "platform": "spotify",
+        "label": "Spotify"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/soloist/1694212695"
+      },
+      {
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_lQpJez4KokVbxq3YZT59rHWEU23TDWHeI",
+        "platform": "youtubeMusic",
+        "label": "YouTube Music"
+      },
+      {
+        "platform": "yandexMusic",
+        "label": "Yandex Music",
+        "url": "https://music.yandex.ru/album/39942367"
+      },
+      {
+        "url": "https://www.deezer.com/album/458440995",
+        "platform": "deezer",
+        "label": "Deezer"
+      },
+      {
+        "platform": "tidal",
+        "label": "TIDAL",
+        "url": "https://listen.tidal.com/album/301641231"
+      },
+      {
+        "platform": "amazonMusic",
+        "label": "Amazon Music",
+        "url": "https://music.amazon.com/albums/B0GVQ43PHJ"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_lQpJez4KokVbxq3YZT59rHWEU23TDWHeI",
+        "platform": "youtube",
+        "label": "YouTube"
+      },
+      {
+        "url": "https://www.qobuz.com/gb-en/album/soloist-9mice/gunq6kxku56xb",
+        "platform": "qobuz",
+        "label": "Qobuz"
+      },
+      {
+        "platform": "pandora",
+        "label": "Pandora",
+        "url": "https://www.pandora.com/AL:24995033"
+      },
+      {
+        "platform": "boomplay",
+        "label": "Boomplay",
+        "url": "https://www.boomplay.com/albums/37517427"
+      },
+      {
+        "platform": "smartlink",
+        "label": "More platforms",
+        "url": "https://album.link/i/1694212695"
+      }
+    ]
+  }
+]

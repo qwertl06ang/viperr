@@ -1,7 +1,4 @@
-# VIPERR
-
-[Open the public website](https://viperr-archive.adilzhanaliakbar.chatgpt.site)
-
+VIPERR
 
 Independent English fan website for Kai Angel and 9mice.
 Requirements: Node.js 22.13+ and pnpm 11.25.0.

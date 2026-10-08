@@ -1,0 +1,36 @@
+{
+  "verifiedDate": "2026-10-08",
+  "version": "1.3.26",
+  "license": "MIT",
+  "scriptURL": "https://unpkg.com/lenis@1.3.26/dist/lenis.min.js",
+  "cssURL": "https://unpkg.com/lenis@1.3.26/dist/lenis.css",
+  "scriptSHA256": "53195C9797E7CE7BF9D7FA9242B08209E57F46DE4C9DAC126A6494FA780E3346",
+  "officialDocs": "https://github.com/darkroomengineering/lenis#gsap-scrolltrigger",
+  "repositories": [
+    {
+      "repo": "greensock/GSAP",
+      "stars": 28873,
+      "url": "https://github.com/greensock/GSAP",
+      "role": "Animation timelines and ScrollTrigger"
+    },
+    {
+      "repo": "darkroomengineering/lenis",
+      "stars": 16214,
+      "url": "https://github.com/darkroomengineering/lenis",
+      "role": "Smooth scrolling"
+    },
+    {
+      "repo": "motiondivision/motion",
+      "stars": 33862,
+      "url": "https://github.com/motiondivision/motion",
+      "role": "Alternative JavaScript and React animation engine"
+    },
+    {
+      "repo": "mrdoob/three.js",
+      "stars": 116328,
+      "url": "https://github.com/mrdoob/three.js",
+      "role": "3D rendering"
+    }
+  ],
+  "recommendation": "GSAP 3.15.0 plus Lenis 1.3.26 for the existing vanilla DOM website. Popularity is not a universal quality ranking."
+}

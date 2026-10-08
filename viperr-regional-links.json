@@ -1,0 +1,539 @@
+{
+  "kai-damage": {
+    "links": [
+      {
+        "platform": "spotify",
+        "label": "Spotify",
+        "url": "https://open.spotify.com/album/2wDFDUxHnXAhCY682osJh6",
+        "source": "https://band.link/VuWdZ"
+      },
+      {
+        "platform": "vkMusic",
+        "label": "VK Music",
+        "url": "https://music.vk.com/link/Zafnq",
+        "source": "https://band.link/VuWdZ"
+      },
+      {
+        "platform": "yandexMusic",
+        "label": "Yandex Music",
+        "url": "https://music.yandex.ru/album/38089920",
+        "source": "https://band.link/VuWdZ"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/ru/album/damage/1836427637?app=apple",
+        "source": "https://band.link/VuWdZ"
+      },
+      {
+        "platform": "itunes",
+        "label": "iTunes",
+        "url": "https://music.apple.com/ru/album/damage/1836427637?app=itunes",
+        "source": "https://band.link/VuWdZ"
+      },
+      {
+        "platform": "kionMusic",
+        "label": "KION Music",
+        "url": "https://music.mts.ru/album/38089920",
+        "source": "https://band.link/VuWdZ"
+      },
+      {
+        "platform": "zvuk",
+        "label": "Zvuk",
+        "url": "https://zvuk.com/release/41553682",
+        "source": "https://the-flow.ru/releases/kai-angel-damage"
+      },
+      {
+        "platform": "youtubeMusic",
+        "label": "YouTube Music",
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_mU6uFVKKAmcIR9Hc0oXxXniQRAwSk17YE&si=UxiUVUcWnxgWnVOF",
+        "source": "https://the-flow.ru/releases/kai-angel-damage"
+      }
+    ],
+    "source": "https://band.link/VuWdZ",
+    "title": "Kai Angel - damage | BandLink",
+    "checkedAt": "2026-10-08"
+  },
+  "kai-shh-dots": {
+    "links": [
+      {
+        "platform": "yandexMusic",
+        "label": "Yandex Music",
+        "url": "https://music.yandex.ru/album/43723917",
+        "source": "https://band.link/otVEg"
+      },
+      {
+        "platform": "kionMusic",
+        "label": "KION Music",
+        "url": "https://music.mts.ru/album/43723917",
+        "source": "https://band.link/otVEg"
+      },
+      {
+        "platform": "vkMusic",
+        "label": "VK Music",
+        "url": "https://music.vk.com/link/7CRuV",
+        "source": "https://band.link/otVEg"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/us/album/shh/6808162752",
+        "source": "https://band.link/otVEg"
+      },
+      {
+        "platform": "spotify",
+        "label": "Spotify",
+        "url": "https://open.spotify.com/album/5ozsaDdq5LYbkMnhdE3L4o",
+        "source": "https://band.link/otVEg"
+      },
+      {
+        "platform": "deezer",
+        "label": "Deezer",
+        "url": "https://www.deezer.com/album/1070331932",
+        "source": "https://band.link/otVEg"
+      },
+      {
+        "platform": "itunes",
+        "label": "iTunes",
+        "url": "https://music.apple.com/us/album/shh/6808162752?app=itunes",
+        "source": "https://band.link/otVEg"
+      },
+      {
+        "platform": "zvuk",
+        "label": "Zvuk",
+        "url": "https://zvuk.com/release/52783796",
+        "source": "https://band.link/otVEg"
+      }
+    ],
+    "source": "https://band.link/otVEg",
+    "title": "Kai Angel - Shh... | BandLink",
+    "checkedAt": "2026-10-08"
+  },
+  "kai-angel-may-cry-2": {
+    "links": [
+      {
+        "platform": "kionMusic",
+        "label": "KION Music",
+        "url": "https://music.mts.ru/album/36312044",
+        "source": "https://m.the-flow.ru/releases/kai-angel-angel-may-cry-2"
+      },
+      {
+        "platform": "vkMusic",
+        "label": "VK Music",
+        "url": "https://music.vk.com/link/Ossoy",
+        "source": "https://m.the-flow.ru/releases/kai-angel-angel-may-cry-2"
+      },
+      {
+        "platform": "yandexMusic",
+        "label": "Yandex Music",
+        "url": "https://music.yandex.ru/album/36312044?utm_source=web&utm_medium=copy_link",
+        "source": "https://m.the-flow.ru/releases/kai-angel-angel-may-cry-2"
+      },
+      {
+        "platform": "zvuk",
+        "label": "Zvuk",
+        "url": "https://zvuk.com/release/38359761",
+        "source": "https://m.the-flow.ru/releases/kai-angel-angel-may-cry-2"
+      },
+      {
+        "platform": "spotify",
+        "label": "Spotify",
+        "url": "https://open.spotify.com/album/76LpGef7f9b6GAQ03KmMoo",
+        "source": "https://m.the-flow.ru/releases/kai-angel-angel-may-cry-2"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/ru/album/1808706264?mt=1&at=1000lqjf&ct=bq&app=music",
+        "source": "https://m.the-flow.ru/releases/kai-angel-angel-may-cry-2"
+      },
+      {
+        "platform": "youtubeMusic",
+        "label": "YouTube Music",
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_nn02bcRXKP6WcqOPU88cnIPIXD5zPqrCM",
+        "source": "https://m.the-flow.ru/releases/kai-angel-angel-may-cry-2"
+      }
+    ],
+    "source": "https://m.the-flow.ru/releases/kai-angel-angel-may-cry-2",
+    "title": "Kai Angel выпустил альбом &quot;Angel May Cry 2&quot;",
+    "checkedAt": "2026-10-08"
+  },
+  "9mice-9mm": {
+    "links": [
+      {
+        "platform": "kionMusic",
+        "label": "KION Music",
+        "url": "https://music.mts.ru/album/38695104",
+        "source": "https://the-flow.ru/releases/9mice-9mm"
+      },
+      {
+        "platform": "vkMusic",
+        "label": "VK Music",
+        "url": "https://vk.com/music/album/-2000559278_25559278_ce424282bae7f6cc5b",
+        "source": "https://the-flow.ru/releases/9mice-9mm"
+      },
+      {
+        "platform": "yandexMusic",
+        "label": "Yandex Music",
+        "url": "https://music.yandex.ru/album/38695104",
+        "source": "https://the-flow.ru/releases/9mice-9mm"
+      },
+      {
+        "platform": "zvuk",
+        "label": "Zvuk",
+        "url": "https://zvuk.com/release/42770508",
+        "source": "https://the-flow.ru/releases/9mice-9mm"
+      },
+      {
+        "platform": "spotify",
+        "label": "Spotify",
+        "url": "https://open.spotify.com/album/2ZjaGkJU86y2WOd3t9rc9u",
+        "source": "https://the-flow.ru/releases/9mice-9mm"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/ru/album/9mm/1846155523",
+        "source": "https://the-flow.ru/releases/9mice-9mm"
+      },
+      {
+        "platform": "youtubeMusic",
+        "label": "YouTube Music",
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_l_vvT62yF3Bg8wvVymsgFhFTCwTzxs1Z8",
+        "source": "https://the-flow.ru/releases/9mice-9mm"
+      }
+    ],
+    "source": "https://the-flow.ru/releases/9mice-9mm",
+    "title": "9mice выпустил альбом “9mm”",
+    "checkedAt": "2026-10-08"
+  },
+  "kai-shh-bang": {
+    "links": [
+      {
+        "platform": "yandexMusic",
+        "label": "Yandex Music",
+        "url": "https://music.yandex.ru/album/43917005?ref_id=B66F9AA6-90F9-4C66-8974-70340D314316&utm_medium=copy_link&utm_source=bandlink&utm_medium=2191654&utm_campaign=Shh%21&utm_term=flDbZ",
+        "source": "https://m.the-flow.ru/releases/kai-angel-shh-2"
+      },
+      {
+        "platform": "vkMusic",
+        "label": "VK Music",
+        "url": "https://vk.ru/music/album/-2000211074_29211074?mt_click_id=mt-ocygx9-1789114303-2139167329",
+        "source": "https://m.the-flow.ru/releases/kai-angel-shh-2"
+      },
+      {
+        "platform": "zvuk",
+        "label": "Zvuk",
+        "url": "https://zvuk.com/release/52895559",
+        "source": "https://m.the-flow.ru/releases/kai-angel-shh-2"
+      },
+      {
+        "platform": "kionMusic",
+        "label": "KION Music",
+        "url": "https://music.mts.ru/artist/16509384/albums/43917005",
+        "source": "https://m.the-flow.ru/releases/kai-angel-shh-2"
+      },
+      {
+        "platform": "spotify",
+        "label": "Spotify",
+        "url": "https://open.spotify.com/album/4cVrSy8zr5T4za4radTHqk",
+        "source": "https://m.the-flow.ru/releases/kai-angel-shh-2"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/ru/album/shh/6810597974",
+        "source": "https://m.the-flow.ru/releases/kai-angel-shh-2"
+      }
+    ],
+    "source": "https://m.the-flow.ru/releases/kai-angel-shh-2",
+    "title": "Kai Angel &quot;Shh!&quot;",
+    "checkedAt": "2026-10-08"
+  },
+  "9mice-orpheus": {
+    "links": [
+      {
+        "platform": "yandexMusic",
+        "label": "Yandex Music",
+        "url": "https://music.yandex.ru/album/28485493",
+        "source": "https://band.link/9mice_ORPHEUS"
+      },
+      {
+        "platform": "vkMusic",
+        "label": "VK Music",
+        "url": "https://music.vk.com/link/4C6Aj",
+        "source": "https://band.link/9mice_ORPHEUS"
+      },
+      {
+        "platform": "zvuk",
+        "label": "Zvuk",
+        "url": "https://zvuk.com/release/32119959",
+        "source": "https://band.link/9mice_ORPHEUS"
+      },
+      {
+        "platform": "kionMusic",
+        "label": "KION Music",
+        "url": "https://music.mts.ru/album/28485493",
+        "source": "https://band.link/9mice_ORPHEUS"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/ru/album/orpheus/1719945440?app=apple",
+        "source": "https://band.link/9mice_ORPHEUS"
+      },
+      {
+        "platform": "spotify",
+        "label": "Spotify",
+        "url": "https://open.spotify.com/album/3c7myEnQJ6P2HrquNNL4gn?si=39KizJuzT_CKCJAnuIcHIw",
+        "source": "https://band.link/9mice_ORPHEUS"
+      },
+      {
+        "platform": "youtubeMusic",
+        "label": "YouTube Music",
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_ltQOUnc4hS5utkHclDPuy6SCBzhkL-MPQ",
+        "source": "https://band.link/9mice_ORPHEUS"
+      }
+    ],
+    "source": "https://band.link/9mice_ORPHEUS",
+    "title": "9mice - ORPHEUS | BandLink",
+    "checkedAt": "2026-10-08"
+  },
+  "kai-god-system": {
+    "links": [
+      {
+        "platform": "kionMusic",
+        "label": "KION Music",
+        "url": "https://music.mts.ru/album/30319657",
+        "source": "https://the-flow.ru/releases/kai-angel-god-system"
+      },
+      {
+        "platform": "vkMusic",
+        "label": "VK Music",
+        "url": "https://vk.com/music/album/-2000364274_20364274_7fa1e8d6bbd6d180e6",
+        "source": "https://the-flow.ru/releases/kai-angel-god-system"
+      },
+      {
+        "platform": "yandexMusic",
+        "label": "Yandex Music",
+        "url": "https://music.yandex.ru/album/30319657",
+        "source": "https://the-flow.ru/releases/kai-angel-god-system"
+      },
+      {
+        "platform": "zvuk",
+        "label": "Zvuk",
+        "url": "https://zvuk.com/release/33236635",
+        "source": "https://the-flow.ru/releases/kai-angel-god-system"
+      },
+      {
+        "platform": "spotify",
+        "label": "Spotify",
+        "url": "https://open.spotify.com/album/4mOYvmMHqKHT81fcWBOFuF",
+        "source": "https://the-flow.ru/releases/kai-angel-god-system"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/ru/album/1736962256",
+        "source": "https://the-flow.ru/releases/kai-angel-god-system"
+      },
+      {
+        "platform": "youtubeMusic",
+        "label": "YouTube Music",
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_ldN91QKt0oY5b69paUM8L4QD9YoP8Z8ac",
+        "source": "https://the-flow.ru/releases/kai-angel-god-system"
+      }
+    ],
+    "source": "https://the-flow.ru/releases/kai-angel-god-system",
+    "title": "Kai Angel &quot;God System&quot;",
+    "checkedAt": "2026-10-08"
+  },
+  "9mice-asphalt": {
+    "links": [
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/ru/album/1689253520",
+        "source": "https://the-flow.ru/releases/9mice-asphalt"
+      },
+      {
+        "platform": "vkMusic",
+        "label": "VK Music",
+        "url": "https://music.vk.com/link/B8qk",
+        "source": "https://the-flow.ru/releases/9mice-asphalt"
+      },
+      {
+        "platform": "spotify",
+        "label": "Spotify",
+        "url": "https://open.spotify.com/album/7dAXWOXHfqyw4X4j3BG2xI",
+        "source": "https://the-flow.ru/releases/9mice-asphalt"
+      },
+      {
+        "platform": "yandexMusic",
+        "label": "Yandex Music",
+        "url": "https://music.yandex.ru/album/25926224",
+        "source": "https://the-flow.ru/releases/9mice-asphalt"
+      },
+      {
+        "platform": "zvuk",
+        "label": "Zvuk",
+        "url": "https://zvuk.com/release/29815207",
+        "source": "https://the-flow.ru/releases/9mice-asphalt"
+      },
+      {
+        "platform": "kionMusic",
+        "label": "KION Music",
+        "url": "https://music.mts.ru/album/25926224",
+        "source": "https://the-flow.ru/releases/9mice-asphalt"
+      }
+    ],
+    "source": "https://the-flow.ru/releases/9mice-asphalt",
+    "title": "9mice &quot;asphalt&quot;",
+    "checkedAt": "2026-10-08",
+    "notes": "The release article preserves older Apple and Spotify catalog identifiers. Prefer current verified catalog/international resolver IDs when merging; regional destinations are exact observed article hrefs."
+  },
+  "heavy-metal-2": {
+    "links": [
+      {
+        "platform": "yandexMusic",
+        "label": "Yandex Music",
+        "url": "https://music.yandex.ru/album/33207179",
+        "source": "https://band.link/Heavy_Metal_2"
+      },
+      {
+        "platform": "vkMusic",
+        "label": "VK Music",
+        "url": "https://vk.com/music/album/-2000908337_21908337_e7727aea88d9aaefd2",
+        "source": "https://band.link/Heavy_Metal_2"
+      },
+      {
+        "platform": "zvuk",
+        "label": "Zvuk",
+        "url": "https://zvuk.com/release/35274120",
+        "source": "https://band.link/Heavy_Metal_2"
+      },
+      {
+        "platform": "kionMusic",
+        "label": "KION Music",
+        "url": "https://music.mts.ru/album/33207179",
+        "source": "https://band.link/Heavy_Metal_2"
+      },
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/ru/album/heavy-metal-2/1767963478?app=apple",
+        "source": "https://band.link/Heavy_Metal_2"
+      },
+      {
+        "platform": "spotify",
+        "label": "Spotify",
+        "url": "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2",
+        "source": "https://band.link/Heavy_Metal_2"
+      },
+      {
+        "platform": "youtubeMusic",
+        "label": "YouTube Music",
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_li17a7sFHqsrwoVgCxRDRd7Ut9BkrV-kk",
+        "source": "https://band.link/Heavy_Metal_2"
+      }
+    ],
+    "source": "https://band.link/Heavy_Metal_2",
+    "title": "9mice, Kai Angel - Heavy Metal 2 | BandLink",
+    "checkedAt": "2026-10-08"
+  },
+  "kai-angel-may-cry": {
+    "links": [
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/ru/album/angel-may-cry/1696056090",
+        "source": "https://the-flow.ru/releases/kai-angel-angel-may-cry"
+      },
+      {
+        "platform": "vkMusic",
+        "label": "VK Music",
+        "url": "https://vk.com/music/album/-2000369885_18369885_0c53a513e69720f948",
+        "source": "https://the-flow.ru/releases/kai-angel-angel-may-cry"
+      },
+      {
+        "platform": "spotify",
+        "label": "Spotify",
+        "url": "https://open.spotify.com/album/5P3Y4IXLwQzZF5v9fFRIFz?si=_LXFUvWrQseU7-43Src58w",
+        "source": "https://the-flow.ru/releases/kai-angel-angel-may-cry"
+      },
+      {
+        "platform": "yandexMusic",
+        "label": "Yandex Music",
+        "url": "https://music.yandex.ru/album/26519993",
+        "source": "https://the-flow.ru/releases/kai-angel-angel-may-cry"
+      }
+    ],
+    "source": "https://the-flow.ru/releases/kai-angel-angel-may-cry",
+    "title": "Kai Angel &quot;Angel May Cry&quot;",
+    "checkedAt": "2026-10-08",
+    "notes": "The article has no usable Zvuk destination; omit unavailable platforms."
+  },
+  "kai-marilyn-manson": {
+    "links": [
+      {
+        "platform": "appleMusic",
+        "label": "Apple Music",
+        "url": "https://music.apple.com/ru/album/marilyn-manson/1678069965",
+        "source": "https://the-flow.ru/releases/kai-angel-marilyn-manson"
+      },
+      {
+        "platform": "vkMusic",
+        "label": "VK Music",
+        "url": "https://vk.com/music/album/-2000595962_17595962_744afc9916b9f01416",
+        "source": "https://the-flow.ru/releases/kai-angel-marilyn-manson"
+      },
+      {
+        "platform": "spotify",
+        "label": "Spotify",
+        "url": "https://open.spotify.com/album/7dz6JUHLUpUMYauZgu8sOO?si=s5A7Ieg0Ttu0BgIYZF17UQ",
+        "source": "https://the-flow.ru/releases/kai-angel-marilyn-manson"
+      },
+      {
+        "platform": "yandexMusic",
+        "label": "Yandex Music",
+        "url": "https://music.yandex.ru/album/25270700",
+        "source": "https://the-flow.ru/releases/kai-angel-marilyn-manson"
+      },
+      {
+        "platform": "youtubeMusic",
+        "label": "YouTube Music",
+        "url": "https://music.youtube.com/playlist?list=OLAK5uy_lsP2uQlQ-rftGeU6Ay8QcXdInEycbky9E",
+        "source": "https://the-flow.ru/releases/kai-angel-marilyn-manson"
+      }
+    ],
+    "source": "https://the-flow.ru/releases/kai-angel-marilyn-manson",
+    "title": "Kai Angel выпустил альбом “Marilyn Manson”",
+    "checkedAt": "2026-10-08"
+  },
+  "heavy-metal": {
+    "title": "HEAVY METAL — Kai Angel, 9mice",
+    "links": [
+      {
+        "platform": "kionMusic",
+        "label": "KION Music",
+        "url": "https://music.mts.ru/artist/16509384/albums/24889014",
+        "source": "https://music.mts.ru/artist/16509384/albums/24889014"
+      }
+    ],
+    "source": "https://music.mts.ru/artist/16509384/albums/24889014",
+    "notes": "Exact official album destination observed in search index; direct fetch is captcha/error-limited. Search result identifies six album tracks correctly.",
+    "checkedAt": "2026-10-08"
+  },
+  "9mice-soloist": {
+    "links": [],
+    "source": "https://music.mts.ru/artist/13739916/albums/39942367/97809790",
+    "notes": "Official KION track page and album context found, but no direct album URL was observed and verified. Regional destinations intentionally left empty.",
+    "checkedAt": "2026-10-08"
+  },
+  "kai-kaicore": {
+    "links": [],
+    "source": null,
+    "notes": "No verified regional album destination found in bounded public research. Leave existing verified international links unchanged.",
+    "checkedAt": "2026-10-08"
+  }
+}

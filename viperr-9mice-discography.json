@@ -1,0 +1,967 @@
+{
+  "artist": "9mice",
+  "asOf": "2026-10-08",
+  "verifiedReleasedAlbumEpCount": 6,
+  "scope": "Verified album and EP catalog under 9mice, including duo releases with Kai Angel. Current licensed catalogs cross-checked against historical leads; not a claim that deleted or alias-era work is exhaustively available.",
+  "artistUrls": {
+    "appleMusic": "https://music.apple.com/us/artist/9mice/1593955534",
+    "spotify": "https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm"
+  },
+  "albums": [
+    {
+      "id": "9mice-soloist",
+      "title": "SOLOIST",
+      "artist": "9mice",
+      "artists": "9mice",
+      "releaseDate": "2021-12-28",
+      "releaseType": "Album",
+      "edition": "Standard",
+      "primarySource": "Apple Music / iTunes public catalog API",
+      "officialAlbumUrl": "https://music.apple.com/us/album/soloist/1694212695",
+      "sourceApiUrl": "https://itunes.apple.com/lookup?id=1694212695&entity=song&limit=200",
+      "trackCount": 7,
+      "durationMs": 691548.0,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/63/62/f2/6362f2e4-448b-964b-48d9-574856ba1eb4/0.jpg/1200x1200bb.jpg",
+      "observedArtworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/63/62/f2/6362f2e4-448b-964b-48d9-574856ba1eb4/0.jpg/100x100bb.jpg",
+      "coverPath": "C:/Users/user/Documents/Codex/2026-10-08/x20-2/work/assets/viperr-albums/9mice-soloist.jpg",
+      "coverDimensions": {
+        "width": 1200,
+        "height": 1200
+      },
+      "copyright": "℗ 2021 9mice",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "SOLOIST",
+          "artist": "9mice",
+          "durationMs": 62549,
+          "officialTrackUrl": "https://music.apple.com/us/album/soloist/1694212695?i=1694212876",
+          "explicit": false
+        },
+        {
+          "number": 2,
+          "title": "SPRITE",
+          "artist": "9mice",
+          "durationMs": 141046,
+          "officialTrackUrl": "https://music.apple.com/us/album/sprite/1694212695?i=1694212879",
+          "explicit": true
+        },
+        {
+          "number": 3,
+          "title": "NEW-YORK",
+          "artist": "9mice",
+          "durationMs": 87054,
+          "officialTrackUrl": "https://music.apple.com/us/album/new-york/1694212695?i=1694212880",
+          "explicit": false
+        },
+        {
+          "number": 4,
+          "title": "a closed feeling interlude.",
+          "artist": "9mice",
+          "durationMs": 48968,
+          "officialTrackUrl": "https://music.apple.com/us/album/a-closed-feeling-interlude/1694212695?i=1694212882",
+          "explicit": false
+        },
+        {
+          "number": 5,
+          "title": "NEED4SPIT",
+          "artist": "9mice",
+          "durationMs": 96835,
+          "officialTrackUrl": "https://music.apple.com/us/album/need4spit/1694212695?i=1694212883",
+          "explicit": true
+        },
+        {
+          "number": 6,
+          "title": "LOTTA VOLKOVA",
+          "artist": "9mice",
+          "durationMs": 121496,
+          "officialTrackUrl": "https://music.apple.com/us/album/lotta-volkova/1694212695?i=1694212884",
+          "explicit": true
+        },
+        {
+          "number": 7,
+          "title": "VULCAN",
+          "artist": "9mice",
+          "durationMs": 133600,
+          "officialTrackUrl": "https://music.apple.com/us/album/vulcan/1694212695?i=1694212885",
+          "explicit": false
+        }
+      ],
+      "notes": "Apple Music and Spotify classify this seven-track release as Album; some editorial/fan catalogs call it an EP. Catalog classification retained."
+    },
+    {
+      "id": "viperr-heavy-metal",
+      "title": "HEAVY METAL",
+      "artist": "Kai Angel & 9mice",
+      "artists": [
+        "9mice",
+        "Kai Angel"
+      ],
+      "releaseDate": "2023-02-17",
+      "releaseType": "EP",
+      "edition": "Standard",
+      "primarySource": "Apple Music / iTunes public catalog API",
+      "officialAlbumUrl": "https://music.apple.com/us/album/heavy-metal-ep/1889978892",
+      "sourceApiUrl": "https://itunes.apple.com/lookup?id=1889978892&entity=song&limit=200",
+      "trackCount": 6,
+      "durationMs": 824794.0,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/b3/e4/d2b3e4e6-fc71-2275-5cd2-ddefbc1fab4e/0.jpg/1200x1200bb.jpg",
+      "observedArtworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/b3/e4/d2b3e4e6-fc71-2275-5cd2-ddefbc1fab4e/0.jpg/100x100bb.jpg",
+      "coverPath": "C:/Users/user/Documents/Codex/2026-10-08/x20-2/work/assets/viperr-albums/viperr-heavy-metal.jpg",
+      "coverDimensions": {
+        "width": 1200,
+        "height": 1200
+      },
+      "copyright": "℗ 2023 VIPERR, DNK Music",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "LIPSTICK",
+          "artist": "Kai Angel & 9mice",
+          "durationMs": 121600,
+          "officialTrackUrl": "https://music.apple.com/us/album/lipstick/1889978892?i=1889978893",
+          "explicit": true
+        },
+        {
+          "number": 2,
+          "title": "N1CHEVO",
+          "artist": "Kai Angel & 9mice",
+          "durationMs": 104698,
+          "officialTrackUrl": "https://music.apple.com/us/album/n1chevo/1889978892?i=1889978897",
+          "explicit": true
+        },
+        {
+          "number": 3,
+          "title": "RESIDENT EVI7",
+          "artist": "Kai Angel & 9mice",
+          "durationMs": 151837,
+          "officialTrackUrl": "https://music.apple.com/us/album/resident-evi7/1889978892?i=1889978898",
+          "explicit": true
+        },
+        {
+          "number": 4,
+          "title": "AQUAFINA",
+          "artist": "Kai Angel & 9mice",
+          "durationMs": 169500,
+          "officialTrackUrl": "https://music.apple.com/us/album/aquafina/1889978892?i=1889978899",
+          "explicit": true
+        },
+        {
+          "number": 5,
+          "title": "HEAVY METAL",
+          "artist": "Kai Angel & 9mice",
+          "durationMs": 138806,
+          "officialTrackUrl": "https://music.apple.com/us/album/heavy-metal/1889978892?i=1889978900",
+          "explicit": true
+        },
+        {
+          "number": 6,
+          "title": "OD1NOKO FREESTYLE",
+          "artist": "Kai Angel & 9mice",
+          "durationMs": 138353,
+          "officialTrackUrl": "https://music.apple.com/us/album/od1noko-freestyle/1889978892?i=1889978901",
+          "explicit": true
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "9mice-asphalt",
+      "title": "ASPHALT",
+      "artist": "9mice",
+      "artists": [
+        "9mice"
+      ],
+      "releaseDate": "2023-05-26",
+      "releaseType": "Album",
+      "edition": "Standard",
+      "primarySource": "Spotify",
+      "officialAlbumUrl": "https://open.spotify.com/album/1ZTd3crKJnUiyJ0Hz0MHzU",
+      "supplementalSourceUrl": "https://www.qobuz.com/us-en/album/asphalt-9mice/u1oaldcbpdw3b",
+      "trackCount": 11,
+      "durationMs": 1343000,
+      "coverUrl": "https://i.scdn.co/image/ab67616d0000b2734df4158abb63d3dd5622e979",
+      "observedArtworkUrl": "https://i.scdn.co/image/ab67616d0000b2734df4158abb63d3dd5622e979",
+      "coverPath": "C:/Users/user/Documents/Codex/2026-10-08/x20-2/work/assets/viperr-albums/9mice-asphalt.jpg",
+      "coverDimensions": {
+        "width": 640,
+        "height": 640
+      },
+      "copyright": "2023 Viperr / CPLUS (Spotify)",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "ASSAULT",
+          "artist": "9mice",
+          "durationMs": 96000
+        },
+        {
+          "number": 2,
+          "title": "BELLA",
+          "artist": "9mice",
+          "durationMs": 131000
+        },
+        {
+          "number": 3,
+          "title": "IMYA",
+          "artist": "9mice",
+          "durationMs": 121000
+        },
+        {
+          "number": 4,
+          "title": "DOROGAYA",
+          "artist": "9mice",
+          "durationMs": 116000
+        },
+        {
+          "number": 5,
+          "title": "SSNS",
+          "artist": "9mice",
+          "durationMs": 117000
+        },
+        {
+          "number": 6,
+          "title": "Y3BOK",
+          "artist": "9mice",
+          "durationMs": 113000
+        },
+        {
+          "number": 7,
+          "title": "KIKO",
+          "artist": "9mice",
+          "durationMs": 116000
+        },
+        {
+          "number": 8,
+          "title": "RIOT MUZIK",
+          "artist": "9mice",
+          "durationMs": 126000
+        },
+        {
+          "number": 9,
+          "title": "AVRIL LAVIGNE",
+          "artist": "9mice",
+          "durationMs": 143000
+        },
+        {
+          "number": 10,
+          "title": "ALASKA",
+          "artist": "9mice",
+          "durationMs": 126000
+        },
+        {
+          "number": 11,
+          "title": "YMIRAU",
+          "artist": "9mice",
+          "durationMs": 138000
+        }
+      ],
+      "notes": "Spotify public HTML verifies title, date, track count and artwork; Qobuz supplies current track names and duration. Absent from current US Apple Music artist album lookup. Older secondary lists call track 9 HEROIN; current Spotify/Qobuz list AVRIL LAVIGNE."
+    },
+    {
+      "id": "9mice-orpheus",
+      "title": "ORPHEUS",
+      "artist": "9mice",
+      "artists": "9mice",
+      "releaseDate": "2023-12-08",
+      "releaseType": "Album",
+      "edition": "Standard",
+      "primarySource": "Apple Music / iTunes public catalog API",
+      "officialAlbumUrl": "https://music.apple.com/us/album/orpheus/1719945440",
+      "sourceApiUrl": "https://itunes.apple.com/lookup?id=1719945440&entity=song&limit=200",
+      "trackCount": 15,
+      "durationMs": 1991700.0,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/12/a1/ec12a171-e0a9-98bf-24e2-d587f78eb84c/cover.jpg/1200x1200bb.jpg",
+      "observedArtworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/12/a1/ec12a171-e0a9-98bf-24e2-d587f78eb84c/cover.jpg/100x100bb.jpg",
+      "coverPath": "C:/Users/user/Documents/Codex/2026-10-08/x20-2/work/assets/viperr-albums/9mice-orpheus.jpg",
+      "coverDimensions": {
+        "width": 1200,
+        "height": 1200
+      },
+      "copyright": "℗ 2023 Viperr",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "FACE",
+          "artist": "9mice",
+          "durationMs": 162833,
+          "officialTrackUrl": "https://music.apple.com/us/album/face/1719945440?i=1719945444",
+          "explicit": true
+        },
+        {
+          "number": 2,
+          "title": "SV",
+          "artist": "9mice",
+          "durationMs": 122000,
+          "officialTrackUrl": "https://music.apple.com/us/album/sv/1719945440?i=1719945450",
+          "explicit": true
+        },
+        {
+          "number": 3,
+          "title": "SHAKE",
+          "artist": "9mice",
+          "durationMs": 126471,
+          "officialTrackUrl": "https://music.apple.com/us/album/shake/1719945440?i=1719945453",
+          "explicit": true
+        },
+        {
+          "number": 4,
+          "title": "STAY WITH ME (feat. Kai Angel)",
+          "artist": "9mice",
+          "durationMs": 128578,
+          "officialTrackUrl": "https://music.apple.com/us/album/stay-with-me-feat-kai-angel/1719945440?i=1719945458",
+          "explicit": true
+        },
+        {
+          "number": 5,
+          "title": "КИНО",
+          "artist": "9mice",
+          "durationMs": 108876,
+          "officialTrackUrl": "https://music.apple.com/us/album/%D0%BA%D0%B8%D0%BD%D0%BE/1719945440?i=1719945783",
+          "explicit": true
+        },
+        {
+          "number": 6,
+          "title": "ХОЧЕТ",
+          "artist": "9mice",
+          "durationMs": 114581,
+          "officialTrackUrl": "https://music.apple.com/us/album/%D1%85%D0%BE%D1%87%D0%B5%D1%82/1719945440?i=1719945789",
+          "explicit": true
+        },
+        {
+          "number": 7,
+          "title": "МНОГО",
+          "artist": "9mice",
+          "durationMs": 111892,
+          "officialTrackUrl": "https://music.apple.com/us/album/%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE/1719945440?i=1719945793",
+          "explicit": true
+        },
+        {
+          "number": 8,
+          "title": "СУКА (feat. lifelessgarments)",
+          "artist": "9mice",
+          "durationMs": 88379,
+          "officialTrackUrl": "https://music.apple.com/us/album/%D1%81%D1%83%D0%BA%D0%B0-feat-lifelessgarments/1719945440?i=1719945796",
+          "explicit": true
+        },
+        {
+          "number": 9,
+          "title": "ELA-ELA (feat. Kai Angel)",
+          "artist": "9mice",
+          "durationMs": 126857,
+          "officialTrackUrl": "https://music.apple.com/us/album/ela-ela-feat-kai-angel/1719945440?i=1719946161",
+          "explicit": true
+        },
+        {
+          "number": 10,
+          "title": "GWYN PLAINE",
+          "artist": "9mice",
+          "durationMs": 134087,
+          "officialTrackUrl": "https://music.apple.com/us/album/gwyn-plaine/1719945440?i=1719946167",
+          "explicit": true
+        },
+        {
+          "number": 11,
+          "title": "BADMAN (feat. UNEEK & Kai Angel)",
+          "artist": "9mice",
+          "durationMs": 128014,
+          "officialTrackUrl": "https://music.apple.com/us/album/badman-feat-uneek-kai-angel/1719945440?i=1719946174",
+          "explicit": true
+        },
+        {
+          "number": 12,
+          "title": "ГЕРОИНЯ",
+          "artist": "9mice",
+          "durationMs": 142703,
+          "officialTrackUrl": "https://music.apple.com/us/album/%D0%B3%D0%B5%D1%80%D0%BE%D0%B8%D0%BD%D1%8F/1719945440?i=1719946185",
+          "explicit": true
+        },
+        {
+          "number": 13,
+          "title": "ДЕВОЧКА (feat. glaive)",
+          "artist": "9mice",
+          "durationMs": 184318,
+          "officialTrackUrl": "https://music.apple.com/us/album/%D0%B4%D0%B5%D0%B2%D0%BE%D1%87%D0%BA%D0%B0-feat-glaive/1719945440?i=1719946499",
+          "explicit": true
+        },
+        {
+          "number": 14,
+          "title": "РАЗРУШИТЬ",
+          "artist": "9mice",
+          "durationMs": 168084,
+          "officialTrackUrl": "https://music.apple.com/us/album/%D1%80%D0%B0%D0%B7%D1%80%D1%83%D1%88%D0%B8%D1%82%D1%8C/1719945440?i=1719946514",
+          "explicit": true
+        },
+        {
+          "number": 15,
+          "title": "4EVER",
+          "artist": "9mice",
+          "durationMs": 144027,
+          "officialTrackUrl": "https://music.apple.com/us/album/4ever/1719945440?i=1719946709",
+          "explicit": true
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "viperr-heavy-metal-2",
+      "title": "Heavy Metal 2",
+      "artist": "9mice & Kai Angel",
+      "artists": [
+        "9mice",
+        "Kai Angel"
+      ],
+      "releaseDate": "2024-09-13",
+      "releaseType": "Album",
+      "edition": "Standard",
+      "primarySource": "Apple Music / iTunes public catalog API",
+      "officialAlbumUrl": "https://music.apple.com/us/album/heavy-metal-2/1767963478",
+      "sourceApiUrl": "https://itunes.apple.com/lookup?id=1767963478&entity=song&limit=200",
+      "trackCount": 21,
+      "durationMs": 2326198.0,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/ea/7a/dfea7a99-b0e1-805e-0be0-a2e37c8f234d/cover.jpg/1200x1200bb.jpg",
+      "observedArtworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/ea/7a/dfea7a99-b0e1-805e-0be0-a2e37c8f234d/cover.jpg/100x100bb.jpg",
+      "coverPath": "C:/Users/user/Documents/Codex/2026-10-08/x20-2/work/assets/viperr-albums/viperr-heavy-metal-2.jpg",
+      "coverDimensions": {
+        "width": 1200,
+        "height": 1200
+      },
+      "copyright": "℗ 2024 Viperr",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Cyber Is Dead Interlude",
+          "artist": "9mice & Kai Angel",
+          "durationMs": 85000,
+          "officialTrackUrl": "https://music.apple.com/us/album/cyber-is-dead-interlude/1767963478?i=1767963479",
+          "explicit": true
+        },
+        {
+          "number": 2,
+          "title": "Fountainebleu",
+          "artist": "9mice & Kai Angel",
+          "durationMs": 133785,
+          "officialTrackUrl": "https://music.apple.com/us/album/fountainebleu/1767963478?i=1767963482",
+          "explicit": true
+        },
+        {
+          "number": 3,
+          "title": "Phoenix",
+          "artist": "9mice & Kai Angel",
+          "durationMs": 150441,
+          "officialTrackUrl": "https://music.apple.com/us/album/phoenix/1767963478?i=1767963484",
+          "explicit": true
+        },
+        {
+          "number": 4,
+          "title": "Blum - Big City Life",
+          "artist": "9mice & Kai Angel",
+          "durationMs": 158361,
+          "officialTrackUrl": "https://music.apple.com/us/album/blum-big-city-life/1767963478?i=1767963489",
+          "explicit": true
+        },
+        {
+          "number": 5,
+          "title": "Ринопластика",
+          "artist": "9mice & Kai Angel",
+          "durationMs": 115135,
+          "officialTrackUrl": "https://music.apple.com/us/album/%D1%80%D0%B8%D0%BD%D0%BE%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B0/1767963478?i=1767963491",
+          "explicit": true
+        },
+        {
+          "number": 6,
+          "title": "Paparazzi",
+          "artist": "9mice & Kai Angel",
+          "durationMs": 13913,
+          "officialTrackUrl": "https://music.apple.com/us/album/paparazzi/1767963478?i=1767963494",
+          "explicit": true
+        },
+        {
+          "number": 7,
+          "title": "So Good",
+          "artist": "9mice & Kai Angel",
+          "durationMs": 112405,
+          "officialTrackUrl": "https://music.apple.com/us/album/so-good/1767963478?i=1767963497",
+          "explicit": true
+        },
+        {
+          "number": 8,
+          "title": "Frank Ocean",
+          "artist": "9mice & Kai Angel",
+          "durationMs": 128667,
+          "officialTrackUrl": "https://music.apple.com/us/album/frank-ocean/1767963478?i=1767963916",
+          "explicit": true
+        },
+        {
+          "number": 9,
+          "title": "2017",
+          "artist": "9mice & Kai Angel",
+          "durationMs": 133000,
+          "officialTrackUrl": "https://music.apple.com/us/album/2017/1767963478?i=1767963918",
+          "explicit": true
+        },
+        {
+          "number": 10,
+          "title": "Da Vinci",
+          "artist": "9mice & Kai Angel",
+          "durationMs": 130778,
+          "officialTrackUrl": "https://music.apple.com/us/album/da-vinci/1767963478?i=1767963923",
+          "explicit": true
+        },
+        {
+          "number": 11,
+          "title": "LMFAO",
+          "artist": "9mice & Kai Angel",
+          "durationMs": 154021,
+          "officialTrackUrl": "https://music.apple.com/us/album/lmfao/1767963478?i=1767963928",
+          "explicit": true
+        },
+        {
+          "number": 12,
+          "title": "Ice + Alabaster",
+          "artist": "9mice & Kai Angel",
+          "durationMs": 131667,
+          "officialTrackUrl": "https://music.apple.com/us/album/ice-alabaster/1767963478?i=1767963932",
+          "explicit": true
+        },
+        {
+          "number": 13,
+          "title": "Tusa V.I.P.",
+          "artist": "9mice & Kai Angel",
+          "durationMs": 118857,
+          "officialTrackUrl": "https://music.apple.com/us/album/tusa-v-i-p/1767963478?i=1767963937",
+          "explicit": true
+        },
+        {
+          "number": 14,
+          "title": "I Love God",
+          "artist": "9mice & Kai Angel",
+          "durationMs": 123200,
+          "officialTrackUrl": "https://music.apple.com/us/album/i-love-god/1767963478?i=1767963940",
+          "explicit": true
+        },
+        {
+          "number": 15,
+          "title": "Smells Like Teen Spirit",
+          "artist": "9mice & Kai Angel",
+          "durationMs": 5278,
+          "officialTrackUrl": "https://music.apple.com/us/album/smells-like-teen-spirit/1767963478?i=1767963943",
+          "explicit": true
+        },
+        {
+          "number": 16,
+          "title": "Hollywood Takeover...",
+          "artist": "9mice & Kai Angel",
+          "durationMs": 56907,
+          "officialTrackUrl": "https://music.apple.com/us/album/hollywood-takeover/1767963478?i=1767963946",
+          "explicit": true
+        },
+        {
+          "number": 17,
+          "title": "I Wanna Be Your Dog",
+          "artist": "9mice & Kai Angel",
+          "durationMs": 126761,
+          "officialTrackUrl": "https://music.apple.com/us/album/i-wanna-be-your-dog/1767963478?i=1767963947",
+          "explicit": true
+        },
+        {
+          "number": 18,
+          "title": "Hate People",
+          "artist": "9mice & Kai Angel",
+          "durationMs": 109241,
+          "officialTrackUrl": "https://music.apple.com/us/album/hate-people/1767963478?i=1767964219",
+          "explicit": true
+        },
+        {
+          "number": 19,
+          "title": "Fire Alarm",
+          "artist": "9mice & Kai Angel",
+          "durationMs": 56376,
+          "officialTrackUrl": "https://music.apple.com/us/album/fire-alarm/1767963478?i=1767964224",
+          "explicit": true
+        },
+        {
+          "number": 20,
+          "title": "Murder On The Dancefloor",
+          "artist": "9mice & Kai Angel",
+          "durationMs": 105405,
+          "officialTrackUrl": "https://music.apple.com/us/album/murder-on-the-dancefloor/1767963478?i=1767964227",
+          "explicit": true
+        },
+        {
+          "number": 21,
+          "title": "Homecoming",
+          "artist": "9mice & Kai Angel",
+          "durationMs": 177000,
+          "officialTrackUrl": "https://music.apple.com/us/album/homecoming/1767963478?i=1767964232",
+          "explicit": true
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "9mice-9mm",
+      "title": "9mm",
+      "artist": "9mice",
+      "artists": "9mice",
+      "releaseDate": "2025-10-17",
+      "releaseType": "Album",
+      "edition": "Standard",
+      "primarySource": "Apple Music / iTunes public catalog API",
+      "officialAlbumUrl": "https://music.apple.com/us/album/9mm/1846155523",
+      "sourceApiUrl": "https://itunes.apple.com/lookup?id=1846155523&entity=song&limit=200",
+      "trackCount": 14,
+      "durationMs": 1682032.0,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/a0/a7/bfa0a73e-766c-60cc-8588-07d78bcae0a0/cover.jpg/1200x1200bb.jpg",
+      "observedArtworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/a0/a7/bfa0a73e-766c-60cc-8588-07d78bcae0a0/cover.jpg/100x100bb.jpg",
+      "coverPath": "C:/Users/user/Documents/Codex/2026-10-08/x20-2/work/assets/viperr-albums/9mice-9mm.jpg",
+      "coverDimensions": {
+        "width": 1200,
+        "height": 1200
+      },
+      "copyright": "℗ 2025 Viperr",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "jenna",
+          "artist": "9mice",
+          "durationMs": 135405,
+          "officialTrackUrl": "https://music.apple.com/us/album/jenna/1846155523?i=1846155531",
+          "explicit": true
+        },
+        {
+          "number": 2,
+          "title": "nirvana",
+          "artist": "9mice",
+          "durationMs": 121847,
+          "officialTrackUrl": "https://music.apple.com/us/album/nirvana/1846155523?i=1846155677",
+          "explicit": true
+        },
+        {
+          "number": 3,
+          "title": "distance",
+          "artist": "9mice",
+          "durationMs": 124431,
+          "officialTrackUrl": "https://music.apple.com/us/album/distance/1846155523?i=1846155682",
+          "explicit": true
+        },
+        {
+          "number": 4,
+          "title": "kill bill / evian",
+          "artist": "9mice",
+          "durationMs": 117677,
+          "officialTrackUrl": "https://music.apple.com/us/album/kill-bill-evian/1846155523?i=1846155689",
+          "explicit": true
+        },
+        {
+          "number": 5,
+          "title": "famous",
+          "artist": "9mice",
+          "durationMs": 140800,
+          "officialTrackUrl": "https://music.apple.com/us/album/famous/1846155523?i=1846155694",
+          "explicit": true
+        },
+        {
+          "number": 6,
+          "title": "humble",
+          "artist": "9mice",
+          "durationMs": 135724,
+          "officialTrackUrl": "https://music.apple.com/us/album/humble/1846155523?i=1846155697",
+          "explicit": true
+        },
+        {
+          "number": 7,
+          "title": "dry lips freestyle",
+          "artist": "9mice",
+          "durationMs": 115213,
+          "officialTrackUrl": "https://music.apple.com/us/album/dry-lips-freestyle/1846155523?i=1846155972",
+          "explicit": true
+        },
+        {
+          "number": 8,
+          "title": "romance",
+          "artist": "9mice",
+          "durationMs": 136000,
+          "officialTrackUrl": "https://music.apple.com/us/album/romance/1846155523?i=1846155979",
+          "explicit": true
+        },
+        {
+          "number": 9,
+          "title": "chanel no9",
+          "artist": "9mice",
+          "durationMs": 124552,
+          "officialTrackUrl": "https://music.apple.com/us/album/chanel-no9/1846155523?i=1846155981",
+          "explicit": true
+        },
+        {
+          "number": 10,
+          "title": "your love",
+          "artist": "9mice",
+          "durationMs": 120000,
+          "officialTrackUrl": "https://music.apple.com/us/album/your-love/1846155523?i=1846155982",
+          "explicit": true
+        },
+        {
+          "number": 11,
+          "title": "less than 0",
+          "artist": "9mice",
+          "durationMs": 45139,
+          "officialTrackUrl": "https://music.apple.com/us/album/less-than-0/1846155523?i=1846155994",
+          "explicit": false
+        },
+        {
+          "number": 12,
+          "title": "sugar",
+          "artist": "9mice",
+          "durationMs": 156444,
+          "officialTrackUrl": "https://music.apple.com/us/album/sugar/1846155523?i=1846156182",
+          "explicit": false
+        },
+        {
+          "number": 13,
+          "title": "acoustic",
+          "artist": "9mice",
+          "durationMs": 120000,
+          "officialTrackUrl": "https://music.apple.com/us/album/acoustic/1846155523?i=1846156191",
+          "explicit": false
+        },
+        {
+          "number": 14,
+          "title": "weightless / outro",
+          "artist": "9mice",
+          "durationMs": 88800,
+          "officialTrackUrl": "https://music.apple.com/us/album/weightless-outro/1846155523?i=1846156194",
+          "explicit": false
+        }
+      ],
+      "notes": "Current Apple Music track 14 is weightless / outro; Spotify indexed data names the corresponding final track ANnnnnNIHILATIONNN. Tracklist here follows Apple Music."
+    }
+  ],
+  "singlesExcluded": [
+    {
+      "title": "Jealous - Single",
+      "artist": "9mice, Egor Kreed, тёмный принц & madk1d",
+      "releaseDate": "2026-04-10",
+      "trackCount": 1,
+      "releaseType": "Single",
+      "officialUrl": "https://music.apple.com/us/album/jealous-single/1889890379",
+      "reason": "Apple Music explicitly labels this release Single, including two-track maxi-singles."
+    },
+    {
+      "title": "ГЕРОИНЯ - Single",
+      "artist": "9mice",
+      "releaseDate": "2023-08-18",
+      "trackCount": 1,
+      "releaseType": "Single",
+      "officialUrl": "https://music.apple.com/us/album/%D0%B3%D0%B5%D1%80%D0%BE%D0%B8%D0%BD%D1%8F-single/1702936771",
+      "reason": "Apple Music explicitly labels this release Single, including two-track maxi-singles."
+    },
+    {
+      "title": "Your Love - Single",
+      "artist": "9mice",
+      "releaseDate": "2024-05-17",
+      "trackCount": 1,
+      "releaseType": "Single",
+      "officialUrl": "https://music.apple.com/us/album/your-love-single/1746458431",
+      "reason": "Apple Music explicitly labels this release Single, including two-track maxi-singles."
+    },
+    {
+      "title": "Nina Kraviz (feat. 9mice) - Single",
+      "artist": "Pupis",
+      "releaseDate": "2022-08-05",
+      "trackCount": 1,
+      "releaseType": "Single",
+      "officialUrl": "https://music.apple.com/us/album/nina-kraviz-feat-9mice-single/1637596480",
+      "reason": "Apple Music explicitly labels this release Single, including two-track maxi-singles."
+    },
+    {
+      "title": "STAY WITH ME - Single",
+      "artist": "9mice & Kai Angel",
+      "releaseDate": "2023-12-01",
+      "trackCount": 1,
+      "releaseType": "Single",
+      "officialUrl": "https://music.apple.com/us/album/stay-with-me-single/1718730762",
+      "reason": "Apple Music explicitly labels this release Single, including two-track maxi-singles."
+    },
+    {
+      "title": "ГОША РУБЧИНСКИЙ - Single",
+      "artist": "9mice",
+      "releaseDate": "2025-04-11",
+      "trackCount": 1,
+      "releaseType": "Single",
+      "officialUrl": "https://music.apple.com/us/album/%D0%B3%D0%BE%D1%88%D0%B0-%D1%80%D1%83%D0%B1%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-single/1807360960",
+      "reason": "Apple Music explicitly labels this release Single, including two-track maxi-singles."
+    },
+    {
+      "title": "Москва - Владивосток - Single",
+      "artist": "9mice",
+      "releaseDate": "2025-06-20",
+      "trackCount": 1,
+      "releaseType": "Single",
+      "officialUrl": "https://music.apple.com/us/album/%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0-%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA-single/1821399108",
+      "reason": "Apple Music explicitly labels this release Single, including two-track maxi-singles."
+    },
+    {
+      "title": "Honey Bunny (Numb) - Single",
+      "artist": "9mice",
+      "releaseDate": "2026-09-29",
+      "trackCount": 1,
+      "releaseType": "Single",
+      "officialUrl": "https://music.apple.com/us/album/honey-bunny-numb-single/6815845942",
+      "reason": "Apple Music explicitly labels this release Single, including two-track maxi-singles."
+    },
+    {
+      "title": "CHAINSAW - Single",
+      "artist": "9mice",
+      "releaseDate": "2023-09-22",
+      "trackCount": 2,
+      "releaseType": "Single",
+      "officialUrl": "https://music.apple.com/us/album/chainsaw-single/1892647008",
+      "reason": "Apple Music explicitly labels this release Single, including two-track maxi-singles."
+    },
+    {
+      "title": "БЕГИ ОТ МЕНЯ - Single",
+      "artist": "ANIKV, Kai Angel & 9mice",
+      "releaseDate": "2023-08-11",
+      "trackCount": 1,
+      "releaseType": "Single",
+      "officialUrl": "https://music.apple.com/us/album/%D0%B1%D0%B5%D0%B3%D0%B8-%D0%BE%D1%82-%D0%BC%D0%B5%D0%BD%D1%8F-single/6773278362",
+      "reason": "Apple Music explicitly labels this release Single, including two-track maxi-singles."
+    },
+    {
+      "title": "Do Vesni - Single",
+      "artist": "9mice",
+      "releaseDate": "2026-03-27",
+      "trackCount": 1,
+      "releaseType": "Single",
+      "officialUrl": "https://music.apple.com/us/album/do-vesni-single/1887801558",
+      "reason": "Apple Music explicitly labels this release Single, including two-track maxi-singles."
+    },
+    {
+      "title": "Нет Тебя - Single",
+      "artist": "9mice & K",
+      "releaseDate": "2026-07-03",
+      "trackCount": 1,
+      "releaseType": "Single",
+      "officialUrl": "https://music.apple.com/us/album/%D0%BD%D0%B5%D1%82-%D1%82%D0%B5%D0%B1%D1%8F-single/6786450095",
+      "reason": "Apple Music explicitly labels this release Single, including two-track maxi-singles."
+    },
+    {
+      "title": "New-York - Single",
+      "artist": "9mice",
+      "releaseDate": "2021-11-07",
+      "trackCount": 1,
+      "releaseType": "Single",
+      "officialUrl": "https://music.apple.com/us/album/new-york-single/1593961073",
+      "reason": "Apple Music explicitly labels this release Single, including two-track maxi-singles."
+    },
+    {
+      "title": "THRILLEЯ - Single",
+      "artist": "Kai Angel & 9mice",
+      "releaseDate": "2023-06-02",
+      "trackCount": 1,
+      "releaseType": "Single",
+      "officialUrl": "https://music.apple.com/us/album/thrille%D1%8F-single/1690153885",
+      "reason": "Apple Music explicitly labels this release Single, including two-track maxi-singles."
+    },
+    {
+      "title": "u+me / stranger - Single",
+      "artist": "9mice",
+      "releaseDate": "2025-08-08",
+      "trackCount": 2,
+      "releaseType": "Single",
+      "officialUrl": "https://music.apple.com/us/album/u-me-stranger-single/1831490051",
+      "reason": "Apple Music explicitly labels this release Single, including two-track maxi-singles."
+    },
+    {
+      "title": "Anora - Single",
+      "artist": "9mice",
+      "releaseDate": "2025-02-14",
+      "trackCount": 1,
+      "releaseType": "Single",
+      "officialUrl": "https://music.apple.com/us/album/anora-single/1795754926",
+      "reason": "Apple Music explicitly labels this release Single, including two-track maxi-singles."
+    }
+  ],
+  "announcedNotVerifiedReleased": [
+    {
+      "officialUrl": "https://band.link/kingggofhate",
+      "status": "Presave / no released album verified as of research",
+      "artist": "9mice",
+      "corroboratingArtistPost": "https://telegram.me/s/the9mice?after=3130",
+      "title": "King of Hate",
+      "notes": "BandLink currently displays presave actions for Spotify, Apple Music and other services. Do not list as released or assign an invented release date."
+    }
+  ],
+  "historicalUnverifiedAppendix": [
+    {
+      "status": "Historical alias release reported by secondary catalogs; current official album listing not found",
+      "year": 2019,
+      "sources": [
+        "https://www.albumoftheyear.org/artist/385278-/",
+        "https://hitparad.fm/collections/albums/9mice-slajminami-15069"
+      ],
+      "artistAlias": "димайс",
+      "title": "Слайминами",
+      "coverDownloaded": false
+    },
+    {
+      "status": "Historical alias release reported by secondary catalogs; current official album listing not found",
+      "year": 2021,
+      "sources": [
+        "https://www.albumoftheyear.org/artist/385278-/",
+        "https://hitparad.fm/collections/albums/9mice-pazly-15067"
+      ],
+      "artistAlias": "димайс",
+      "title": "Пазлы",
+      "coverDownloaded": false
+    },
+    {
+      "status": "Deleted mixtape reported by fan archives; official release metadata not recovered",
+      "year": 2022,
+      "reportedReleaseDate": "2022-12-22",
+      "coverDownloaded": false,
+      "title": "POEMI KOSO TAPE",
+      "reportedTrackCount": 4,
+      "artistAlias": "9mice",
+      "sources": [
+        "https://www.tumgik.com/templeofviperr",
+        "https://hitparad.fm/collections/albums/9mice-poemi-koso-tape-15064"
+      ]
+    }
+  ],
+  "officialChannels": [
+    {
+      "evidenceUrl": "https://www.youtube.com/watch?v=vQZY-0rws3w",
+      "channelId": "UC1FJnJ423nbMah58h9AkKKw",
+      "platform": "YouTube",
+      "verification": "Official Artist Channel label in YouTube search result and official artist music video",
+      "url": "https://www.youtube.com/@999mice"
+    },
+    {
+      "evidenceUrl": "https://rutube.ru/video/3841d7bef22ec202469474980013c1bd/",
+      "platform": "Telegram",
+      "verification": "Linked by VSRAP artist interview description; reachable current artist feed",
+      "url": "https://t.me/the9mice"
+    },
+    {
+      "evidenceUrl": "https://rutube.ru/video/3841d7bef22ec202469474980013c1bd/",
+      "platform": "Instagram",
+      "verification": "Linked by VSRAP artist interview description; current Instagram profile not independently opened",
+      "url": "https://www.instagram.com/9mice/"
+    },
+    {
+      "evidenceUrl": "https://rutube.ru/video/3841d7bef22ec202469474980013c1bd/",
+      "platform": "VK",
+      "verification": "Linked by VSRAP artist interview description; current VK profile not independently opened",
+      "url": "https://vk.com/9micevk"
+    }
+  ],
+  "deluxeEditions": "No officially released deluxe edition verified in reviewed artist catalogs. Duplicate/reissued catalog IDs are not counted as separate albums.",
+  "artworkRights": "Official platform cover artwork retained unedited for album identification. No open reuse license found; downloading does not confer rights.",
+  "classificationNotes": [
+    "Apple iTunes API collectionType Album is a container type and also appears for singles. Single/EP suffixes and artist-page classification were used.",
+    "CHAINSAW and u+me / stranger have two tracks but are explicitly Singles on Apple Music; Shazam categories sometimes label them EP.",
+    "MILITANTUM (2026) belongs to тёмный принц; 9mice is a featured artist, so excluded from his album catalog."
+  ]
+}
