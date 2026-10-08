@@ -1,0 +1,12 @@
+{
+  "sourceShortURL": "https://pin.it/1HjWl996o",
+  "sourcePage": "https://www.pinterest.com/pin/597149231878441705/",
+  "sourceImageURL": "https://i.pinimg.com/736x/a9/6a/6f/a96a6f0a15a4ce3c390ca9ddc027f2b9.jpg",
+  "originalFile": "viperr-user-photo.jpg",
+  "outputFile": "viperr-user-cutout.png",
+  "sourceLabel": "Parent browser inspection reported Pinterest labels the original image as AI-modified.",
+  "edit": "One built-in imagegen edit requested removal of white background and bottom-left parental advisory overlay; transparent cutout derivative, not original pixels.",
+  "originalRetained": true,
+  "prompt": "Use case: background-extraction\nAsset type: transparent cutout derivative of the exact user-selected square portrait, for an animated fashion website hero.\nEdit target: the supplied portrait containing two men positioned back to back against a white background, one on the left leaning his head upward in dark clothing and one on the right in a light cap, light hoodie and dark padded vest.\nPrimary request: Remove ONLY the white/off-white background, including the white space between the two men. Also remove the bottom-left black-and-white Parental Advisory overlay. Return actual transparent alpha around both subjects.\nPreserve invariants: Keep BOTH men with their exact original faces, hair, glasses, tattoos, skin, clothing, existing clothing lettering, fabric texture, folds, accessories, hands, poses, relative positioning, scale, photographic grain, lighting, contrast and colors as closely unchanged as possible. Preserve all existing clothing text. Keep the original square framing and bottom crop of their bodies exactly; do not extend the photograph or invent lower legs. Do not crop any more of either subject. Keep original fine hair and clothing edges.\nOverlay removal: Remove the advisory box, replacing its white-background portions with transparency. Where it covers a small part of the left subject's dark pants, continue only that local dark clothing texture naturally, without changing the silhouette or pose.\nConstraints: No restyling, no redesign, no face changes, no smoothing, no enhancement, no new background, no new text or artwork, no relighting, no added shadow. Only background extraction and advisory-overlay removal. Output a genuinely transparent PNG cutout, not a checkerboard or solid-color background.",
+  "retrieved": "2026-10-08"
+}
