@@ -1,8 +1,11 @@
 'use strict';
 let listenerVote=null, sharedPlaylist=null, shareAttempt=null;
+const signOut=document.createElement('button');signOut.type='button';signOut.className='text-button';signOut.textContent='Sign out of VIPERR';signOut.hidden=true;document.querySelector('#saved-dialog').append(signOut);
+signOut.addEventListener('click',async()=>{signOut.disabled=true;try{await archiveRequest('/api/auth/logout',{method:'POST',body:'{}'});location.reload();}catch(error){toast(error.message);signOut.disabled=false;}});
 const voteSelect=document.querySelector('#vote-album'),voteStatus=document.querySelector('#vote-status');
 voteSelect.insertAdjacentHTML('beforeend',albums.map(a=>`<option value="${esc(a.id)}">${esc(a.artist)} — ${esc(a.title)}</option>`).join(''));
 function renderSignal(data){
+  signOut.hidden=!(data.authenticated&&data.signOutPath);
   listenerVote=data.vote;voteSelect.value=listenerVote||'';
   const total=data.stats.reduce((sum,row)=>sum+row.votes,0);
   document.querySelector('#vote-total').textContent=total;document.querySelector('#playlist-total').textContent=data.playlistCount;
@@ -13,7 +16,7 @@ function renderSignal(data){
 }
 async function connectArchive(){
   const retry=document.querySelector('#retry-connection');retry.disabled=true;voteStatus.textContent='Connecting to the archive…';
-  try{const state=await archiveRequest('/api/state');saved=state.saved;libraryReady=state.authenticated;archiveConnected=true;renderSignal(state);voteSelect.disabled=!libraryReady;document.querySelector('#cast-vote').disabled=!libraryReady;document.querySelector('#save-shared').disabled=!libraryReady||!sharedPlaylist;retry.hidden=true;document.querySelectorAll('[data-sign-in]').forEach(link=>{link.hidden=libraryReady;link.href='/signin-with-chatgpt?return_to='+encodeURIComponent(location.pathname+location.search+location.hash);});if(!libraryReady)voteStatus.textContent='Explore the archive freely. Sign in to save your library and send a signal.';}
+  try{const state=await archiveRequest('/api/state');saved=state.saved;libraryReady=state.authenticated;archiveConnected=true;renderSignal(state);voteSelect.disabled=!libraryReady;document.querySelector('#cast-vote').disabled=!libraryReady;document.querySelector('#save-shared').disabled=!libraryReady||!sharedPlaylist;retry.hidden=true;document.querySelectorAll('[data-sign-in]').forEach(link=>{link.hidden=libraryReady;link.href=(state.signInPath||'/signin-with-chatgpt')+'?return_to='+encodeURIComponent(location.pathname+location.search+location.hash);});if(!libraryReady)voteStatus.textContent='Explore the archive freely. Sign in to save your library and send a signal.';}
   catch(error){libraryReady=false;archiveConnected=false;voteSelect.disabled=true;document.querySelector('#cast-vote').disabled=true;voteStatus.textContent=error.message;retry.hidden=false;document.querySelector('#vote-ranking').innerHTML='<p class="small-note">The community signal is unavailable. Try reconnecting.</p>';}
   finally{retry.disabled=false;updateSaved();}
 }
