@@ -5,7 +5,7 @@ signOut.addEventListener('click',async()=>{signOut.disabled=true;try{await archi
 const voteSelect=document.querySelector('#vote-album'),voteStatus=document.querySelector('#vote-status');
 voteSelect.insertAdjacentHTML('beforeend',albums.map(a=>`<option value="${esc(a.id)}">${esc(a.artist)} — ${esc(a.title)}</option>`).join(''));
 function renderSignal(data){
-  signOut.hidden=!(data.authenticated&&data.signOutPath);
+  if('authenticated' in data)signOut.hidden=!(data.authenticated&&data.signOutPath);
   listenerVote=data.vote;voteSelect.value=listenerVote||'';
   const total=data.stats.reduce((sum,row)=>sum+row.votes,0);
   document.querySelector('#vote-total').textContent=total;document.querySelector('#playlist-total').textContent=data.playlistCount;
